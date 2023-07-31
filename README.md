@@ -12,6 +12,7 @@
 ![benchmark.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/benchmark.png)
 
 ## 例子
+文科和理科的例子
 ![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/examples.png)
 
 ## 学科分布比例以及数学学科一级知识点分布比例
@@ -19,4 +20,5 @@
 ![stat.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/stat.png)
 
 ## 主流模型上的测试结果
+我们对主流9个模型进行了测试，其中✳代表结果即将更新
 ![res.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/result.png)
