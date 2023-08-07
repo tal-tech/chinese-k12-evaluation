@@ -20,3 +20,4 @@
 ### 生物
 ![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp4.png)
 
+评测集即将开放。
