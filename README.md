@@ -12,8 +12,8 @@
 
 ## 例子
 文科和理科的例子
-![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/examples.png)
+###生物
+![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp4.png)
+###政治
+![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp5.png)
 
-## 学科分布比例以及数学学科一级知识点分布比例
-我们列出了每个学科题目的占比，以及每个一级知识点的题目占比。并且单独列出来数学学科的一级知识点以及二级知识点的占比
-![stat.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/stat.png)
