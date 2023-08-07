@@ -5,15 +5,18 @@
 该评测集包括500+个一级知识点和1900+个二级知识点，基本涵盖了K12教育领域的全面知识。
 本次评估的主要目的是全面评估LLM在中文语境下的高级理解能力和推理能力。
 我们的评估包括九个学科、五个不同的问题类型，共有41k个问题。
-对于单选和多选我们打乱了选项，并进行了添加干扰项的特殊操作，以进一步评估LLM的知识利用和推理能力。
-我们使用了四种不同的测试模式来测试当前主流的LLM（zero-shot、few-shot、 zero-shot-cot、 few-shot-cot）。
-我们希望这个评测集可以帮助评估LLM在知识点上的优势和不足，从而促进其在中文语境下的发展。
+我们使用了四种不同的测试模式来测试当前主流的LLM（zero-shot、few-shot、 zero-shot-cot、 few-shot-cot）。并对数学的cot结果进行了推理步骤的评测。
+
+## 知识图谱举例：初中化学知识点结构
+![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp5.png)
 
 
 ## 例子
-文科和理科的例子
-###生物
-![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp4.png)
-###政治
+
+文科和理科的题目例子
+### 政治
 ![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp5.png)
+
+### 生物
+![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp4.png)
 
