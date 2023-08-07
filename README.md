@@ -8,7 +8,7 @@
 我们使用了四种不同的测试模式来测试当前主流的LLM（zero-shot、few-shot、 zero-shot-cot、 few-shot-cot）。并对数学的cot结果进行了推理步骤的评测。
 
 ## 知识图谱举例：初中化学知识点结构
-![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp5.png)
+![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/che.png)
 
 
 ## 例子
