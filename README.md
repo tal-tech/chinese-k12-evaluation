@@ -1,4 +1,5 @@
-# chinese-k12-evaluation
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/title.png)
+
 ## 中文k12领域大模型评测集
 
 我们利用了k12教育领域知识图谱构建了一个LLM的评估基准。
@@ -7,17 +8,26 @@
 我们的评估包括九个学科、五个不同的问题类型，共有41k个问题。
 我们使用了四种不同的测试模式来测试当前主流的LLM（zero-shot、few-shot、 zero-shot-cot、 few-shot-cot）。并对数学的cot结果进行了推理步骤的评测。
 
+
+## Overview
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/overview.png)
+
+## Leaderboard
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/result.png)
+
+
+
 ## 知识图谱举例：初中化学知识点结构
-![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/che.png)
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/che.png)
 
 
 ## 例子
 
 文科和理科的题目例子
 ### 政治
-![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp5.png)
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/exp5.png)
 
 ### 生物
-![example.jpg](https://github.com/youweihao-tal/chinese-k12-evaluation/blob/main/images/exp4.png)
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/exp4.png)
 
 评测集即将开放。
