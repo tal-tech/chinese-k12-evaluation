@@ -19,6 +19,29 @@
 single，multi， filling， juding， sorting分别代表单选，多选，填空，判断，排序；single*代表选项被打乱，single**代表增加了10个干扰选项
 ![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/result.png)
 
+
+## run testing
+
+### 环境依赖：
+
+torch 2.0.1
+
+transformers 4.33.3
+
+vllm 0.1.3
+
+### huggingface inference
+
+`bash code/release_code_aaai_ck12/inference_hf.sh`
+
+### vllm inference
+
+`bash code/release_code_aaai_ck12/inference_vllm.sh`
+
+### get metric
+
+`python code/release_code_aaai_ck12/metric.py`
+
 ## 数学推理子集步骤准确性评估
 ![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/math_results.png)
 
