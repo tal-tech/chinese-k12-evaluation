@@ -30,13 +30,20 @@ transformers 4.33.3
 
 vllm 0.1.3
 
+
 ### huggingface inference
 
-`bash code/release_code_aaai_ck12/inference_hf.sh`
+原始数据是 data/original_data 
+
+打乱选项的数据是 data/shuffle_options
+
+增加干扰选项的数据是 data/adding_10_distractor_options
+
+`bash code/release_code_aaai_ck12/inference_hf.sh data/original_data sava_name`
 
 ### vllm inference
 
-`bash code/release_code_aaai_ck12/inference_vllm.sh`
+`bash code/release_code_aaai_ck12/inference_vllm.sh data/original_data sava_name`
 
 ### get metric
 
