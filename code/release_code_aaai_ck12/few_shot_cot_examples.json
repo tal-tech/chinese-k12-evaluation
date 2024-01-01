@@ -1,0 +1,1678 @@
+{
+    "英语": {
+        "排序": [
+            {
+                "id": "4c1101e8dc744527a9cb611cff1bddaa",
+                "prompt": "At the beginning of 2009 Li Guilin and his wife Lu Jianfen were honored （授予……荣誉） as \"People Who Moved China in 2008\" in this yearly event. This event was started by CCTV in 2002.\nA.A year later, as the number of students increased, Li Guilin began to look for a new teacher. When the summer holiday was over, he couldn't find one yet. So he persuaded （劝服） his wife Lu Jianfen to join him.\n B.The children have to climb five wooden ladders to reach the school of Erping. They spend the week there before returning home for the weekend. \"Walking on the wooden ladders is really dangerous.You can just put half of your foot in the narrowest place. Behind the ladders is the deep valley.\"\n C.Till now, they have been teaching in the village for more than 18 years. Over the past years, they have taught 149 students, 22 of them were from the schools of other areas because of the two kind teachers.\n D.Li, 42, and Lu, 41, were born in Han families and grew up in Ya' an City. In 1990,Li visited Erping Village （二坪村） in Liangshan of Sichuan Province, he was surprised at how backward （落后） it was. People there lived a rather poor life. The children seldom went out of the village. Li decided to teach in that village at once.\n E.\"I'm the son of farmers,\" says Li, \"I know that education is the best way for a poor mountain area to change.\" The couple （夫妇） will go on working at this school to help more children walk out of the mountains into happy and bright futures.\n",
+                "answer": "DABCE",
+                "analysis": "此篇文章是介绍人物事迹的，故D应为第一段，总体介绍人物情况，根据D的内容，主人公应为2人，D只介绍了Li,因此紧接着应为A,引出另外主人公Lu,再然教学就应该提到孩子情况，故B,之后是C，介绍两人到目前为止的成绩，最后引用Li的话，结束全文，故E在最后。\n"
+            },
+            {
+                "id": "3a588500105b4e508d021719da681f3e",
+                "prompt": "仔细阅读以下句子，请按对话正确顺序，将五个句子排序，其中首句已给出。\n\nHey, Amy. What did you do last weekend? \nA.OK! Let's go there by bus. It's faster than walking.\n B.Oh, I'm sorry. I hope you feel better now.\n C.I stayed in bed for two days. I had a bad cold.\n D.Thanks, I'm fine. Now do you want to go to the bookstore with me? \n E.I went boating and rode a horse. What about you? \n",
+                "answer": "ECBDA",
+                "analysis": "本题考查情景对话。根据给出的第一句话 \"What did you do last weekend? \" 可知，下一句应该是要回答上周末做的事情，因此在EC中选择。根据E中的 \"What about you? \" 可知，下一句也是在回答上周末做的事情，综上，故前两句E在C前。根据C中的 \" I had a bad cold.\" 可知，在生活实际中，当听到不好的事情时，回答I'm sorry, 故下一句为B。剩下的选项D中有一个问句 \" Now do you want to go to the bookstore with me? \" ，A中的Ok进行了回答，故本题顺序为ECBDA。\n"
+            },
+            {
+                "id": "1ad9cc6a4de849dd88a8680f78215656",
+                "prompt": "将下列句子按正确顺序排列。\n\n第一句已给出：\n\nGood morning ! I'm Mingming.\n\n $$\\underline{}$$ \n\n $$\\underline{}$$ \n\n $$\\underline{}$$ \n\n $$\\underline{}$$ \n\n $$\\underline{}$$ \nA.Nice to meet you, too.\n B.Yes, I am.\n C.Good morning!\n D.Are you Lin Tao? \n E.Nice to meet you.\n",
+                "answer": "CDBEA",
+                "analysis": "1. 句意：—早上好，我是明明。—早上好。根据上面的第一句话可知，这里是在互相问候早上好，回答的时候还是Good morning, 故选C。\n\n2. 句意：—你是林涛吗？—是的，我是。根据下面的选项可知，这里应该是先问对方是谁，然后再表示见到你很高兴，故这里我们应填一个问句。Are you Lin Tao这是一个一般疑问句，故选D。\n\n3. 句意：—你是林涛吗？—是的，我是。根据下面的选项可知，这里应该是先问对方是谁，然后再表示见到你很高兴，上一个空我们填了一个问句Are you Lin Tao, 这是一个一般疑问句，故用Yes来回答，故选B。\n\n4. 句意：—见到你很高兴。—见到你也很高兴。两个朋友现在已经认识了，所以他们应表示认识对方很高兴，故选E。\n\n5. 句意：—见到你很高兴。—见到你也很高兴。两个朋友现在已经认识了，并且他们表示认识对方很高兴，回答Nice to meet you的时候，应该说Nice to meet you, too. 故选A。\n"
+            },
+            {
+                "id": "b121cbea600c42d68ef89eb34add5533",
+                "prompt": "Hi, my name is Kate Brown. I'm 10 years old. I live with my parents and my sister, Hannah, in London. This is a day in my life.\n\n8:00 a.m. I have my breakfast. Then I walk to school with my sister.\n\n9:00 a.m. School starts. We have a math lesson first. English is the next class.\n\n12:15 p.m. We have an hour for lunch. We usually have a hamburger, fruit, salad and sometimes ice-cream. After lunch, I like to play football with my friends.\n\n1:30 p.m. School starts. We have two classes in the afternoon.\n\n3:30 p.m. School finishes! Hannah and I walk home.\n\n5:00 p.m. It's time for dinner. I like chicken best.\n\n6:10 p.m. I walk to the swimming club with my sister and Mom or Dad. We usually go there three times a week.\n\n7:30 p.m. To 8:00 p.m. I do my homework.\n\n9:00 p.m. Mom comes into my room and tells me stories, and then I go to bed.\n\n按时间顺序给下列活动排序.\nA.Do my homework.\n B.Have an English class.\n C.Play football.\n D.Go to the swimming club.\n E.Have dinner.\n",
+                "answer": "BCEDA",
+                "analysis": "凯特·布朗和父母、妹妹汉娜一起住在伦敦。本文展示根据时间顺序，结合描述排序如下：\n\n由第三段描述可知上午九点上课，英语是第二节课；由第四段描述可知，在下午十二点十五分吃午饭，午饭时间是一个小时。午饭后凯特和朋友一起踢足球；由第七段描述可知，下午5点是晚饭时间；由第八段描述可知，下午六点十分，凯特和妹妹、爸爸或妈妈去游泳俱乐部；由第九段描述可知，凯特在晚上七点半到八点做作业。由此可知活动的时间顺序为BCEDA。\n"
+            }
+        ],
+        "填空": [
+            {
+                "id": "514539fde64347c0a30c91e2b46006be",
+                "prompt": "For one week, she didn't do any housework and $$\\underline{}$$ （也不） did I.\n",
+                "answer": "neither",
+                "analysis": "考查单词拼写。句意：她一周都没有写任何作业，我也没有写。 \" 也不 \" 对应英文为neither。故答案为neither。\n"
+            },
+            {
+                "id": "0970012d1f714267add8f9a168f81237",
+                "prompt": "I want to find a $$\\underline{}$$ （搭档）to practice speaking English with.\n",
+                "answer": "partner",
+                "analysis": "句意：我想找一个搭档来练习说英语。根据a判断应填可数名词单数，故填partner。\n"
+            },
+            {
+                "id": "209931a37d894a7f863a5bee2fadd8a7",
+                "prompt": "A $$\\underline{}$$ （确实的）friend is a person who reaches for your hand and touches your heart.\n",
+                "answer": "true",
+                "analysis": "考查形容词的含义及拼写。根据汉语提示，可知为true 确实的。句意：真正的朋友是伸手握住你并触及你内心的人。故答案为：true。\n"
+            },
+            {
+                "id": "63e19ae9caaa495890cdc57c177ff90d",
+                "prompt": "She decides to go to college $$\\underline{}$$ （然而）her twin sister plans to work after leaving high school.\n",
+                "answer": "while",
+                "analysis": "\n根据句子结构可知，该空应填连词，表示两者对比，考查while，在这里的意为 \"然而\" 。句意：她决定去上大学，然而她的双胞胎妹妹计划高中毕业后工作。故答案为while。\n"
+            },
+            {
+                "id": "78250e47d3464380aa5164cd0cc1dda0",
+                "prompt": "When I stood on the top of the mountain, I saw so many buildings $$\\underline{}$$ （在……下面）.\n",
+                "answer": "below",
+                "analysis": "考查方位副词。句意：当我站在山顶时，我看到很多建筑在下面。根据提示可知所缺单词的意思。under和below均有 \"在……下面\" 的意思，under 主要表示垂直在下的正下方，而 below 则不一定表示正下方（即可以是正下方或非正下方）。故答案为：below。\n"
+            },
+            {
+                "id": "9ec43426a4f043ec83f78b22cee2b58e",
+                "prompt": "—What is the $$\\underline{}$$ of 'heavy'? \n\n—\"Light\".\n",
+                "answer": "opposite",
+                "analysis": "考查词义和拼写。句意：— \"重\" 的反义词是什么？— \"轻。\" opposite，n，反义词。故答案为：opposite。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "293cbb64521941e7874c68e66497def2",
+                "prompt": ".…I had a good time during the last National Day holiday. My classmates and I went to the Great Wall. We took a bus there in the early morning. I was very excited because I had never been there. On our way to the Great Wall, we saw lots of new buildings, nice views and lots of visitors. We think that Beijing is changing a lot. It is becoming more and more beautiful. It $$\\underline{}$$ us about two hours and a half to get to the Great Wall.\nA.took\n B.cost\n C.spent\n D.paid\n",
+                "answer": "A",
+                "analysis": "考查固定句式。It takes/took sb.+时间段+to do sth. 意为 \"做某事花了某人……时间\" 。文章介绍的是去年国庆节期间的情况，因此应用一般过去时，take的过去式为took，故选A。\n"
+            },
+            {
+                "id": "7848c4466ada479e849d0224fa3d303c",
+                "prompt": "I think $$\\underline{}$$ of the materials I listen to at the beginning of the exam $$\\underline{}$$ easy.\nA.two thirds; is\n B.second three; are\n C.two thirds; are\n D.two third; are\n",
+                "answer": "C",
+                "analysis": "考查分数的表达。分数的构成：基数词+序数词，当分子大于一时，分母用复数，作主语时，根据后接的名词的单复数来决定谓语动词的单复数。本题分数后接的是可数名词复数形式。故选C。\n"
+            },
+            {
+                "id": "c40766f73ade4caea27b596072bb5e8a",
+                "prompt": "There $$\\underline{        }$$ a birthday party for the teacher tomorrow.\nA.have\n B.are having\n C.had\n D.is going to be\n",
+                "answer": "D",
+                "analysis": "句意：明天将为老师举行生日聚会。考查there be 句型。结合There可知，此处是there be结构，不能与have混用，排除A/B/C选项，句中的时间是 \"tomorrow\" ，句子应用一般将来时，故选D。\n"
+            },
+            {
+                "id": "0e0a82d5a31f474684c38d7ddd5b402c",
+                "prompt": "—My computer is too slow to have online classes. I can't stand it!\n\n—Take it easy! Even an old computer is better than $$\\underline{}$$.\nA.nothing\n B.neither\n C.no one\n D.none\n",
+                "answer": "D",
+                "analysis": "考查不定代词。句意：——我的电脑太慢了，不能上在线课。我受不了了！——放心吧！即使是一台旧电脑也比没有强。nothing没有什么；neither两者都不；no one没人；none 既可指人又可指物，意为 \"没有任何人或物；一个人也没有\" 。由句意可知所填词意思是什么电脑都没有，符合none的用法。故选D。\n"
+            },
+            {
+                "id": "32bc5e90a0b44671a34d69882e70f84f",
+                "prompt": "— $$\\underline{}$$ ! A giraffe only has 7 bones in its long neck.\n\n—Really? Amazing!\nA.Believe it or not\n B.I don't think so\n C.I'm sure\n D.You don't know\n",
+                "answer": "A",
+                "analysis": "考查交际用语。句意：—信不信由你！长颈鹿的长颈只有7根骨头。—真的吗？太神奇了！A信不信由你，B我不认为这样，C我确定，D你不知道。根据语境答案为A 。\n"
+            },
+            {
+                "id": "a000ffa3d6824d249972bc4fba380536",
+                "prompt": "— Hurry up! There's a bus coming.\n\n— Take it easy! There will be $$\\underline{}$$ one just in five minutes.\nA.other B.the other C.another D.any other",
+                "answer": "C",
+                "analysis": "考查代词。句意： \"快点，有一辆公交来了\" ， \"别紧张，五分钟之后会来另一辆\" ，another 指三者及三者以上的一个.故答案选C。\n"
+            },
+            {
+                "id": "518932d34803402d9d7eb7d894067525",
+                "prompt": "There is more space in the high-speed train and the journey becomes more $$\\underline{}$$ .\nA.serious\n B.boring\n C.dangerous\n D.comfortable\n",
+                "answer": "D",
+                "analysis": "考查形容词辨析。serious严肃的，严重的；boring无聊的，令人厌烦的；dangerous危险的；comfortable舒适的，舒服的。句意：高铁的空间更大，旅程也更舒适。根据more space可知，comfortable符合语境，故答案为：D。\n"
+            },
+            {
+                "id": "55bd278ad5d840bfb136b7174786ccef",
+                "prompt": "In many countries, Father's Day is celebrated  $$\\underline{}$$  the third Sunday  $$\\underline{}$$  June.\nA.in, on\n B.on, in\n C.in, in\n D.on, on\n",
+                "answer": "B",
+                "analysis": "句意：在许多国家，父亲节是在六月的第三个星期天。\n考查时间介词。1.在较长的时间里用介词in，例如，在某年/月/季节/在某世纪/在某年代或特定世纪某年代/在早上、下午、晚上等（in 1967/in May/in winter/in the eighteenth century/in 1970s'/in the morning）。2.“在具体的某一天”或“（在具体的某一天的）早上、中午、晚上”等使用介词on。例如，on May 10th，on a rainy morning，on Saturday morning，on Teachers' Day。“第三个星期天”是具体某一天，可知使用介词on，在“六月”使用介词in。故选B。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "bd3670e55943415287ec59c6937a5e54",
+                "prompt": "判断正误。根据所给中文句子，判断英语表述是否正确。正确的选择回答正确，错误的选择回答错误。\n1.出门记得戴口罩。Remember wear mask when you out.\n",
+                "answer": "F",
+                "analysis": "考查汉译英。记得做某事：remember to do sth.，戴口罩：wear a mask，因此本项错误，故答案为：F。\n"
+            },
+            {
+                "id": "f934074b1b7e4719a24180d561535068",
+                "prompt": "判断下列句子中划线部分发音是否相同。\n1.There are th$$\\underline{}$$ty g$$\\underline{}$$ls in our classroom.\n",
+                "answer": "T",
+                "analysis": "考查字母组合ir在单词中读音。 th$$\\underline{}$$ty和 g$$\\underline{}$$ls中的字母组合ir都发[ə:]，故答案是：相同。\n"
+            },
+            {
+                "id": "580f665ee0964736abc15bb40af82326",
+                "prompt": "判断下列句子中划线部分发音是否相同\n1.The furniture in the cl$$\\underline{}$$ssroom is bl$$\\underline{}$$ck.\n",
+                "answer": "F",
+                "analysis": "考查字母发音。单词cl$$\\underline{}$$ssroom中的a字母发[a:]；单词bl$$\\underline{}$$ck中的a字母发[æ]，故答案是：不同。\n"
+            },
+            {
+                "id": "33e121facc744d8096ca24ef5b07d963",
+                "prompt": "判断正误。根据所给中文句子，判断英语表述是否正确。正确的选择回答正确, 错误的选择回答错误。\n1.中国将克服困难，向意大利提供医疗物资援助。\n\nChina will overcome difficulties and provide Italy with medical supplies.\n",
+                "answer": "T",
+                "analysis": "考查汉译英。克服困难；overcome difficulties；提供某人某物：provide sb with sth；医疗物资：medical supplies，时态为一般将来时，因此本项正确，故答案为：T。\n"
+            },
+            {
+                "id": "d865c031afc04335a7519c23789189af",
+                "prompt": "请判断：\n1.要把立足点放在写物上，即状物是主，言志是次。状物是手段，言志是目的，要为言志而状物。（    ）\n1.要把立足点放在写物上，即状物是主，言志是次。状物是手段，言志是目的，要为言志而状物。（    ）\n",
+                "answer": "F",
+                "analysis": "要把立足点放在言志上，即状物是次，言志是主。状物是手段，言志是目的，要为言志而状物。\n"
+            }
+            
+        ],
+        "多选": [
+            {
+                "id": "27a706a0d9dc4239a13b5a9757ea6627",
+                "prompt": "（多选题）— $$\\underline{}$$?\n\n—It's 25 yuan.\nA.How much are these socks?\n B.How much is this pair of socks?\n C.What's the price of the sweater?\n D.Do you sell ice-cream?\n",
+                "answer": "BC",
+                "analysis": "考查价格。句意：—这双袜子多少钱？这件毛衣多少钱？—25元。根据答语“It's 25 yuan.”可知上文是对价格进行提问；提问价格的句型为：How much is +可数名词单数/不可数名词？答语：It's+价格；How much are+可数名词的复数？答语：They are+价格；What's the price of…？，答语：It's+价格。结合选项，可知B、C选项均符合题意。故选B、C。\n"
+            },
+            {
+                "id": "12c1ae4f3cb34e76ad32bcb1a4184b32",
+                "prompt": "（多选题）Last weekend, we went to the countryside. We milked cows, rode horses, and fed chickens. We $$\\underline{}$$ .\nA.had a good time\n B.enjoyed ourselves\n C.had fun\n D.had a fun\n",
+                "answer": "ABC",
+                "analysis": "考查动词词组。句意：上周末，我们去了乡下。 我们挤牛奶，骑马，喂鸡，我们玩得很开心。have a good time=enjoy oneself=have fun, 均表示 \"玩得高兴\" ，故答案为：A、B、C。\n"
+            },
+            {
+                "id": "216433c406d74bf5b37364ba70a53479",
+                "prompt": "Thanks for your invitation, but I can't go to the party. Because I have to $$\\underline{}$$ my baby at home.\nA.take care of\n B.care for\n C.take after\n D.look after\n",
+                "answer": "ABD",
+                "analysis": "考查动词短语辨析。句意：谢谢你的邀请，但我不能去参加聚会了。因为我必须在家照顾我的孩子。A. take care of照顾；B. care for照顾；C. take after与……相像；D. look after照顾。结合语境，故答案为：ABD。\n"
+            },
+            {
+                "id": "b241cd497d984f7d905092bd00cc0025",
+                "prompt": "Which of the following is RIGHT？\nA.What's your name? ↗\n B.My name is Bob.↘\n C.How old are you? ↗\n D.I'm twelve years old.↗\n",
+                "answer": "B",
+                "analysis": "考查语调。英语口语中，陈述句和特殊疑问句的语调一般为降调，A、C、D三项错误，B选项符合语法规则。故答案为B。\n"
+            },
+            {
+                "id": "0c404cb1a2bf48d689edbf8d436f0f15",
+                "prompt": "—May I have some $$\\underline{}$$ ? \n\n—Yes. Here you are.\nA.egg\n B.bread\n C.pears\n D.milk\n",
+                "answer": "BCD",
+                "analysis": "本题考查名词的辨析。A.egg \"鸡蛋\" ；B.bread \"面包\" ；C.pears \"梨\" ；D.milk \"牛奶\" 。根据空格前的some修饰可数名词复数或不可数名词，排除A。句意：—我可以吃些面包/吃些梨/喝些牛奶吗？—可以。给你。故答案选：B、C、D。\n"
+            },
+            {
+                "id": "13af5261cb1044dda9994ffc0c0b0683",
+                "prompt": "—How far is it from your home to school? \n\n— $$\\underline{}$$ \nA.Five minutes.\n B.Five kilometers.\n C.Five-minutes ride\n D.Five minutes' drive.\n",
+                "answer": "BD",
+                "analysis": "考查情景交际。句意：—从你家到学校有多远？—五千米/五分钟车程。根据上句可知，本空应当回答距离。A选项是时间，所以排除；C选项中 \"Five-minutes\" 是复合形容词，名词minutes应用单数形式，所以排除。故选：BD。\n"
+            },
+            {
+                "id": "60180d67c3f343bdac44c2ab179fdee3",
+                "prompt": "Which of the following underlined parts is different in pronunciation from others? \nA.It is said a fish h$$\\underline{}$$d is good for the brain.\n B.The w$$\\underline{}$$ther is often changeable in Britain.\n C.When the berries turn blue, they are r$$\\underline{}$$dy to be picked.\n D.Some dinosaurs ate m$$\\underline{}$$t for food.\n",
+                "answer": "D",
+                "analysis": "考查音标。句意：以下哪一个下划线部分在发音上与其他部分不同？A. /e/；B. /e/；C. /e/；D. /iː/。根据划线部分读音可知，D项与其他三项不同。故选：D。\n"
+            },
+            {
+                "id": "fbc79ad52a00446492768a2ba27dddeb",
+                "prompt": "There are about $$\\underline{}$$ books about history in my bookcse. You can read them if you like.\nA.three hundreds of\n B.three hundred\n C.hundred of\n D.hundreds of\n",
+                "answer": "B",
+                "analysis": "考查数词。句意为：我的书柜里大约有300本关于历史的书。如果你喜欢，你可以读。hundred，百，当与具体的数字连用时，需要使用其单数形式，表示实指；当与of连用时，需要使用其复数形式，表示虚指。排除A、C选项；hundreds of 数以百计的，本身表示虚指，前面无需使用about，排除D选项。故选：B。\n"
+            }
+        ]
+    },
+    "数学": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "881dd854cfc6463a8d48ea7eae894ccb",
+                "prompt": "规定“※”为一种新运算，对任意两位数$$a$$，$$b$$有$$a$$※ $$b=\\frac{4a+b}{3}$$，若$$5$$※ $$x=\\frac{22}{3}$$，则$$x=$$ $$\\underline{}$$ ．\n",
+                "answer": "$$2$$",
+                "analysis": "先根据所给定义算法列出方程并解出未知数．\n\n$$\\frac{4\\times 5+x}{3}=\\frac{22}{3}$$，则$$20+x=22$$，$$x=2$$．\n"
+            },
+            {
+                "id": "9e94c2f69adc4a68b7d285cc68b884cf",
+                "prompt": "长方形的长与宽的比是$$7:5$$，如果长减少$$\\frac{1}{7}$$，宽增加$$3$$厘米，就变成一个正方形，则长方形的周长是 $$\\underline{}$$ 厘米．\n",
+                "answer": "$$72$$",
+                "analysis": "$$7\\times \\left( 1-\\frac{1}{7} \\right)=6$$（份）；$$3\\div (6-5)=3({cm})$$，\n\n原长方形长：$$7\\times 3=21({cm})$$，宽：$$5\\times 3=15({cm})$$，\n\n原长方形周长：$$(21+15)\\times 2=72({cm})$$．\n\n故答案为：$$72$$．\n"
+            },
+            {
+                "id": "9f78767bc4b64328a85516ab77859a4c",
+                "prompt": "一个梯形的下底比上底多$$2{cm}$$，高是$$5{cm}$$，面积为$$40{c}{{{m}}^{2}}$$，那么这个梯形的上底长为 $$\\underline{}$$ $${cm}$$．\n",
+                "answer": "$$7$$",
+                "analysis": "设上底为$$x{cm}$$，则下底为$$(x+2){cm}$$，\n\n面积为$$(x+x+2)\\times 5\\times \\frac{1}{2}=40$$，\n\n解得：$$x=7$$，\n\n即上底为$$7{cm}$$．\n"
+            },
+            {
+                "id": "452f6033f6d94d888f4b5b34e8d7b048",
+                "prompt": "某校组织学生乘汽车去自然保护区野营，先以$${60km/h}$$的速度走平路，后又以$${30km/h}$$的速度爬坡，共用了$${6.5h}$$；汽车以$${40km/h}$$的速度下坡，又以$${50km/h}$$的速度走平路，共用了$${6h}$$，平路有 $$\\underline{}$$ $${m}$$，坡路有 $$\\underline{}$$ $${m}$$．(汽车以原路返回)\n",
+                "answer": "$$150$$;$$120$$",
+                "analysis": "平路有$$x$$千米，坡路有$$y$$千米，由题意得：\n\n$$\\begin{cases}\\dfrac{x}{60}+\\dfrac{y}{30}=6.5 \\\\ \\dfrac{x}{50}+\\dfrac{y}{40}=6 \\\\ \\end{cases}$$，解得：$$\\begin{cases}x=150 \\\\ y=120 \\\\ \\end{cases}$$，\n\n答：平路和坡路各有$$150$$米、$$120$$米\n"
+            },
+            {
+                "id": "5be22f53fb66479784ccb69978160ec1",
+                "prompt": "今年$$8$$月$$20$$日，重庆八中学子在第$$37$$届全国青少年信息学奥林匹克竞赛中再创佳绩，斩获一金四银，一学子入选国家集训队．为了解我校信息竞赛同学对其它竞赛科目的兴趣程度，老师对同学们做了一次“我最喜爱的竞赛科目”问卷调查（每位同学都填了调查表，且只选择数学、物理、化学、生物其中一个科目），其中选物理的人数比选生物的少$$8$$人；选数学的人数是选生物人数的整数倍；选生物与数学的人数之和是物理与化学的人数之和的$$5$$倍；选化学与数学的人数之和比选物理与生物的人数之和多$$24$$人，则喜欢数学共有 $$\\underline{}$$ 人．\n",
+                "answer": "$$30$$",
+                "analysis": "设选物理的人数有$$x$$人，选生物的人数有$$\\left(x+8\\right)$$人，选数学的人数有$$a\\left(x+8\\right)$$人，选化学的人数有$$y$$人，\n\n∴根据题意得：$$\\begin {cases}\\left(a+1\\right)\\left(x+8\\right)=5\\left(x+y\\right)①\\\\ a\\left(x+8\\right)+y-x-\\left(x+8\\right)=24②\\end {cases}$$，\n\n②变形为：$$\\left(a-1\\right)\\left(x+8\\right)=24+x-y$$③\n\n①$$+$$③得：$$2a\\left(x+8\\right)=24+6x+4y$$，\n\n即：$$a=\\frac{12+3x+2y}{x+8}$$，\n\n①$$-$$③得：$$3y+x=20$$，\n\n∵$$x$$，$$y$$均为正整数，\n\n∴有$$\\begin {cases}x=17\\\\ y=1\\end {cases}$$或$$\\begin {cases}x=14\\\\ y=2\\end {cases}$$或$$\\begin {cases}x=11\\\\ y=3\\end {cases}$$或$$\\begin {cases}x=8\\\\ y=4\\end {cases}$$或$$\\begin {cases}x=5\\\\ y=5\\end {cases}$$或$$\\begin {cases}x=2\\\\ y=6\\end {cases}$$，\n\n当$$\\begin {cases}x=2\\\\ y=6\\end {cases}$$时，$$a=\\frac{12+3x+2y}{x+8}$$为整数，\n\n∴$$a=\\frac{12+3x+2y}{x+8}=3$$，\n\n∴喜欢数学的有$$a\\left(x+8\\right)=3\\times \\left(2+8\\right)=30$$（人）．\n\n故答案为$$30$$．\n"
+            },
+            {
+                "id": "3c961a248f664aafac0324c85f3fc416",
+                "prompt": "按规律填数：$$1.1$$，$$-2.2$$，$$4.3$$，$$-8.4$$，$$16.5$$， $$\\underline{}$$ ．\n",
+                "answer": "$$-32.6$$",
+                "analysis": "这列数的规律为：从左往右数，偶数位上的数为负，数的整数部分是前一个数整数部分的$$2$$倍，$$16\\times 2=32$$，小数部分是在前一个数小数部分加$$1$$，$$5+1=6$$．\n\n故答案为：$$-32.6$$．\n"
+            },
+            {
+                "id": "95ac7e2e447842938e22a75ccb86084a",
+                "prompt": "已知$${{\\left( 2x-1 \\right)}^{5}}={{a}_{5}}{{x}^{5}}+{{a}_{4}}{{x}^{4}}+{{a}_{3}}{{x}^{3}}+{{a}_{2}}{{x}^{2}}+{{a}_{1}}x+{{a}_{0}}$$，则$${{a}_{2}}+{{a}_{4}}$$的值为 $$\\underline{}$$ ．\n",
+                "answer": "$$-120$$",
+                "analysis": "令$$x=1$$，得$$1={{a}_{5}}+{{a}_{4}}+{{a}_{3}}+{{a}_{2}}+{{a}_{1}}+{{a}_{0}}$$，\n\n令$$x=-1$$，得$$-243=-{{a}_{5}}+{{a}_{4}}-{{a}_{3}}+{{a}_{2}}-{{a}_{1}}+{{a}_{0}}$$，\n\n两式相加，$$-242=2{{a}_{4}}+2{{a}_{2}}+2{{a}_{0}}$$，\n\n解得$${{a}_{0}}+{{a}_{2}}+{{a}_{4}}=-121$$，\n\n令$$x=0$$，得$${{a}_{0}}=-1$$，\n\n故$${{a}_{2}}+{{a}_{4}}=-120$$．\n"
+            },
+            {
+                "id": "72ac5527f33f4cbe80e27070d81368f1",
+                "prompt": "若方程$${{x}^{2}}+x-2019=0$$的一个根是$$a$$，则$${{a}^{2}}+a+1$$的值为 $$\\underline{}$$ ．\n",
+                "answer": "$$2020$$",
+                "analysis": "$${{x}^{2}}+x=2019$$，且$$a$$为方程的一个根，\n\n∴$${{a}^{2}}+a=2019$$，\n\n∴$${{a}^{2}}+a+1=2019+1=2020$$．\n\n"
+            },
+            {
+                "id": "f13c7f3e264040f29647fbd5ae6ec2e3",
+                "prompt": "如果一个正方形的面积是$$3$$，那么它的边长是 $$\\underline{}$$ ．\n",
+                "answer": "$$\\sqrt{3}$$",
+                "analysis": "∵正方形面积为$$3$$，\n\n∴它的边长为$$\\sqrt{3}$$．\n\n故答案为：$$\\sqrt{3}$$．\n"
+            },
+            {
+                "id": "15c9a6f8212f4726873bc8c127680b98",
+                "prompt": "从甲地到乙地，小红步行用了$$16$$分钟，小明步行用了$$20$$分钟，小红和小明步行的速度比为 $$\\underline{}$$ ．\n",
+                "answer": "$$5:4$$",
+                "analysis": "小红的速度：小明的速度$$=\\frac{1}{16}:\\frac{1}{20}=5:4$$，\n\n故答案为：$$5:4$$．\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "3b6fcd5111f142e8963aa2846c351cdd",
+                "prompt": "化简：$${{(-2)}^{20}}+{{(-2)}^{19}}$$的结果是（  ）．\nA.$$2$$ B.$$-2$$ C.$${{2}^{20}}$$ D.$${{2}^{19}}$$",
+                "answer": "D",
+                "analysis": "$${{(-2)}^{20}}+{{(-2)}^{19}}$$\n\n$$={{2}^{20}}-{{2}^{19}}$$\n\n$$=2\\cdot {{2}^{19}}-{{2}^{19}}$$\n\n$$={{2}^{19}}$$．\n"
+            },
+            {
+                "id": "04f3d76d27ee4c90afb164d96c79ad26",
+                "prompt": "如果$$20$$个点将某圆周$$20$$等分，那么顶点只能在这$$20$$个点中选取的正多边形的个数有（    ）．\nA.$$4$$个\n B.$$8$$个\n C.$$12$$个\n D.$$24$$个\n",
+                "answer": "C",
+                "analysis": "$${C}$$：$$12$$个；$$\\frac{20}{4}+\\frac{20}{5}+\\frac{20}{10}+\\frac{20}{20}=12$$．\n\n"
+            },
+            {
+                "id": "2516677bf10440c5a7a0be6c045a4c33",
+                "prompt": "某商店同时卖出两件商品，每件各卖得$$60$$元，但其中一件赚了$$20\\%$$，另一件赔了$$20\\%$$，则这个商店卖出这两件商品是（   ）．\nA.不赚不赔\n B.赚$$5$$元\n C.赔$$5$$元\n D.赔$$10$$元\n",
+                "answer": "C",
+                "analysis": "先用售价$$\\div $$（$$1+$$利润率）$$=$$成本，售价$$\\div $$（$$1-$$利润率）$$=$$成本，再用总成本与总售价比较并计算．\n\n总成本：$$60\\div (1+20\\%)+60\\div (1-20\\%)=125$$（元），\n\n总售价：$$60\\times 2=120$$（元），$$120$$元$$<{}125$$元，\n\n则赔：$$125-120=5$$（元），\n\n故选$${C}$$．\n"
+            },
+            {
+                "id": "84128b905899449cb7428d4f5ff43f11",
+                "prompt": "小希上学期期末考试语文$$87$$分，数学比语文、数学两科的平均分高$$5$$分，则数学的分数是（   ）．\nA.$$95$$\n B.$$96$$\n C.$$97$$\n D.$$98$$\n",
+                "answer": "C",
+                "analysis": "平均分：$$87+5=92$$（分），数学：$$92+5=97$$（分）．\n\n故选$${C}$$．\n"
+            },
+            {
+                "id": "7d7414c44ab446e189619f361a8777dd",
+                "prompt": "已知⊙$$O$$的半径是$$3$$，点$$P$$在圆内，则线段$$OP$$的长可能是（   ）．\nA.$$2$$\n B.$$3$$\n C.$$4$$\n D.$$5$$\n",
+                "answer": "A",
+                "analysis": "∵⊙$$O$$的半径是$$3$$，点$$P$$在圆内，\n\n∴$$OP$$的长$$<{}3$$．\n\n"
+            },
+            {
+                "id": "185fe85927f447db906d257fbe6a2f73",
+                "prompt": "如果直角三角形的面积一定，那么下列关于这个直角三角形边的关系中，正确的是（  ）．\nA.两条直角边成正比例\n B.两条直角边成反比例 C.一条直角边与斜边成正比例\n D.一条直角边与斜边成反比例",
+                "answer": "B",
+                "analysis": "设该直角三角形的两直角边是$$a$$，$$b$$，面积为$$S$$，\n\n则$$S=\\frac{1}{2}ab$$，\n\n∵$$S$$为定值，\n\n∴$$ab=2S$$是定值，\n\n则$$a$$与$$b$$成反比例关系，即两条直角边成反比例．\n\n故选：$${B}$$．\n"
+            },
+            {
+                "id": "db7f887abc5a48169f01a5383a58d3bf",
+                "prompt": "李老师去年看了一套$$180$$万的房子没有买，今年房价有所回落，比去年降低了$$20 \\% $$，李老师今年买这套房需要花多少钱？列式（   ）．\nA.$$180\\times 20\\%$$\n B.$$180\\div 20\\%$$\n C.$$180\\times \\left( 1-20\\% \\right)$$\n D.$$180\\div \\left( 1-20\\% \\right)$$\n",
+                "answer": "C",
+                "analysis": "由题意列式为：$$180\\times \\left( 1-20\\% \\right)$$．\n\n故选$${C}$$．\n"
+            },
+            {
+                "id": "3286a85327384e59a3b1c98557dd8e92",
+                "prompt": "在自然数中，下列说法正确的是(  ).\nA.$$1$$是最小的素数\n B.$$2$$是最小的合数\n C.$$1$$是最小的自然数\n D.$$1$$既不是素数也不是合数\n",
+                "answer": "D",
+                "analysis": "最小的素数是$$2$$，$$A$$错；\n\n$$4$$是最小的合数，$$B$$错；\n\n$$0$$是最小的自然数，$$C$$错；\n\n$$1$$既不是素数也不是合数，正确，\n"
+            },
+            {
+                "id": "5de85f67e44e42c1b8b5df4835bea5ef",
+                "prompt": "设实数$$a$$，$$b$$，$$c$$满足：$$a+b+c=3$$，$${{a}^{2}}+{{b}^{2}}+{{c}^{2}}=4$$，则$$\\frac{{{a}^{2}}+{{b}^{2}}}{2-c}+\\frac{{{b}^{2}}+{{c}^{2}}}{2-a}+\\frac{{{c}^{2}}+{{a}^{2}}}{2-b}=$$（  ）．\nA.$$12$$ B.$$9$$ C.$$6$$ D.$$3$$",
+                "answer": "B",
+                "analysis": "∵$$a+b+c=3$$，$${{a}^{2}}+{{b}^{2}}+{{c}^{2}}=4$$，\n\n∴$$\\frac{{{a}^{2}}+{{b}^{2}}}{2-c}+\\frac{{{b}^{2}}+{{c}^{2}}}{2-a}+\\frac{{{c}^{2}}+{{a}^{2}}}{2-b}$$\n\n$$=\\frac{4-{{c}^{2}}}{2-c}+\\frac{4-{{a}^{2}}}{2-a}+\\frac{4-{{b}^{2}}}{2-b}$$\n\n$$=2+c+2+a+2+b$$\n\n$$=a+b+c+6$$\n\n$$=3+6$$\n\n$$=9$$．\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "940b93245b2f45d7ad872da4c3976351",
+                "prompt": "判断：\n1.若$$ab<{}c$$，则$$a<{}\\frac{c}{b}$$．\n 2.若$$a-b>-b$$，则$$a>0$$．\n 3.若$$a-b>a$$，则$$b>0$$．\n 4.若$$ab>0$$，则$$a>0$$，$$b>0$$．\n",
+                "answer": "FTFF",
+                "analysis": "$$1$$．$$\\times $$．题变形前到变形后是把原不等式两边都除以$$b$$．\n\n当$$b>0$$时，不等号方向不变，即$$a<{}\\frac{c}{b}$$；\n\n当$$b<{}0$$时，不等号方向改变，即$$a>\\frac{c}{b}$$．\n\n而题中未说明$$b$$的正负，所以此结论错误．\n\n$$2$$．$$\\surd $$．题的变形符合不等式的基本性质$$1$$，结论正确．\n\n$$3$$．$$\\times $$．题由$$a-b>a$$，根据不等式的基本性质$$1$$可得$$-b>0$$，\n\n再根据不等式的基本性质$$3$$得$$b<{}0$$，所以此结论错误．\n\n$$4$$．$$\\times $$．题中$$ab>0$$，由不等式的基本性质$$3$$得：若$$a>0$$，则$$b>0$$；\n\n若$$a<{}0$$，则$$b<{}0$$，而题中仅有$$a>0$$，$$b>0$$，所以此结论错误．\n"
+            },
+            {
+                "id": "bc94f6dfcf514bd3acb0ce5929a170e0",
+                "prompt": "判断\n1.正方形的面积和边长成正比例．（   ）\n",
+                "answer": "F",
+                "analysis": "从题中可以得到关系式：正方形的面积：\n\n边长$$\\times $$边长，\n\n可以看出，正方形的面积会随着边长的变化发生变化，但是它的另一个边长也会发生变化．这样，三个量都是变化的，不符合正比例的意义．所以正方形的面积和边长不成正比例．\n\n故答案为：$$\\times $$．\n\n"
+            },
+            {
+                "id": "ec87d90048024ce98e95d870a5aa66af",
+                "prompt": "判断．\n1.一批零件，甲单独做$$\\frac{1}{2}$$小时完成，乙单独做$$\\frac{1}{3}$$小时完成，则两人合做$$\\frac{5}{6}$$小时完成．（   ）\n",
+                "answer": "F",
+                "analysis": "$$1\\div \\frac{1}{2}=2$$，\n\n$$1\\div \\frac{1}{3}=3$$，\n\n$$1\\div \\left( 2+3 \\right)=\\frac{1}{5}$$ （小时）．\n\n所以是错的．\n"
+            },
+            {
+                "id": "7c2efe2fa8254876beb71cfd5efe19db",
+                "prompt": "判断．\n1.$$a$$与$$b$$成正比例关系的式子是$$a=kb(k\\ne 0)$$．（   ）\n",
+                "answer": "T",
+                "analysis": "$$a$$与$$b$$成正比例关系的式子是$$a=kb(k\\ne 0)$$说法是正确的．\n"
+            }
+        ],
+        "多选": [
+            {
+                "id": "cf59ef6fbb49472d915d893067212815",
+                "prompt": "在演讲比赛活动中，$$7$$位评委分别给出某位选手的原始评分．评定该选手成绩时，从$$7$$个原始评分中去掉一个最高分和一个最低分，得到$$5$$个有效评分．$$5$$个有效评分与$$7$$个原始评分相比，这两组数据可能变化的是（   ）．\nA.中位数\n B.众数\n C.平均数\n D.方差\n",
+                "answer": "BCD",
+                "analysis": "七个数从小到大排列处在中间位置的数，与将排序后的七个数去掉一个最大值和一个最小值而剩下的$$5$$个数中间位置的数是同一个数，\n\n因此中位数不可能改变，所以可能变化的是众数、平均数、方差．\n\n故选：$${BCD}$$．\n"
+            },
+            {
+                "id": "0fb67d968aaf4bdcb003953c54114239",
+                "prompt": "已知$$\\triangle ABC$$与$$\\triangle {{A}_{1}}{{B}_{1}}{{C}_{1}}$$相似，且相似比为$$3:2$$，则$$\\triangle ABC$$与$$\\triangle {{A}_{1}}{{B}_{1}}{{C}_{1}}$$的面积比为（   ）．\nA.$$1:1$$\n B.$$3:2$$\n C.$$6:2$$\n D.$$9:4$$\n",
+                "answer": "D",
+                "analysis": "∵$$\\triangle ABC$$与$$\\triangle {{A}_{1}}{{B}_{1}}{{C}_{1}}$$相似，且相似比为$$3:2$$，\n\n∴$$\\triangle ABC$$与$$\\triangle {{A}_{1}}{{B}_{1}}{{C}_{1}}$$的面积比$$=9:4$$．\n\n故选$${D}$$．\n"
+            },
+            {
+                "id": "9d2955b6add14039bbe9ce48929cba9d",
+                "prompt": "若关于$$x$$的分式方程$$\\frac{x-3}{x-1}-\\frac{a}{1-x}=2$$的解为非负数，且关于$$y$$的不等式组$$\\begin{cases}\\dfrac{y}{4}-\\dfrac{7}{12}\\leqslant \\dfrac{y}{3}-1 \\\\ \\dfrac{y+a}{2}<{}y \\\\ \\end{cases}$$的解集为$$y\\geqslant 5$$，则满足条件的所有整数$$a$$的值可能为（   ）．\nA.$$1$$\n B.$$2$$\n C.$$3$$\n D.$$5$$\n",
+                "answer": "AC",
+                "analysis": "∵分式方程$$\\frac{x-3}{x-1}-\\frac{a}{1-x}=2$$，\n\n∴$$x-3+a=2x-2$$，\n\n$$-x=3-2-a$$，\n\n$$x=a-1$$，\n\n∵分式方程的解为非负数，\n\n∴$$a-1\\geqslant 0$$且$$a-1\\ne 1$$，\n\n解得：$$a\\geqslant 1$$且$$a\\ne 2$$，\n\n又∵不等式组$$\\begin{cases}\\dfrac{y}{4}-\\dfrac{7}{12}\\leqslant \\dfrac{y}{3}-1 ①\\\\ \\dfrac{y+a}{2}<{}y ②\\\\ \\end{cases}$$，\n\n∴由①可得：$$3y-7\\leqslant 4y-12$$，\n\n$$-y\\leqslant -5$$，\n\n$$y\\geqslant 5$$，\n\n由②可得：$$y+a<{}2y$$，\n\n$$y>a$$，\n\n∵不等式组的解集为$$y\\geqslant 5$$，\n\n∴$$a<{}5$$，\n\n∴满足条件的$$a$$的范围为：$$1\\leqslant a<{}5$$且$$a\\ne 2$$，\n\n∴$$a$$的值可能为：$$1$$或$$3$$．\n\n故选$${AC}$$．\n"
+            },
+            {
+                "id": "4b6cda6ba0304b49b52ff9759d6948aa",
+                "prompt": "若关于$$x$$的方程$$x+2n=3m$$，则下列说法中正确的是（   ）．\n\n①若$$m=0$$，$$n=1$$，则方程的解为$$x=-2$$；\n\n②若$$m=1$$，$$x$$是$$1$$的平方根，则$$n=1$$；\n\n③若方程与$$x+2m=n$$的解相同，则$$n=\\frac{3}{5}m$$；\n\n④若方程的解为$$x=5$$，则关于$$y$$的方程$$-y+4n=6m$$的解为$$y=-10$$．\nA.①\n B.②\n C.③\n D.④\n",
+                "answer": "AD",
+                "analysis": "①当$$m=0$$，$$n=1$$时，原方程变为：$$x+2=0$$，解得：$$x=-2$$，故①正确；\n\n②∵$$x$$是$$1$$的平方根，\n\n∴$$x=\\pm 1$$．\n\n当$$m=1$$，$$x=1$$时，方程变为$$1+2n=3$$，解得：$$n=1$$．\n\n当$$m=1$$，$$x=-1$$时，方程变为$$-1+2n=3$$，解得：$$n=2$$，故②错误；\n\n③方程$$x+2n=3m$$的解为$$x=3m-2n$$，方程$$x+2m=3n$$的解为$$x=3n-2m$$．\n\n∵它们的解相同，\n\n∴$$3m-2n=3n-2m$$，解得：$$m=n$$，故③错误；\n\n④∵方程的解为$$x=5$$，\n\n∴$$5+2n=3m$$，\n\n∴$$3m-2n=5$$．\n\n方程$$-y+4n=6m$$的解为：$$y=4n-6m=-2\\left( 3m-2n \\right)=-10$$，故④正确．\n"
+            },
+            {
+                "id": "6a0f0ebcc93f41869e742ce531264716",
+                "prompt": "化简$$\\sqrt{{{(x-2)}^{2}}}-\\sqrt{{{x}^{2}}-6x+9}$$的结果可能是（   ）．\nA.$$1$$\n B.$$0$$\n C.$$2x-5$$\n D.$$-1$$\n",
+                "answer": "ACD",
+                "analysis": "$$~~~~\\sqrt{{{(x-2)}^{2}}}-\\sqrt{{{x}^{2}}-6x+9}$$\n\n$$=\\sqrt{{{(x-2)}^{2}}}-\\sqrt{{{(x-3)}^{2}}}$$\n\n$$=|x-2|-|x-3|$$，\n\n当$$x\\leqslant 2$$时，原式$$=2-x-(3-x)=-1$$，\n\n当$$2<{}x\\leqslant 3$$时，原式$$=x-2-(3-x)=2x-5$$，\n\n当$$x>3$$时，原式$$=x-2-(x-3)=1$$，\n\n综上，原式的值可能是$$1$$，$$2x-5$$，$$-1$$．\n\n故选$${ACD}$$．\n"
+            },
+            {
+                "id": "f85d96e9f2b64904a33671bbd950a9d4",
+                "prompt": "对于任意的三个非$$0$$整数两两相加，则下列选项中错误的是（   ）．\nA.它们的和是偶数的可能性小\n B.它们的和是奇数的可能性小\n C.其中必有两数的和是奇数\n D.其中必有两数的和是偶数\n",
+                "answer": "AC",
+                "analysis": "三个整数出现的奇偶情况如下：$$3$$奇，$$2$$奇$$1$$偶，$$1$$奇$$2$$偶，$$3$$偶四种：\n\n①$$3$$奇情况，和都为偶数：偶，偶，偶；\n\n②$$2$$奇$$1$$偶情况，和可能取值：奇，奇，偶；\n\n③$$1$$奇$$2$$偶情况，和可能取值：奇，奇，偶；\n\n④$$3$$偶情况，和都为偶数：偶，偶，偶，它们的和为偶数可能性大．\n\n故$${A}$$错误，故$${B}$$正确；\n\n从这$$4$$种情况中可看到，必有偶数出现．\n\n故$${C}$$错误，故$${D}$$正确．\n"
+            }
+        ]
+    },
+    "政治": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "a329a81c2df14136b26815c122955ea9",
+                "prompt": "经过长期努力，中国特色社会主义进入了 $$\\underline{}$$ ，这是我国发展新的历史方位。\n",
+                "answer": "新时代",
+                "analysis": "本题考查新时代的历史方位，结合教材所学即可作答。\n"
+            },
+            {
+                "id": "01d8507fc41e4e648c88718483ccdbd3",
+                "prompt": "正确认识自己，可以促进 $$\\underline{}$$ 。每个人都是独一无二的个体，认识到自己的禀赋和 $$\\underline{}$$ ，有助于我们增强对自己的信心，更好地发展自己的 $$\\underline{}$$ 。\n",
+                "answer": "自我发展;独特性;能力",
+                "analysis": "本题考查认识自己的意义，学生结合教材所学即可作答。\n"
+            },
+            {
+                "id": "e8b31ece45d44c939415c306ad16f21c",
+                "prompt": "在人际交往中，我们需要了解自己的情绪，接受它们，并学会以 $$\\underline{}$$ 的方式表达出来。\n",
+                "answer": "恰当",
+                "analysis": "根据所学知识可知，在人际交往中，我们需要了解自己的情绪，接受它们，并学会以恰当的方式表达出来。人生路漫漫，有喜也有悲。该喜则喜，该悲则悲，我们要正确对待自己的各种情绪感受。\n"
+            },
+            {
+                "id": "b62c1eb3c5f940409259a32bfc91875c",
+                "prompt": "国务院，即中央人民政府，是我国 $$\\underline{}$$ ，统一领导地方各级人民政府。\n",
+                "answer": "最高行政机关",
+                "analysis": "本题考查国家行政机关的相关知识，学生结合教材所学即可作答。\n"
+            },
+            {
+                "id": "50ba059e4d0f4351a1be6e96a0fc0d11",
+                "prompt": "2020年2月28日，国家统计局公布的数据显示，2019年我国人均国内生产总值按年平均汇率折算首次突破 $$\\underline{}$$ 美元。\n",
+                "answer": "1万",
+                "analysis": "本题是时事政治题，时事政治是思想政治学科中的一部分重要的学习内容。根据时事政治可知，2020年2月28日，国家统计局发布《2019年国民经济和社会发展统计公报》，初步核算，2019年全年国内生产总值990865亿元，比上年增长6.1%，符合6%到6.5%的预期目标。人均国内生产总值70892元，比上年增长5.7%，按年平均汇率折算达到了10276美元，突破了1万美元的大关，实现了新的跨越。所以本题答案为1万。\n"
+            },
+            {
+                "id": "b7c9db0721b644b388c39876673b4048",
+                "prompt": "走绿色、循环、低碳发展之路，要坚持 $$\\underline{}$$ 、 $$\\underline{}$$ 、 $$\\underline{}$$ 的方针。\n",
+                "answer": "节约优先;保护优先;自然恢复为主",
+                "analysis": "走绿色、循环、低碳发展之路，要坚持节约优先、保护优先、自然恢复为主的方针。\n"
+            },
+            {
+                "id": "2d0cd092cdd448f99f0ff17fedc5f288",
+                "prompt": "他人评价是我们认识自己的一面镜子。用 $$\\underline{}$$ 的心态面对他人的评价，是走向成熟的表现。\n",
+                "answer": "理性",
+                "analysis": "\n本题主要考查正确认识自己。正确认识自己的方法很多，如从他人对自己的态度和评价中认识自己。“他人评价是我们认识自己的一面镜子。”这句话告诉我们可以通过他人的交流、评价来认识自己。但是不能完全相信和依赖他人的评价，所以要理性的认识和对待，故答案为：理性。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "9a0e5c44d4b2403db7ef29e2f1282cd6",
+                "prompt": "同学们，当你进入考场感到紧张时，可以反复提醒自己“冷静思考，沉着应答，会考出好成绩的”。这种调控情绪的方法是\nA.自我暗示\n B.转移注意力\n C.立即行动\n D.合理发泄\n",
+                "answer": "A",
+                "analysis": "此题旨在考查学生对调控情绪的方法的认识，主要考查学生的分析运用，材料中在考场上自己提醒自己，给予自己积极的心理暗示，属于自我暗示法，A说法正确，符合题意。其中BCD不符合题意，故选A。\n"
+            },
+            {
+                "id": "0b67205154af4456b342f7c57f41b5ed",
+                "prompt": "2020年9月11日，习近平总书记主持召开科学家座谈会，并发表重要讲话，强调“好奇心是人的天性，对科学兴趣的引导和培养要从娃娃抓起，使他们更多了解科学知识，掌握科学方法，形成一大批具备科学家潜质的青少年群体。”这需要青少年学生\n\n①努力开发自身的创造潜力\n\n②敢于表达，培养批判精神\n\n③保持怀疑一切的态度\n\n④有独特的见解，学会独立思考\nA.①②③\n B.①②④\n C.①③④\n D.②③④\n",
+                "answer": "B",
+                "analysis": "本题考查的知识点是培养学生的创造力和批判性思维。习近平总书记主持召开科学家座谈会发表重要讲话，这需要青少年学生努力开发自身的创造潜力，用自己的智慧和双手去尝试、探索、实践，①符合题意；同时还需要青少年敢于表达，培养批判精神，有独特的见解，学会独立思考，②④符合题意；批判性思维并不是怀疑一切与否定一切，是一种辩证否定，③不符合题意。综上所述，①②④符合题意，③不符合题意，本题正确答案为B。\n"
+            },
+            {
+                "id": "a7d661e33d9142ffb742fc2b252fe5be",
+                "prompt": "习近平主席在2019年新年贺词中提到：“我们都在努力奔跑，我们都是追梦人。”作为奔跑在追梦路上的中学生，我们应该\n\n①脚踏实地，创造有意义的人生\n\n②理智对待学习压力，树立终身学习的理念\n\n③千里之行，始于足下\n\n④青春飞扬，慢慢欣赏\nA.①②③\n B.②③④\n C.①②④\n D.①③④\n",
+                "answer": "A",
+                "analysis": "依据教材知识，青少年要为实现中国梦而奋斗，需要从现在做起，千里之行，始于足下，脚踏实地，创造有意义的人生，理智对待学习压力，树立终身学习的理念，①②③符合题意。④错误，青春是短暂的，慢慢欣赏说法错误。故选A。\n"
+            },
+            {
+                "id": "8bf36525c2b1481e9a31a07ea2307da6",
+                "prompt": "“身如竹叶心如水，不带江南一线归”我国传统文化崇尚“浩然正气”，强调为官始终清廉，刚正不阿，赋予了今天的领导干部清正廉洁、以人民为中心的服务宗旨。这说明\n\n①传统文化是中华传统美德的精髓\n\n②中华传统美德已经融入中华民族的思维方式、价值观念、行为方式\n\n③中华传统美德具有源远流长、博大精深的特点\n\n④中华传统美德内涵丰富，博大精深\nA.①②\n B.①③\n C.②④\n D.③④\n",
+                "answer": "C",
+                "analysis": "根据题目并结合所学知识可知，本题主要考查中华传统美德的有关知识。\n\n首先，中华传统美德是中华文化的精髓，故①说法错误。其次，为官始终清廉，刚正不阿，赋予了今天的领导干部清正廉洁、以人民为中心的服务宗旨说明了中华传统美德已经融入了中华民族的思维方式、价值观念和行为方式，故②说法正确。再次，中华文化具有源远流长、博大精深的特点，中华传统美德具有内涵丰富、博大精深的特点，故③说法错误。最后，我国优秀传统文化崇尚＂浩然正气＂，赃予了今天的领导干部清正廉洁、以人民为中心的服务宗旨，说明了中华传统美德具有内涵丰富、博大精深的特点，故④说法正确。根据题目并结合要求可知，本题C项②④符合题意，ABD错误。\n\n故本题选C项。\n"
+            },
+            {
+                "id": "80cbad8491324aa7834a45b9f1b05b18",
+                "prompt": "2020年2月7日，国家监察委员会派出调查组赴湖北省武汉市，就群众反映的涉及李文亮医生的有关情况依法开展调查。之后发布《关于群众反映的涉及李文亮医生有关情况调查的通报》，建议督促撤销对李文亮的训诫书。这说明监察委员会是行使\nA.国家监察职能的专责机关\n B.国家司法职能的专责机关\n C.国家行政职能的专责机关\n D.国家审判职能的专责机关\n",
+                "answer": "A",
+                "analysis": "本题考查了我国的监察机关。监察机关是对于各级国家行政机关及其工作人员的工作、行使公权力的国家机关工作人员国家公职人员的工作进行监督、检查和纠举的国家机关。中华人民共和国国家监察委员会是最高监察机关，领导地方各级监察委员会的工作。中华人民共和国国家监察委员会由全国人民代表大会产生，负责全国监察工作，A符合题意。负责司法职能的是司法机关，负责行政职能的是行政机关，负责审判职能的是审判机关，BCD不符合题意，故选A。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "380ec103e21c402988b4c0068960aa34",
+                "prompt": "判断\n1.只有参与社会公益活动才能服务和奉献社会。\n",
+                "answer": "F",
+                "analysis": "本小题涉及到服务和奉献社会的方法途径，可以从积极参加社会公益活动、从爱岗敬业、做好自己的本职工作、努力学习、增强劳动观念等来服务和奉献社会，参与社会公益活动是服务和奉献社会的有效途径之一，但不是唯一途径，所以题目的描述是错误的。\n\n故答案为：\n\n判断：错误。\n\n理由：服务和奉献社会的形式有很多，参与社会公益活动只是其中的一种，我们还可以通过其他形式服务和奉献社会，如做好自己的本职工作、努力学习、增强劳动观念、培养敬业精神、自觉维护社会秩序等。\n"
+            },
+            {
+                "id": "4b1ad89c54b647a49832f22080ffc2b3",
+                "prompt": "判断题\n1.公平总是受一定社会条件的制约，任何社会都会存在不公平的现象。\n",
+                "answer": "T",
+                "analysis": "此题是一道判断题，旨在考查学生对基本观点的掌握情况，落实情感态度和价值观目标，难度值一般。根据所学知识，公平总要受到一定社会条件的制约，任何社会都会存在一些不公平的现象。无论我们如何努力，都不可能达到绝对公平。尽管如此，我们仍要为创造一个更加公平的社会作出不懈努力。因此这个观点是正确的。\n"
+            },
+            {
+                "id": "54674d5454d040639f4a43272509e85b",
+                "prompt": "判断题\n1.不讲诚信的人可以欺人一时，也可以欺人一世。\n\n",
+                "answer": "F",
+                "analysis": "不讲诚信的人可以欺人一时，但不能欺人一世，一旦被识破，他就难以在社会上立足，其结果既伤害别人，也伤害自己，题干说法错误。\n"
+            },
+            {
+                "id": "4ecc605ef5634f9494492eb9df8bbf66",
+                "prompt": "判断题\n1.友谊是一种亲密的关系，朋友间应无话不说。\n",
+                "answer": "F",
+                "analysis": "依据教材知识，呵护友谊，需要学会尊重对方。每个人都是独立的个体，要给朋友一些空间，把握好彼此的界限和分寸。朋友之间需要坦诚相待，但这并不意味着毫无保留；给予朋友积极合理的建议，但不要替朋友做决定。所以，题文中的判断是错误的。\n"
+            },
+            {
+                "id": "4ede0ee80ab24fd6a6237510911fb1cd",
+                "prompt": "判断题\n1.在时间的长河中，个人的生命是短暂的，因此我们应倍加珍惜。\n\n",
+                "answer": "T",
+                "analysis": "生命是短暂的。在时间的长河中，个人的生命很短暂，“人生天地之间，若白驹之过隙，忽然而已”。我们每个人都无法抗拒生命发展的发展规律，我们要从容面对生命的不可预知，更加热爱生命，所以上述观点正确。\n"
+            },
+            {
+                "id": "15529d0e291b48d58b59a742aafa085f",
+                "prompt": "判断题\n1.“江山易改，禀性难移。”说明习惯一旦养成，就会成为一种潜移默化的力量，使我们终身受益。\n",
+                "answer": "F",
+                "analysis": "此题旨在考查学生对习惯的认识，主要考察学生的辨别能力，习惯有好坏之分，好的习惯使人终身受益，坏习惯不利于身心健康，所以题文中的观点是错误的。\n"
+            },
+            {
+                "id": "cbc506dd1a8945d48a5981ce45be20cf",
+                "prompt": "判断题\n1.呵护友谊需要学会尊重对方，朋友之间要坦诚相待，毫无保留。\n\n",
+                "answer": "F",
+                "analysis": "呵护友谊，需要学会尊重对方。每个人都是独立的个体，要给朋友一些空间，把握好彼此的界限和分寸。朋友之间要坦诚相待，但这并不意味着毫无保留；给予朋友积极合理的建议，但不要替朋友做决定。所以上述观点错误。\n"
+            }
+        ],
+        "多选": [
+            {
+                "id": "c7d7ed78a44f449fa19e60035eab9cce",
+                "prompt": "“考试时，好朋友让我帮他作弊，我拒绝了”，对这位同学的做法评价正确的是\nA.真正的友谊必须分清正确与错误，坚持原则\n B.朋友有难却不相帮，不值得交往\n C.帮助同学不做错事，是位益友\n D.真正的朋友是不论对错都帮忙的人\n",
+                "answer": "AC",
+                "analysis": "根据所学知识，友谊不能没有原则。友谊需要信任和忠诚，这并不等于不加分辨地为朋友做任何事。题文中的同学没有在考试中帮朋友作弊是坚持原则的表现，A观点正确，B、D观点错误；我们要善交益友，不交损友，乐交诤友，帮助同学不做错事，是位益友，C观点正确，所以本题选择AC答案。\n"
+            },
+            {
+                "id": "a58d8517197a4bc3bcf041b909c0d5a1",
+                "prompt": "中国与西非远隔万里，但中国对该地区的援助行动从没间断，这说明\nA.中国面对全球危机，不推诿、不逃避\n B.中国太富足\n C.中国是一个负责任的大国\n D.中国敢于担当\n",
+                "answer": "ACD",
+                "analysis": "题干描述说明我国面对区域性的难题，中国不推诿、不逃避，表明中国是一个负责任的大国，在国际上积极主动地承担起相应的责任，意味着中国的地位不断提高，在国际事务中的影响力不断增大，成为国际舞台上的一支重要力量。ACD符合题意；B与实际不符。\n\n故选ACD。\n"
+            },
+            {
+                "id": "a344a13131134be183b47a53a01b1c3c",
+                "prompt": "《中国互联网发展报告2019》指出，互联网、大数据、人工智能也正不断与实体经济深入融合，数字经济已成为各地经济增长的新引擎。《报告》称，2018年，中国数字经济规模达31.3万亿元，占GDP的比重达34.8%。这说明网络\nA.丰富日常生活\n B.为经济发展注入新的活力\n C.推动社会进步\n D.促进民主政治的发展进步\n",
+                "answer": "BC",
+                "analysis": "本题考查网络推动社会进步。分析材料信息，我国中国数字经济规模带来经济效益占GDP的比重达34.8%，说明网络为经济发展注入新的活力，推动社会进步。所以BC说法符合题意；AD说法是网络的积极影响，材料没体现，排除。故选BC。\n"
+            },
+            {
+                "id": "50a58721f1e24cb59407aa020af06e4a",
+                "prompt": "孔子说过“君子有三畏：畏天命，畏大人，畏圣人之言。小人不知天命而不畏也，狎大人，侮圣人之言”。中国古人就是在畏天命、畏大人、畏圣人之言的畏惧之心中自觉地约束着自己的行为。下列观点对此理解正确的是\nA.我们对生命要有一种敬畏的情怀，意识到自己与其他人的生命休戚与共\n B.我们有对生命的敬畏，才会很谨慎地对待生命关系，处理生命问题，走向道德的生活\n C.中国古人比现在的中国人道德素质高\n D.如果我们没有敬畏心，就有可能践踏生命、违法乱纪\n",
+                "answer": "ABD",
+                "analysis": "题考查的知识点是珍爱生命。生命是大自然的奇迹，个体的生命是在无数的偶然性中产生的.每个人的生命都来之不易，生命是属于我们自己的幸运。孔子的话主要说明了人要有敬畏之心。当我们对生命怀有敬畏之心时，我们就会珍视它。我们的生命都是宝贵的，每个人的生命都比金钱、权势等更重要。我们对待他人生命的态度，表达着我们如何看待自己的生命。当我们能够与周围的生命休戚与共时，我们就走向了道德的生活，在这些外在的东西面前，生命价值高于一切。因此AB是正确的；虽然材料中提到古人在三畏中约束着自己的行为，但不能据此就说，中国古人比现代人道德素质高，C是错误的；从“小人”的做法中我们可以看出，如果没有敬畏之心，就可能会做出不合道德与法律规范的事情，所以D也是正确的。故选ABD。\n"
+            },
+            {
+                "id": "27a03c6309dd410598fff21eb38f5ce6",
+                "prompt": "2018年5月14日，重庆飞往拉萨的川航3U8633航班驾驶舱右座前风挡玻璃破裂脱落，在驾驶舱失压，副驾员一度被吸出机外、气温骤降到零下40多摄氏度、仪器多数失灵的情况下，机长刘伟健凭着过硬的飞行技术和良好的心理素质，使飞机安全备降成都双流机场，所有乘客平安落地，完成了一次近几年来国内最具挑战性的世界级迫降。这事件启示我们\nA.在危急时刻，要挺身而出敢于承担责任\n B.要掌握过硬的本领，做一名善于负责的人\n C.要做出惊天动地的壮举，才能实现人生价值\n D.要尽职尽责，做好自己的事情，就是对社会负责\n",
+                "answer": "ABD",
+                "analysis": "此题旨在考查学生对承担责任的认识，题文中的机长刘伟健在关键时刻，凭借过硬的飞行技术和良好的心理素质，使飞机转危为安。启示我们，在危急时刻，要敢于挺身而出勇担责任，要掌握过硬的本领，做一名善于负责的人。要尽职尽责，作好自己的本职工作，ABD观点正确。C观点错误，人生的价值在于对他人、对社会的奉献，不在于做出惊天动地的壮举，故排除C。因此本题答案选ABD。\n"
+            },
+            {
+                "id": "d0dc7ab8000441269a351ba4bac6807c",
+                "prompt": "下列对改革开放的认识，正确的有\nA.是当代中国最鲜明的特色\n B.是引领发展的第一动力\n C.使我国的综合国力显著增强\n D.是决定当代中国命运的关键抉择\n",
+                "answer": "ACD",
+                "analysis": "本题考查对改革开放的理解。A项正确，改革开放是当代中国最鲜明的特色。改革只有进行时，没有完成时。只有全社会不断弘扬与时俱进、锐意进取、勤手探索、勇于实践的改革创新精神，继续自强不息、自我革新，才能持续推动全面深化改革的历史进程，才能泰响中国走向繁荣富强的最强音；B项不符合题干要求，创新是引领发展的第一动力；C项正确，中国共产党团结带领中国人民进行改革开放新的伟大革命，极大激发广天人民群众的创造性，极大解放和发展社会生产力，极大增强社会发展活力，人民生活显著改善，综合国力显著增强，国际地位显著提高，迎来了中华民族从站起来到富起来、强起来的伟大飞跃；D项正确，中国的腾飞证明，改革开放是决定当代中国命运的关键抉择。故本题选：ACD。\n"
+            },
+            {
+                "id": "62dcef9ff0e84b27a5f976be742803f7",
+                "prompt": "承担责任往往伴随着获得回报的权利，这种回报既包括物质方面也包括精神方面。下列属于精神方面的回报的有\nA.良好的自我感觉\n B.有形的财富\n C.他人的尊重和赞许\n D.获得新的知识和技能\n",
+                "answer": "ACD",
+                "analysis": "承担责任才能获得自尊和自信，有良好的自我感觉，A符合题意，在履行责任中增长才干，D符合题意。获得社会的承认和赞美。C符合题意。有形的财富属于物质方面的回报而不属于精神方面的回报，B不符合题意。故本题正确答案选ACD。\n"
+            },
+            {
+                "id": "27d4ceb7faf440c8b8e15a1004004ac7",
+                "prompt": "在河南新增病例连续清零的情况下，郭某鹏出国前往疫区，返回后行经多地，不如实报告来往真实情况、不按要求配合落实隔离观察措施，多次出入公共场所，多次乘坐公共交通工具，造成多人被隔离的严重后果。对郭某鹏的行为，下列评价正确的是\nA.“一人之行为，造成一城之不安，害人害己！”\n B.违反法定义务，必须依法承担相应的法律责任\n C.其行为损害了国家、社会、集体的利益和其他公民的合法的自由和权利\n D.公民的自由和权利不可侵犯\n",
+                "answer": "ABC",
+                "analysis": "郭某某自己感染疫病，但是没有遵守公共安全法，进行自觉的隔离，反而隐瞒并且在多地进行往返。这种行为对他自己来说，会因为违反相应的法律而受到惩罚，对整个城市和其他居民来说则加剧了危险，这是害人害己的行为，A正确。同时这是一种违反法律义务的行为，违反公共安全法，必须依法承担相应的法律责任，B正确。C他的行为也对社会、国家造成了危险，对其他公民的合法自由与权利带来了一定的损害和危险，造成多人被隔离而自由权受到损害，正确。D公民的自由和权利的确在一般情况下是不能侵犯的，但是在疫情特殊期间，公民有相应的义务即交出一定的人身自由权利，进行隔离来保护更大的利益，因而也不能用公民自由不可侵犯来作为抗辩，不符合。此题目选ABC。\n"
+            }
+        ]
+    },
+    "地理": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "135b584fc6bd4f9abaffc912357c36c3",
+                "prompt": "淮安市2017年人口出生率为10.9‰，死亡率为7.4‰，人口自然增长率为 $$\\underline{}$$ ‰。\n",
+                "answer": "3.5",
+                "analysis": "自然增长率=出生率-死亡率，经计算，淮安市自然增长率为10.9‰-7.4‰=3.5‰。\n"
+            },
+            {
+                "id": "5dbc15c145d4400080cbe2ee431102aa",
+                "prompt": "聚落形态在平原地区呈 $$\\underline{}$$ 状，在河流、山麓、山谷等呈 $$\\underline{}$$ 状。\n",
+                "answer": "团块;条带",
+                "analysis": "聚落是人们长期居住进行生产、生活的场所，聚落往往形成于自然条件优越的地区。如气候适宜、交通便利、地形平坦、土壤肥沃、水源充足的地区聚落较密集，聚落的形式受自然条件的影响各不相同，在地势平坦的平原地区多呈团块状，而在河流、山麓、山谷受地形的影响，往往呈条带状。\n"
+            },
+            {
+                "id": "e8c4aa94c0854c7b841b3075f66a23ed",
+                "prompt": "聚落的形式主要包括 $$\\underline{}$$ 和 $$\\underline{}$$ 。\n",
+                "answer": "乡村;城市",
+                "analysis": "聚落的主要形式包括乡村和城市，它们具有不同的景观特色，地形平坦、交通方便、土壤肥沃、经济发达、气候适宜、水源充足等有利于聚落的形成。\n"
+            },
+            {
+                "id": "f8122d4b5510428bbf63e3a4434c675f",
+                "prompt": "东南亚包括 $$\\underline{}$$ 半岛和世界上最大的 $$\\underline{}$$ 群岛。\n",
+                "answer": "中南（半岛）;马来（群岛）",
+                "analysis": "本题主要考查东南亚主要的半岛、岛屿。东南亚位于亚洲的东南部，包括中南半岛和马来群岛两大部分。主要国家有缅甸、老挝、泰国、越南、马来西亚、菲律宾、印度尼西亚等；气候类型有热带季风气候，其特点为全年高温，有明显的旱雨两季，主要分布在中南半岛和菲律宾群岛的北部；热带雨林气候，其特点为终年高温多雨，主要分布在马来群岛的大部和中南半岛的南部。\n"
+            },
+            {
+                "id": "911ef0fe02c94d9caa22ba8c329f67c7",
+                "prompt": "太阳系中目前观测到卫星最多的行星是 $$\\underline{}$$ ，比太阳系更大一级的天体层次是 $$\\underline{}$$ 。\n",
+                "answer": "木星;银河系",
+                "analysis": "水星、金星没有卫星，冥王星、地球有1颗卫星，火星有2颗卫星，木星有63颗卫星，土星有31颗卫星，天王星有27颗卫星，海王星有13颗卫星，故木星的数目最多。考查天体系统，最低一级的天体系统是地月系，比地月系高一级的天体系统是太阳系，比太阳系高一级的天体系统是银河系和河外星系，最高一级的天体系统是总星系。\n"
+            },
+            {
+                "id": "2282cfe74090455b924ae8cc792f3137",
+                "prompt": " $$\\underline{}$$ 是世界规模最大、最有影响力的全球性国际组织。\n",
+                "answer": "联合国",
+                "analysis": "当前的国际组织有很多，其中规模最大、最具有影响力的全球性国际组织是联合国，总部设在美国纽约，其宗旨是维护世界和平与安全。\n"
+            },
+            {
+                "id": "62ad90fd6512487a8c441cafb98ce7bf",
+                "prompt": "我们漯河市的气候类型是 $$\\underline{}$$ 气候。\n",
+                "answer": "温带季风",
+                "analysis": "漯河市位于秦岭－淮河以北，长城以南，属于我国四大区域的北方地区，属于温带季风气候，夏季高温多雨、冬季寒冷干燥。\n"
+            },
+            {
+                "id": "821e1e8e274840458adb6791d70cf899",
+                "prompt": "地球的平均半径是 $$\\underline{}$$ 千米。全球大致划分为 $$\\underline{}$$ 大板块和若干小板块。\n",
+                "answer": "6371;六",
+                "analysis": "经过测量，地球的极半径为6357千米，赤道半径为6378千米，地球的平均半径为6371千米，地球表面积为5.1亿平方千米，最大周长约4万千米。地质学家经过长期的研究，提出了板块构造学说，认为全球由六大板块组成，六大板块的名称是亚欧板块、非洲板块、印度洋板块、太平洋板块、美洲板块、南极洲板块。故答案为：6371；六。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "bce6ab9e8b7345baa3354b9b36468231",
+                "prompt": "下列词组最能体现巴西文化特点的是\nA.穿和服、吃和食、赏樱花\n B.击鼓、制作木雕、编织工艺品\n C.穿白色长袍、缠白色头巾、骆驼是传统交通工具\n D.桑巴舞、狂欢节、足球\n",
+                "answer": "D",
+                "analysis": "巴西人热衷于民族文化运动，桑巴舞和足球是巴西的象征，其北部分布有世界面积最大的热带雨林。\n\n故选：D。\n"
+            },
+            {
+                "id": "2d51d04d33394c69b32a052b48966edc",
+                "prompt": "在2006年08月24日国际天文学联合会大会上，以绝对多数通过决议5A-行星的定义，以237票对157票通过决议6A-冥王星级天体的定义，冥王星从此被视为是太阳系的“矮行星”，不再被视为行星，太阳系九大行星从此变成了“八大行星”。你认为冥王星被“贬”为“矮行星”的主要原因是\nA.质量和体积太小\n B.距太阳太远\n C.没有大气\n D.没有卫星\n",
+                "answer": "A",
+                "analysis": "什么是行星：一是必须围绕太阳运转的天体；二是质量足够大，能依靠自身引力使天体呈圆球状；三是其轨道附近应该没有其他物体。冥王星与其他八大行星有很多不同：一是质量过小，它的质量只有月亮的1/3；二是轨道过于椭圆；三是八星轨道几乎在同一平面，而冥王星与八星轨道平面倾斜角达17度。\n"
+            },
+            {
+                "id": "4021aa00ca1749319cb4af00aa6bff20",
+                "prompt": "关于世界气温的分布规律的叙述，正确的有\nA.气温从低纬向两极逐渐降低\n B.北半球同纬度的海洋和陆地气温没有差异\n C.南半球由于海洋面积广阔，等温线大致与经线平行\n D.气温的高低除受纬度位置、海陆位置影响外，不受其它因素的影响\n",
+                "answer": "A",
+                "analysis": "世界气温分布规律有三条：①从纬度位置看：从低纬度向两极气温逐渐降低；②从海陆位置看：同纬度的海洋和陆地气温并不一样，夏季陆地气温高，冬季海洋气温高；③从海拔高度看：地势越高气温越低，海拔每升高100米气温下降0.6℃。北半球的等温线比南半球稠密，因为北半球海陆差异显著，地势高低悬殊，而南半球大多是海洋，气温差异小。\n\n故选：A。\n"
+            },
+            {
+                "id": "f7a20fa849204c0f9b0dfbe638a5487e",
+                "prompt": "有关陆地和海洋的叙述，正确的是\nA.地球表面海洋占29%，陆地占71%\n B.南极点周围是陆地\n C.陆地集中分布在南半球\n D.任意半球海洋面积小于陆地面积\n",
+                "answer": "B",
+                "analysis": "地球表面71%是海洋，而陆地面积仅占29%，A错误。\n\n南极点周围是陆地，B正确。\n\n陆地集中于北半球、东半球，海洋集中于南半球、西半球，C错误。\n\n任何两个相等的半球都是海洋的面积大于陆地面积，D错误。\n\n故选B。\n"
+            },
+            {
+                "id": "04089d0433be41ba8688ffa5eea7db3d",
+                "prompt": "我国是一个疆域辽阔的国家，每一位公民都要有领土意识，我国领土的最东端在\nA.帕米尔高原上\n B.黑龙江省漠河县北端的黑龙江主航道中心线上\n C.黑龙江与乌苏里江主航道中心线的汇合处\n D.曾母暗沙\n",
+                "answer": "C",
+                "analysis": "我国领土的最东端黑龙江与乌苏里江主航道中心线的汇合处，135°E附近。\n"
+            },
+            {
+                "id": "8986690e0fc44b34ac09e21306a0f193",
+                "prompt": "“山东—湖北—陕西—新疆”的排序依据最有可能是\nA.人口密度由大到小\n B.面积由大到小\n C.纬度由低到高\n D.年降水量由多到少\n",
+                "answer": "A",
+                "analysis": "我国人口分布不均匀，以黑龙江的黑河至云南省的腾冲一线为界，此线以东人口稠密，此线以西人口稀疏，结合题干中各省的位置可得，山东—湖北—陕西—新疆人口密度由大到小，全国面积最大的省区是新疆维吾尔族自治区，题干中四个省区中纬度最低的是湖北省，降水最多的是湖北省，故A正确，BCD错误。\n\n故选：A。\n"
+            },
+            {
+                "id": "c53ede8854494931a4addd69303bf101",
+                "prompt": "下列国家与其风土人情或物产的搭配，正确的是\nA.日本—足球\n B.阿拉伯—头巾、长袍\n C.巴西—斗牛\n D.荷兰—樱花\n",
+                "answer": "B",
+                "analysis": "日本对应的风土人情或物产是樱花。日本人喜欢在春季赏樱，日本也被称为“樱花之国”，A错误。阿拉伯对应的风土人情或物产是头巾和长袍。阿拉伯半岛的气候属于热带沙漠气候，终年炎热干燥，头巾与长袍可以抵御风沙，通风散热，B正确。巴西对应的风土人情或物产是足球。足球是巴西人文化生活的主流，足球是运动，但更是文化，C错误。荷兰对应的风土人情或物产是风车。风车开始时仅用于磨粉之类的工作，但到了十六世纪，风车对荷兰的经济起了特别重大的作用，D错误。故选B。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "1f561d20fd164b7fa34778a71156073c",
+                "prompt": "判断\n1.非洲北部以黑种人分布为主。\n",
+                "answer": "F",
+                "analysis": "黑色人种主要分布在非洲的中部和南部，非洲北部以白种人为主。\n\n\n故答案为：×。\n"
+            },
+            {
+                "id": "6eda0969a5324663a338198e817730d0",
+                "prompt": "判断题\n1.印度人口众多，给印度的资源和经济发展带来了巨大压力。\n",
+                "answer": "T",
+                "analysis": "印度人口众多，是世界上仅次于中国的第二大人口大国，众多的人口给印度的资源和经济发展带来了巨大压力。\n"
+            },
+            {
+                "id": "e5e5460bb97845b38803e0b4c6c1fb57",
+                "prompt": "判断题，正确的填回答正确，错误的填回答错误。\n1.合理利用和保护自然资源的正确态度是禁止使用非可再生资源，促进可再生资源不断再生。\n",
+                "answer": "F",
+                "analysis": "可再生资源不断再生，非可再生资源禁止使用，也是不正确的，自然资源是为人类服务的；可再生资源要做到尽量循环利用，注意保护与开发；而非可再生资源要做到节约、合理利用，故错误。\n"
+            },
+            {
+                "id": "8b86cfdb654549158da0a1ebe4ca1638",
+                "prompt": "判断题\n1.跨经度最广的大洋和大洲分别是太平洋和亚洲。\n",
+                "answer": "F",
+                "analysis": "跨经度最广的大洋和大洲分别是北冰洋、南极洲，故原叙述错误。故答案为：×。\n"
+            },
+            {
+                "id": "4bb710801d0b477db6251b54a943f31c",
+                "prompt": "判断题\n1.莫斯科是俄罗斯第二大城市和重要港口。\n",
+                "answer": "F",
+                "analysis": "莫斯科是俄罗斯的首都，是俄罗斯最大的城市、政治中心、文化中心、经济中心和交通中心，但不是重要港口，位于东欧平原上。\n"
+            },
+            {
+                "id": "4099362e264f49fdaa30a66466dc3c7d",
+                "prompt": "判断题。\n1.在三江源地区，地下水是江河的最初水源。\n",
+                "answer": "F",
+                "analysis": "三江源地区的三江是指长江、黄河、澜沧江，这里雪山、冰川的融水是江河的最初水源，三江源地区湖泊众多，湖泊是河流的补给水源之一，同时还对河流流量起着天然的调蓄作用；三江源地区还是我国重要的天然沼泽分布区，广布的沼泽像海绵一样，吸纳雪山和冰川的融水，汇成江河的最初水源，故答案为：错误。\n"
+            },
+            {
+                "id": "1d4f84b68c5e4fda9bfbf5031bfcc470",
+                "prompt": "判断。\n1.中东是世界上石油储量最大、生产石油最多的地区。\n",
+                "answer": "T",
+                "analysis": "民族矛盾、宗教文化纠纷、领土纷争、对石油和水资源的争夺，是中东地区发生战争和冲突的重要因素；信仰犹太教的以色列和周边的阿拉伯国家的土地之争、宗教之争由来已久，并愈演愈烈，成为中东问题的关键；中东是世界上石油储量最为丰富、石油产量和输出量最多的地区，中东石油的探明储量约占世界石油总探明储量的一半以上，主要分布在波斯湾及其沿岸地区，石油产量通常占世界总产量的1/4，其中沙特阿拉伯、伊朗、科威特和伊拉克是世界重要的产油国，故答案为：正确。\n"
+            },
+            {
+                "id": "348b8b0a8391433188710c4bc7b5ead3",
+                "prompt": "判断\n1.欧洲的人口自然增长率在世界各大洲中居首位\n",
+                "answer": "F",
+                "analysis": "非洲的人口自然增长率在世界各大洲中居首位，世界上人口自然增长率最低的大洲是欧洲。\n\n故错误。\n"
+            }
+        ],
+        "多选": [
+            {
+                "id": "d98232237e764d27891bdfceb114bd71",
+                "prompt": "PM2.5是指大气中直径小于或等于2.5微米的颗粒物，又称“可入肺颗粒”。人吸入过多的PM2.5可引起多种疾病。下列做法中，能降低大气中PM2.5含量的是\nA.降低汽车尾气排放标准\n B.积极发展煤炭无烟化技术\n C.增加新能源的利用\n D.降低植被覆盖率\n",
+                "answer": "BC",
+                "analysis": "根据由于大气污染严重，人们越来越关心大气环境的质量；传统天气预报的内容，已经不能满足人们了解大气环境质量的要求了。近几十年来，许多国家在发布天气预报的同时，也公布每天对大气环境监测的结果，即发布”空气质量日报”，进行分析解答。\n\n随着汽车尾气污染的日益严重，汽车尾气排放立法势在必行，世界各国早在六、七十年代就对汽车尾气排放建立了相应的法规制度，并通过严格的法规提高汽车尾气排放标准，来提高空气质量。故A不符合题意；\n\n积极发展煤炭的气化、液化技术，可有效降低大气PM2.S含量。故B符合题意；\n\n利用新能源对于节约传统的石油、天然气、煤炭等化石能源，发展以低能耗、低污染、低排放为基础的低碳经济，具有十分重要的意义。\n\n人工造林、增加植被覆盖率，可以使当地气候的变化趋于缓和。如果任意砍伐森林，则可能使当地气候恶化。故C符合题意，D不符合题意。因此本题答案选BC。\n"
+            },
+            {
+                "id": "0f8619e18ff74bb2a887e6d310cd53c1",
+                "prompt": "我国各省级行政区中人口最多和人口最少的行政单位分别是\nA.新疆维吾尔自治区\n B.广东省\n C.内蒙古自治区\n D.澳门特别行政区\n",
+                "answer": "BD",
+                "analysis": "广东由于经济发达，吸引了大量外来人口，广东省的人口超过河南省成为我国人口最多的省级行政区域单位。澳门特别行政区在回归后，成为我国人口最少的省级行政区域单位。故B、D选项符合题意。\n"
+            },
+            {
+                "id": "36bdb21d10334a179576389626350a8e",
+                "prompt": "世界最长和最高的山脉分别是\nA.乌拉尔山脉\n B.安第斯山脉\n C.落基山脉\n D.喜马拉雅山脉\n",
+                "answer": "BD",
+                "analysis": "地表各种高低起伏的形态，总称为地形。陆地表面的地形多种多样，人们通常把陆地地形分为平原、高原、山地、丘陵和盆地五种基本类型。\n\n世界上最长的山脉是南美洲的安第斯山，长约9000千米；最高的山脉是位于亚洲中部的喜马拉雅山。\n\n故选BD。\n"
+            },
+            {
+                "id": "aa6f887378f647ad93e6f480dcf85bca",
+                "prompt": "下列叙述中，$$\\dot{不}\\dot{符}\\dot{合}$$欧洲西部地区的是\nA.餐桌上常见乳产品和牛羊肉\n B.绝大多数国家属于发达国家\n C.旅游资源丰富，旅游业发达\n D.许多国家需要大量进口工业制成品\n",
+                "answer": "BD",
+                "analysis": "欧洲西部是世界经济最发达的地区之一，世界上发达国家最集中的地区，绝大多数国家属于发达国家；该地区畜牧业发达，所以在餐桌上常见乳产品和牛羊肉；该地区旅游资源丰富，旅游业发达；该地区绝大多数国家属于发达国家，经济发达，以加工型工业为主，工业产品大量输出，产品质量高，不需要大量进口工业制成品，故选BD。\n"
+            },
+            {
+                "id": "b0f074aa0fdd47dfb380aca4612b92be",
+                "prompt": "聚落的主要形式包括\nA.村庄\n B.集镇\n C.乡村\n D.城市\n",
+                "answer": "CD",
+                "analysis": "聚落的主要形式包括城市和乡村。乡村：范围大、密度小；建筑物高度低；道路窄、少；植被是农田、果园；自然景观改变小；城市：范围小，密度大；建筑物高度高；道路宽、多；植被是草坪、道旁树；自然景观改变大。故答案选CD。\n"
+            },
+            {
+                "id": "06ce799a03604688ae93452e79a81d4f",
+                "prompt": "按照“因地制宜”原则，下列地形区适宜发展的主要农业生产类型正确的是\nA.四川盆地——渔业\n B.横断山区——林业\n C.内蒙古高原——畜牧业\n D.东北平原——畜牧业\n",
+                "answer": "BC",
+                "analysis": "四川盆地地形平坦，位于季风气候区，降水丰富，适合种植业生产; 横断山脉地形陡峭，山高谷深，易发生滑坡、泥石流等灾害，因此在横断山脉地区发展林业生产，保持水土;内蒙古高原主要为温带大陆性气候，降，水较少，热量不足，适合畜牧业生产;  东北平原地形平坦开阔，土壤肥沃，是我国主要的粮食生产基地；故选: BC。\n"
+            }
+        ]
+    },
+    "物理": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "8fac34b332104cfeb5a53bedc71e2acb",
+                "prompt": "滑板运动是青少年喜爱的运动之一．用脚向后蹬地，滑板车会沿地面向前加速运动，这说明力的作用是 $$\\underline{}$$ 的；如果不再蹬地，滑板车的速度会越来越慢，最后停下来，这表明力可以改变物体的 $$\\underline{}$$ ．\n",
+                "answer": "相互;运动状态",
+                "analysis": "将一只脚踏在滑板上，另一只脚向后蹬地，给地面一个向后的力，物体间力的作用是相互的，地面给人一个向前的力，推动人前进；如果不再蹬地，滑板车的速度会越来越慢，最后停下来，这是因为它在运动中受到阻力，这表明力可以改变物体的运动状态．\n"
+            },
+            {
+                "id": "097532467312418ba2128d60e5a43954",
+                "prompt": "把自重为$$1{N}$$的弹簧测力计，用来称一个$$4{N}$$的物体，如果把弹簧测力计颠倒过来，把物体挂在提环上，用手提着它的挂物钩，这时弹簧测力计的读数是 $$\\underline{}$$ $${N}$$．\n",
+                "answer": "$$5$$",
+                "analysis": "弹簧测力计的自重是$$1{N}$$，物重为$$4{N}$$，所以弹簧测力计的示数是$$4{N}+1{N}=5{N}$$．\n\n故答案为：$$5$$．\n"
+            },
+            {
+                "id": "026154239f884c2680018b6fa82ec689",
+                "prompt": "在综合实践活动中，某同学设计了病房呼叫电路，电路中有多个灯和一个电铃．多个灯是并联的，电铃应接在 $$\\underline{}$$ （选填“干路中”或“支路中”）．电铃响，说明有病人在呼救，提醒护士赶快到值班室．护士在值班室中观察呼叫电路，根据 $$\\underline{}$$ ，得知是$$2$$号病人在呼救．\n",
+                "answer": "干路中;$$2$$号灯亮",
+                "analysis": "由题知，电铃响，说明有病人在呼救，提醒护士赶快到值班室，说明任何一个开关被按下，值班室的电铃都能够响起，提醒护士，所以电铃应在干路上；\n\n根据对应的指示灯亮，护士才能准确知道是哪个病床的病人在呼救，所以灯并联在电路中，并且各灯都有一个对应的开关控制，即$$1$$号开关控制$$1$$号灯、$$2$$号开关控制$$2$$号灯，以此类推．\n\n故答案为：干路中；$$2$$号灯亮．\n"
+            },
+            {
+                "id": "429f41a7d24643b6bd8f71ce2935226a",
+                "prompt": "下列是与热学知识有关的成语：①炙手可热 ②钻木取火 ③扬汤止沸，从热学角度分析，其中 $$\\underline{}$$ （填写序号）改变物体内能的方式与另外两个不同，它是用 $$\\underline{}$$ （选填\"做功\"或\"热传递\"）方式改变物体内能的．\n",
+                "answer": "②;做功",
+                "analysis": "“炙手可热”其实就是在火上烤手，是热量的传递，因此是通过热传递的方式来增加手的内能；\n\n“钻木取火”是利用物体与木头相互摩擦做功，机械能转化为木头的内能，是通过做功的方式来改变物体的内能．\n\n“扬汤止沸”把锅里开着的水舀起来再倒回去，向空气中散热，是通过热传递改变物体的内能．\n\n所以“炙手可热”和“扬汤止沸”都是通过热传递改变内能，“钻木取火”是通过做功改变内能，与另外两种方式不同．\n"
+            },
+            {
+                "id": "6c7db34cc4fe4a4698cdb2c77a4a6977",
+                "prompt": "牛顿在$$1666$$年做了一个实验，他让一束太阳光穿过狭缝，射到三棱镜上，在三棱镜另一侧的白纸屏上可以看到一条彩色的光带，这就是 $$\\underline{}$$ 现象；此现象说明白光是 $$\\underline{}$$ （填“单色光”或“复色光”）．\n",
+                "answer": "光的色散;复色光",
+                "analysis": "当太阳光经过三棱镜后，会分解成红、橙、黄、绿、蓝、靛、紫七种单色光，这是光的色散现象，此现象说明白光是复色光．\n\n故答案为：光的色散；复色光．\n"
+            },
+            {
+                "id": "823198fcbd2147e1accacc81bc33fe14",
+                "prompt": "家庭电路中的电灯和控制它的开关是 $$\\underline{}$$ 连接的；洗衣机、电视机、电冰箱等家用电器之间是 $$\\underline{}$$ 连接的．一节干电池的电压为 $$\\underline{}$$ $${V}$$ ．\n",
+                "answer": "串联;并联;$$1.5$$",
+                "analysis": "家庭电路各用电器为了互不影响，常采用并联的方式，故洗衣机、电视机、电冰箱等家用电器之间是 并联连接的；但必须要用一个开关与其串联，这样能单独控制各个用电器，所以家庭电路中的电灯和控制它的开关是串联连接的；一节干电池的电压是$$1.5{V}$$ ．\n\n故答案为：串联；并联；$$1.5$$ ．\n"
+            },
+            {
+                "id": "06018f444e7b460aac3876a3fe9278e9",
+                "prompt": "为了防止家庭电路因 $$\\underline{}$$ （填“短路”或“断路”）故障造成火灾危险，家庭电路中都应安装空气开关或熔丝．\n",
+                "answer": "短路",
+                "analysis": "电路发生断路时，电路中没有电流，因此不会造成电流过大；当电路发生短路时，由于电源电压一定，导线的电阻很小，根据$$I=\\frac{U}{R}$$可知，电路中的电流会很大．\n\n故答案为：短路．\n"
+            },
+            {
+                "id": "b41ddbcb2d4e476f820f1c11b02c4d97",
+                "prompt": "体积为$$0.4{{{m}}^{3}}$$的钢瓶，内装有密度为$$6{kg/}{{{m}}^{3}}$$的氧气，某次电焊用去了其中$$\\frac{1}{3}$$，则钢瓶内剩余氧气的质量为 $$\\underline{}$$ $${kg}$$，剩余氧气的密度为 $$\\underline{}$$ $${kg/m}^3$$．\n",
+                "answer": "$$1.6$$;$$4$$",
+                "analysis": "（1）由$$\\rho= \\frac{m}{V}$$可得，原来钢瓶内氧气的质量：$$m=\\rho V=6{kg/}{{{m}}^{3}}\\times 0.4{{{m}}^{3}}=2.4{kg}$$，\n\n某次电焊用去了其中的$$\\frac{1}{3}$$，则钢瓶内剩余氧气质量： $$m_{剩}=\\left( 1-\\frac{1}{3} \\right){m}=\\frac{2}{3}{m}=\\frac{2}{3}\\times 2.4{kg}=1.6{kg}$$；\n\n（2）剩余氧气的体积不变，则剩余氧气的密度：$$\\rho^{\\prime}=\\frac{{{m}_{剩}}}{V}=\\frac{1.6{kg}}{0.4{{{m}}^{3}}}=4{kg/}{{{m}}^{3}}$$．\n\n故答案为：$$1.6$$；$$4$$.\n"
+            },
+            {
+                "id": "820cf575dc894a539dab62d7ca94686f",
+                "prompt": "人们常常利用物体具有各种形式的机械能来做功，如：机械手表里拧紧的发条具有 $$\\underline{}$$ 能，可以带动小齿轮和指针转动；风具有 $$\\underline{}$$ 能，可以推动帆船航行；打桩机举高的重锤具有 $$\\underline{}$$ 能，可以完成打桩工作．\n",
+                "answer": "弹性势;动;重力势",
+                "analysis": "拧紧的发条发生了弹性形变，所以其具有弹性势能．风是流动的空气，由于其运动，所以其具有动能．举高的大锤由于相对于地面位置被举高，所以其具有重力势能．\n\n故答案为：弹性势能；动；重力势．\n"
+            },
+            {
+                "id": "9b092f794af549eeb52cf04ece85cad6",
+                "prompt": "寒冬，坐满人的汽车门窗紧闭，水蒸气 $$\\underline{}$$ 成小水珠附着在玻璃车窗 $$\\underline{}$$ 侧，使玻璃变模糊，水蒸气变成水珠会 $$\\underline{}$$ 热量．\n",
+                "answer": "液化;内;放出",
+                "analysis": "汽车内人很多，会呼出很多水蒸气，而玻璃的温度较低，水蒸气遇到温度较低的玻璃会液化成小水珠附着在玻璃上，使玻璃变模糊，所以小水珠在玻璃的内侧，此过程放出热量．\n\n故答案为：液化；内；放出．\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "5742865ec5b74842b36bf0be0cee5158",
+                "prompt": "一元硬币的外观有银白色的金属光泽，一些同学认为它可能是铁做成的，在讨论时有同学提出：“我们可以先拿磁铁来吸一下”，这时有位同学手拿一块磁铁吸了一下硬币．就“一些同学认为它可能是铁做成的”这一环节而言，属于科学探究中的（    ）\nA.猜想\n B.论证\n C.实验\n D.评估\n",
+                "answer": "A",
+                "analysis": "“一些同学认为它可能是铁制成的”仅仅局限于猜想与假设，所以选项B、C、D都不正确．\n\n故选A．\n"
+            },
+            {
+                "id": "82017e7a2e5244889f45bc5d24b90b54",
+                "prompt": "在用混合法测定固体或液体比热的实验中，即使操作完全正确，但热损失仍然存在．考虑到热量的损失，那么测出的比热数值大小与其真实值相比较，应当（    ）A.一定大于真实值 B.一定小于真实值 C.只要经过多次测量取平均值，就一定完全等于真实值 D.如果被测物质是放热物质，则测量值一定小于真实值；若是吸热物质，则测量值一定大于真实值",
+                "answer": "D",
+                "analysis": "根据热量的公式：$$Q=cm\\Delta t$$，得$$c=\\frac{Q}{m\\Delta t}$$；\n\n当被测物质是放热物质，其放出的热量大部分给了另一种物质，但还有少部分热量损失掉；由此可分析出，$${{Q}_{吸}}$$小于真实值、$$\\Delta t$$大于真实值，故由$$c=\\frac{{{Q}_{吸}}}{m\\Delta t}$$得，放热物质的比热容$$c$$将减小，即小于真实值；\n\n当被测物质是吸热物质，其吸收的热量是另一种物质放出热量的一部分，有少部分热量损失掉；由此可分析出，$${{Q}_{放}}$$大于真实值、$$\\Delta t$$小于真实值，故由$$c=\\frac{{{Q}_{放}}}{m\\Delta t}$$的，吸热物质的比热容$$c$$将增大，即大于真实值；\n\n故此实验的最终结果是：如果被测物质是放热物质，则测量值一定小于真实值；若是吸热物质，则测量值一定大于真实值．\n\n故选D．\n"
+            },
+            {
+                "id": "33c87163f5aa451e98b9a37df1a74106",
+                "prompt": "一架直升机正在升空，使该直升机向上升空的力的施力物体是（    ）A.直升机螺旋桨\n B.空气\n C.地球\n D.直升机驾驶员\n",
+                "answer": "B",
+                "analysis": "直升机螺旋桨给空气一个向下的力，由于物体间力的作用是相互的，故空气会给飞机一个向上的力，施力物体是空气，故B正确．\n"
+            },
+            {
+                "id": "83dfae0946bd4f97b54234847e1fdb17",
+                "prompt": "有两只灯泡$${{{L}}_{1}}$$、$${{{L}}_{2}}$$，分别标有“$$220{V}$$ $$100{W}$$”和“$$220{V}$$ $$40{W}$$”的字样．若不考虑温度对灯丝电阻的影响，下列说法中正确的是（    ）\nA.两灯正常发光时，$${{{L}}_{1}}$$的电阻较大\n B.两灯并联接入$$220{V}$$的电路，$${{{L}}_{1}}$$、$${{{L}}_{2}}$$消耗功率之比是$$2:5$$\n C.两灯串联接入$$220{V}$$的电路，$${{{L}}_{1}}$$消耗的功率小于$$25{W}$$\n D.两灯串联接入$$220{V}$$的电路，两灯泡消耗总功率大于$$40{W}$$小于$$100{W}$$\n",
+                "answer": "C",
+                "analysis": "A选项：由$$P=UI=\\frac{{{U}^{2}}}{R}$$可得，两灯泡正常发光时的电阻分别为：$${{R}_{1}}=\\frac{{{U}^{2}}}{{{P}_{1}}}=\\frac{{{(220{V})}^{2}}}{100{W}}=484\\Omega $$，$${{R}_{2}}=\\frac{{{U}^{2}}}{{{P}_{2}}}=\\frac{{{(220{V})}^{2}}}{40{W}}=1210\\Omega $$，则$${{R}_{1}}<{}{{R}_{2}}$$，即$${{{L}}_{1}}$$的电阻较小，故A错误；\n\nB选项：两灯并联接入$$220{V}$$的电路，它们两端的电压等于$$220{V}$$，均能正常发光，则$${{{L}}_{1}}$$、$${{{L}}_{2}}$$消耗功率之比$${{P}_{1}}:{{P}_{2}}=100{W}:40{W}=5:2$$，故B错误；\n\nC选项，D选项：两灯串联接入$$220{V}$$的电路时，因串联电路中总电阻等于各分电阻之和，所以，电路中的电流$$I=\\frac{U}{{{R}_{1}}+{{R}_{2}}}=\\frac{220{V}}{484\\Omega +1210\\Omega }=\\frac{10}{77}{A}$$，$${{{L}}_{1}}$$消耗的功率$${{P}_{1}}^{\\prime }={{I}^{2}}{{R}_{1}}={{\\left( \\frac{10}{77}{A} \\right)}^{2}}\\times 484\\Omega \\approx 8.2{W}<{}25{W}$$，两灯泡消耗的总功率$$P=UI=220{V}\\times \\frac{10}{77}{A}\\approx 28.6{W}<{}{40W}$$，故C正确，D错误；\n\n故选C．\n"
+            },
+            {
+                "id": "0053f7dde9eb481fac06f1a8015fe31d",
+                "prompt": "学习质量和密度的知识后小明同学想用天平、量筒和水完成下列实践课题：①测量铜块的密度；②测定一捆铜导线的长度；③鉴别金戒指的真假；④鉴定铜球是空心的还是实心的；⑤测一大堆大头针的数目．你认为能够完成的是（    ）A.①② B.①③④⑤ C.①②④⑤ D.①②③④⑤",
+                "answer": "B",
+                "analysis": "①天平可以测出铜块的质量，量筒和水能测出铜块的体积，根据密度公式可得铜块的密度．\n\n②一捆铜钱的体积和质量可测，未知铜线截面积，其长度不可求得．\n\n③同①戒指密度可求与金的密度对比可知真假．\n\n④同①铜球的密度可求与铜的密度对比可知空实心．\n\n⑤用天平可测十根大头针质量，求得$$1$$根大头针质量，再测得一枚针的质量，做除法，即可得到一堆大头针的个数．\n\n综上，本题正确选项：B①③④⑤．\n\n故选B．\n\n"
+            },
+            {
+                "id": "e5bb65bb6754460c9c25b55974ea5141",
+                "prompt": "为节约能源，需提高热机的效率，下列措施中不能提高热机效率的是（    ）\nA.尽量使燃料充分燃烧 B.尽量减少热机部件间的摩擦 C.尽量减少废气带走的热量 D.尽量增加热机的工作时间",
+                "answer": "D",
+                "analysis": "热机效率是指热机有效利用的能量与燃料完全燃烧放出的能量之比．所以减少热量的损失可以提高热机的效率．所以使燃料充分燃烧、减少废气带走的热量、减少热机部件间的摩擦都可以减少热量的损失，提高效率．\n\n增加热机的工作时间，并不能减少热量的损失，所以不能提高热机的效率．\n\n故选D．\n"
+            },
+            {
+                "id": "35b36f19485c487db16b6e21c6a22973",
+                "prompt": "古诗词是我国的文化瑰宝．很多诗句里蕴含着丰富的物理知识如“不疑行船动，唯看远树来”；“两岸青山相对出，孤帆一片日边来”．这两句诗中，“远树来”、“孤帆来”所选择的参照物分别是（    ）\nA.行船 孤帆\n B.远树 青山\n C.河岸 孤帆\n D.行船 河岸\n",
+                "answer": "D",
+                "analysis": "以行船为参照物，行船处于相对静止状态，远处的树和行船之间的位置不断发生变化，树是运动的，所以会感到“远树来”，“孤帆一片日边来”，研究的对象是“孤帆”，运动状态是“来”，船是运动的，相对于地面（或两岸、青山）来说的，故D正确，ABC错误；\n\n故选D．\n"
+            },
+            {
+                "id": "84c0dac29ef54575b761d44b1c284111",
+                "prompt": "测定石块的密度需要进行如下的实验操作：\n\n①将石块用细线系好后放入量筒，慢慢没入水中并记下总的体积．\n\n②把游码放在标尺的零刻度线处，调节横梁上的螺母，使横梁平衡．\n\n③把天平放在水平桌面上．\n\n④将石块放在天平左盘中，在右盘中增减砝码并移动游码直至横梁平衡．\n\n⑤在量筒中倒入适量的水并记下水的体积．为保证测量的准确性，正确的操作顺序应是（    ）\nA.①②③④⑤ B.③②④⑤① C.⑤①③②④ D.③②⑤①④",
+                "answer": "B",
+                "analysis": "为了减小误差，测量时应先测质量，因此，正确的步骤为：③②④⑤①．\n\n故选B．\n"
+            },
+            {
+                "id": "1cedffc7ad3148b1af9dc18f7de51fcc",
+                "prompt": "一起重机的钢索吊着重$${1000N}$$的物体匀速上升$${4m}$$后，又沿水平方向缓慢移动了$${3m}$$，在整个过程中，起重机的钢索对物体做的功是（    ）\nA.$$7000{J}$$ B.$$4000{J}$$ C.$$3000{J}$$ D.无法确定",
+                "answer": "B",
+                "analysis": "物体匀速提升时，物体处于平衡状态，起重机对物体的拉力和物体本身的重力是一对平衡力，故大小相等，所以拉力是$${1000N}$$；\n\n当物体匀速水平移动时，物体处于平衡状态，钢丝绳对物体的拉力和物体本身的重力仍是一对平衡力，故大小相等，故拉力大小仍为$${1000N}$$；所以在整个过程中，拉力对物体只是在物体竖直向上提起时对物体做了功，\n\n则起重机的钢索对物体做的功为$$W=Gh=1000{N}\\times4{m}=4000{J}$$．\n\n故选B．\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "8aac50a74e724b3f014e732214b10665",
+                "prompt": "判断以下结论是否正确：\n 1.发现电磁感应现象的科学家是奥斯特（    ）\n  2.发电机的原理是电磁感应现象（    ）\n  3.只要导体在磁场中做切割磁感线运动，就会产生感应电流（    ）\n  4.闭合电路的一部分导体在磁场中运动时，导体中就一定会产生感应电流（    ）\n  5.电动机工作时将机械能转化为电能（    ）\n  6.法拉第首先发现电流周围存在磁场（    ）\n  7.发电机中电流的方向与磁场中导体运动方向有关（    ）\n ",
+                "answer": "FTFFFFT",
+                "analysis": "（$$1$$）法拉第发现了电磁感应现象，其应用是发电机；奥斯特发现的是电流的磁效应．\n （$$3$$）闭合电路的一部分导体在磁场中做切割磁感线运动时，导体中就会产生感应电流．\n "
+            },
+            {
+                "id": "62843199deac43aa8a1c6de5b3a2e8bc",
+                "prompt": "判断对错\n1.声音可以在固体、液体、气体中传播，不能在真空中传播．\n",
+                "answer": "T",
+                "analysis": "声音的传播需要介质，固体、液体和气体都可以作为声音的传播介质，真空不能传声，故正确．\n"
+            },
+            {
+                "id": "8aac49074e023206014e3589a0e83f0f",
+                "prompt": "判断以下结论是否正确：\n  1.阳光射入房间内看到尘土飞扬，这是分子在做无规则运动．（    ）\n 2.细菌非常小，肉眼无法直接观察，必须用显微镜才能看到，所以细菌属于分子．（    ）\n 3.塑料吸盘能牢牢地吸附在玻璃上，说明分子间存在着吸引力．（    ）\n 4.一个分子的分子动能和分子势能之和，就是该分子的内能．（    ）\n 5.物体无论运动还是静止都有内能．（    ）\n 6.质量相同的$$0{}^\\circ {C}$$的水和$$0{}^\\circ {C}$$的冰具有相同的内能．（    ）\n 7.物体的温度越高，内能越大；温度越高的物体，内能也越大．（    ）\n 8.一杯水放在高处时具有的内能比放在低处时的大．（    ）\n 9.物体内能增大，一定吸收了热量．（    ）\n 10.流星在大气层中高速下落，发出光和热，这是利用做功的方式使物体内能增加的．（    ）\n 11.用锯条锯木板时锯条发热，锯条的内能增加，木板的内能减小．（    ）\n 12.水壶里的水烧开时，水蒸气把壶盖顶起，内能转化为机械能．（    ）\n 13.晶体熔化时温度不变，则内能也不变．（    ）\n 14.物体的内能增大，其温度一定升高．（    ）\n",
+                "answer": "FFFFTFFFFTFTFF",
+                "analysis": "1．错误，因为即使一粒尘土也是由无数分子组成，故尘土飞扬不能证明分子运动；\n\n2．错误，因为细菌虽小，但由很多分子组成；\n\n3．错误，塑料吸盘能牢牢地吸附在玻璃上，是大气压的作用；\n\n4．错误，分子的内能是指所有分子的分子动能和分子势能总和；\n\n5．正确，内能是关于物体内部分子的运动情况的能量，与物体整体运动情况无关；\n\n6．错误，因为质量相同的$$0{}^\\circ {C}$$的水和$$0{}^\\circ {C}$$的冰的分子间的距离不同，所以分子势能也不同，内能就不同；\n\n7．错误，内能还与质量有关，温度越高的物体，如果质量很小，内能也不大；\n\n8．错误， 一杯水放在高处时具有的重力势能比放在低处时的大 ，但内能不变；\n\n9．错误， 物体内能增大，可能吸收了热量 ，也可能是对外做了工；\n\n10．正确， 流星在大气层中高速下落，克服摩擦力做功，是流星内能增加、温度升高，这是利用做功的方式使物体内能增加的；\n\n11．错误， 用锯条锯木板时锯条发热，摩擦生热，机械能转化为内能，锯条和木板的内能都增加；\n\n12．正确， 水壶里的水烧开时，水蒸气把壶盖顶起，内能转化为机械能 ；\n\n13．错误， 晶体熔化时温度不变，但一直吸热，所以内能增加；\n\n14．错误， 晶体熔化时一直吸热，内能增加，但温度不变；\n\n故答案为：F；F；F；F；T；F；F；F；F；T；F；T；F；F．\n"
+            },
+            {
+                "id": "8aac50a74e724b3f014e72acd77f0386",
+                "prompt": "判断以下结论是否正确：\n 1.宋代沈括首先发现电流的磁效应（    ）\n  2.电炉是根据电流的磁效应制成的（    ）\n  3.做奥斯特实验时，将电源正负极反接，小磁针也会发生偏转，但偏转方向相反（    ）\n  4.导体周围一定存在磁场（    ）\n  5.通过螺线管的电流越大，电磁铁的磁性一定越强（    ）\n  6.通过螺线管的电流方向不同，电磁铁产生的磁场方向可能相同（    ）\n  7.铁芯可以增强螺线管的磁性，电磁铁断电后仍具有较强的磁性（    ）\n ",
+                "answer": "FFTFFTF",
+                "analysis": "（1）宋代沈括首先发现了地磁偏角；奥斯特首先发现了电流的磁效应．\n\n（2）电炉是根据电流的热效应制成的．\n\n（4）通电导线周围一定存在磁场．\n\n（5）电磁铁的磁性强弱与电流大小，匝数大小有关．\n"
+            },
+            {
+                "id": "8aac50a74e724b3f014e728e65b4024d",
+                "prompt": "判断以下结论是否正确：\n 1.磁体周围一定存在着磁场（   ）\n  2.磁体上磁性最强的部分叫磁极（   ）\n  3.同名磁极互相吸引（   ）\n  4.磁感线是磁体周围空间真实存在的曲线（   ）\n  5.磁场对放入其中的物体一定有磁力的作用（    ）\n  6.在磁场中，小磁针静止时北极所指的方向为该点的磁场方向（    ）\n  7.磁体的磁感线方向都是由$$\\operatorname{N}$$极指向$$\\operatorname{S}$$极（    ）\n  8.地球是个巨大磁体，它的$$\\operatorname{N}$$极在地理的北极附近（    ）\n  9.指南针能指南北是受地磁场的作用（    ）\n  10.我国科学家沈括首先发现地理的两极与地磁的两极不重合（    ）\n ",
+                "answer": "TTFFFTFFTT",
+                "analysis": "（$$5$$）磁场对放入其中的磁体一定具有力的作用，这是磁场的基本性质．\n （$$7$$）磁体外部的磁感线方向是由$$\\operatorname{N}$$极指向$$\\operatorname{S}$$极；磁体内部是从$$\\operatorname{S}$$极指向$$\\operatorname{N}$$极．\n （$$8$$）地球磁场的$$\\operatorname{N}$$极在地理的南极附近；地球磁场的$$\\operatorname{S}$$极在地理的北极附近．\n "
+            }
+        ],
+        "多选": [
+            {
+                "id": "7e1fda6961df429890a3f2ef60c06420",
+                "prompt": "下列说法中正确的是（    ）\nA.小明没有推动静止在路边的汽车，是因为小明的推力小于汽车受到的阻力 B.小明做引体向上静止不动时，单杠对他的拉力和他受到的重力是一对平衡力 C.小明站在体重秤上静止不动时，小明对秤的压力与秤对小明的支持力是一对平衡力 D.小明将篮球竖直向上抛出，在最高点速度为零时，篮球受到的合力一定不为零",
+                "answer": "BD",
+                "analysis": "A．小明没有推动静止在路边的汽车，汽车处于静止状态，是因为小明的推力等于汽车受到的阻力，故A错误；\n\nB．做引体向上静止不动时，单杠对他的拉力和他受到的重力大小相等、方向相反、作用在同一物体上、作用在一条直线上，是一对平衡力，故B正确；\n\nC．小明站在体重秤上静止不动时，小明对秤的压力与秤对小明的支持力作用在不同的物体上，不是一对平衡力，故C错误；\n\nD．小明将篮球竖直向上抛出，在最高点速度为零时篮球只受到重力的作用，所以合力一定不为零，故D正确．\n\n故选BD．\n"
+            },
+            {
+                "id": "8aac49074e023206014e2ae5e72a0c89",
+                "prompt": "沿凸透镜的主光轴将物体从焦点匀速移向无限远处．在移动的过程中，通过凸透镜所成像的变化情况正确的是（    ）\n A.像的位置从无限远处移到无限接近焦点处\n B.像的大小是由大变小\n C.先成倒立放大的实像，后成正立放大的虚像\n D.先成倒立放大的实像，后成倒立缩小的实像\n",
+                "answer": "ABD",
+                "analysis": "（$$1$$）当物距$$u=f$$时，成像在无限远处.当物体无穷远时，物体发出的光线接近平行，经凸透镜后会聚在靠近焦点的位置；该点为实际光线的交点，本质是缩小的实像.\n （$$2$$）在物体移动过程中物距不断增大，因此像距将不断变小；像距变小，像也将变小.\n （$$3$$）由于物距$$u>f$$，故只能成实像，而且先是放大的实像，后为缩小实像.\n "
+            },
+            {
+                "id": "b67efbb4534f4d0587f4d881d93897f4",
+                "prompt": "下列各种说法中，正确的是（    ）\nA.物质的密度与物质的体积的大小成反比\n B.物体的电阻取决于物体两端是否加有电压及所通过的电流大小\n C.物体表面受到的压强大小，取决于所受压力及受力面积的大小\n D.液体的沸点不仅与液体的性质有关，而且与液体表面受到的压强有关\n",
+                "answer": "CD",
+                "analysis": "密度、电阻为物质本身的物理参量，不能根据公式$$\\rho =\\frac{m}{V}$$，$$R=\\frac{U}{I}$$ 把密度、电阻简单理解为与右边的量成正比或反比关系．\n\nA．某种物质单位体积的质量叫做这种物质的密度．密度是物质的一种特征．每种物质都有一定的密度，不同的物质，其密度一般不同．物质的密度和它的体积大小、质量的多少无关．不合题意．\n\nB．导体的电阻是导体本身的一种性质，导体的电阻跟导体的材料、横截面积、长度、温度有关．其大小与电流和电压无关，无论电阻是否接入电路无论接入的电压和电流为多大，材料、横截面积、长度、温度不变，电阻的阻值也不变．不合题意．\n\nC．压强是表示压力作用效果的物理量，压强不仅与压力大小有关，还和受力面积有关，是物体单位面积上受到的压力．符合题意．\n\nD．不同的液体沸点不同，同种液体的沸点与气压有关，气压增大，沸点升高；气压减小，沸点降低．符合题意．\n\n故选CD．\n"
+            },
+            {
+                "id": "40f670321d9f4210a24f597786dd01d6",
+                "prompt": "潜水艇在海面下根据需要上浮或下潜（但始终未露出海面）。潜水艇在下潜时，受到的重力为$${{G}_{1}}$$、浮力为$${{F}_{1}}$$；在上浮时，受到的重力为$${{G}_{2}}$$、浮力为$${{F}_{2}}$$．下列关系正确的是（  ）\nA.$${{F}_{1}}<{}{{F}_{2}}$$，$${{G}_{1}}={{G}_{2}}$$ B.$${{F}_{1}}={{F}_{2}}$$，$${{G}_{1}}>{{G}_{2}}$$ C.$${{F}_{1}}<{}{{G}_{1}}$$，$${{F}_{2}}>{{G}_{2}}$$ D.$${{F}_{1}}>{{G}_{1}}$$，$${{F}_{2}}<{}{{G}_{2}}$$",
+                "answer": "BC",
+                "analysis": "在海水中，潜水艇所受$${{F}_{浮}}={{\\rho }_{海水}}g{{V}_{排}}$$，始终没有露出水面，\n\n所以所受浮力不变，$${{F}_{浮}}={{F}_{1}}={{F}_{2}}$$；\n\n可以通过“让海水进入压力舱”增大自重、“将海水排除压力舱”减小自重，\n\n$${{F}_{浮}}>{{G}_{2}}$$ ， 潜水艇上浮，$${{F}_{浮}}<{}{{G}_{1}}$$，潜水艇下沉，\n\n由于$${{F}_{浮}}={{F}_{1}}={{F}_{2}}$$，则$${{G}_{1}}>{{G}_{2}}$$．\n\n故选BC．\n"
+            },
+            {
+                "id": "a54f8a9c472649c6bb87090f6331e61a",
+                "prompt": "游乐园中的“蹦极”项目是先将游客提升至几十米高处，然后释放，释放的开始阶段，游客做自由落体运动，则（    ）\nA.在刚释放的瞬间，游客的速度和加速度均为零\n B.在刚释放的瞬间，游客的速度为零，加速度不为零\n C.释放的开始阶段，游客减小的重力势能与该阶段重力的冲量的二次方成正比\n D.释放的开始阶段，游客减小的重力势能与该阶段增加的动量成正比\n",
+                "answer": "BC",
+                "analysis": "AB．在刚释放的瞬间，游客的初速度为零，但是仍然有重力作用，所以游客的加速度不为零，故A错误，B正确；\n\nCD．$$I=mgt$$，$$W=mgh$$，$$h=\\frac{1}{2}g{{t}^{2}}$$，即$$\\Delta {{E}_{{p}}}=\\frac{{{I}^{2}}}{2m}$$，故C正确，D错误；\n\n故选BC．\n"
+            }
+
+        ]
+    },
+    "历史": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "0c14e04aaa704190b03ab593194cb514",
+                "prompt": "辛亥革命推翻了清朝的统治，结束了2000多年的封建制度。 $$\\underline{}$$ （判断对错）\n",
+                "answer": "×",
+                "analysis": "辛亥革命结束了中国两千多年的封建帝制，而不是封建制度，因此题干的说法是错误的。故答案为：×。\n"
+            },
+            {
+                "id": "29785fd4593f40caabada3da05e3f8d1",
+                "prompt": " $$\\underline{}$$ 年，苏联成立， $$\\underline{}$$ 年，中国恢复在联合国的合法席位。\n",
+                "answer": "1922;1971",
+                "analysis": "据所学知，1922年底，苏维埃社会主义共和国联盟成立，简称“苏联”。1971年，在第26届联合国大会上，恢复了中国在联合国的合法席位。\n"
+            },
+            {
+                "id": "2d7c08be8397498e84cd960dc2d0c539",
+                "prompt": "都江堰是由秦国蜀郡郡守 $$\\underline{}$$ 主持修建的一项综合性的防洪灌溉工程，建成之后，成都平原成为沃野，被称为“ $$\\underline{}$$ ”。\n",
+                "answer": "李冰;天府之国",
+                "analysis": "都江堰是战国时期秦国蜀郡太守李冰父子在岷江流域主持修建的大型水利工程，它由“分水鱼嘴”“飞沙堰”“宝瓶口”等组成，它代表我国当时先进的水利工程的先进水平，是古代劳动人民智慧的结晶。两千多年来，由于都江堰的灌溉，使成都平原成为沃野千里的“天府之国”。\n"
+            },
+            {
+                "id": "cdfd070ac15d490587abdab604fb1f19",
+                "prompt": "1900年，英、 $$\\underline{}$$ 、 $$\\underline{}$$ 、 $$\\underline{}$$ 、法、德、 $$\\underline{}$$ 、奥八国列强为镇压 $$\\underline{}$$ 运动，发动了侵华战争。\n",
+                "answer": "美;俄;日;意;义和团",
+                "analysis": "英美日俄法德意奥八国为镇压义和团运动出兵中国。\n"
+            },
+            {
+                "id": "f9424572a4a84121adae5656ee2fe7b7",
+                "prompt": "1918年11月，德国投降，战争以 $$\\underline{}$$ 的失败而结束。\n",
+                "answer": "同盟国",
+                "analysis": "依据所学知识可知，在一战前，德意奥组成同盟国，而英法俄则建立协约国，双方为重新瓜分世界而开展第一次世界大战．最终以协约国胜利，同盟国失败而告终。故本题答案为同盟国。\n"
+            },
+            {
+                "id": "3870b360c1a34a199b175d808a8599ed",
+                "prompt": "公元前3100年左右，非洲东北部尼罗河流域建立起统一的古埃及奴隶制国家。 $$\\underline{}$$ 是古埃及的文明象征。《 $$\\underline{}$$ 》是世界上第一部体系完备的成文法典。\n",
+                "answer": "金字塔;汉谟拉比法典",
+                "analysis": "第一空，结合所学可知，公元前3100年左右，非洲东北部尼罗河流域建立起统一的古埃及奴隶制国家。埃及的金字塔是古埃及法老（即国王）和王后的陵墓。陵墓是用巨大石块修砌成的方锥形建筑，因形似汉字“金”字，故译作“金字塔”。埃及迄今已发现大大小小的金字塔110座，大多建于埃及古王朝时期。因此金字塔是古埃及的文明象征。\n\n第二空，据所学知，公元前18世纪，古巴比伦王国国王汉谟拉比统一了两河流域，建立起中央集权的奴隶制国家，为了维护奴隶主的利益，汉谟拉比制定了一部法典，史称《汉谟拉比法典》，它是世界上现存的古代第一部比较完备的成文法典。\n\n故本题答案为：金字塔；汉谟拉比法典。\n"
+            },
+            {
+                "id": "fb187909ef7442e7bbb3fd8f08a6b2d5",
+                "prompt": "抗战初期，积极投身于救亡运动，创作了《义勇军进行曲》的音乐家是 $$\\underline{}$$ 。\n",
+                "answer": "聂耳",
+                "analysis": "本题考察的是《义勇军进行曲》的作者。《义勇军进行曲》是由田汉作词，聂耳作曲的歌曲，是电影《风云儿女》的主题歌。聂耳早年参加反帝大同盟，一直投身于救亡运动。\n"
+            },
+            {
+                "id": "86a8edb1746845a9816505531ba7ad83",
+                "prompt": "美国独立战争的转折点是 $$\\underline{}$$ 。\n",
+                "answer": "萨拉托加战役",
+                "analysis": "本题考查美国独立战争的转折点．根据所学知识可知，1775年，来克星顿枪声标志着美国独立战争的开始；1777年10月，美军在萨拉托加战役中取得扭转战局的胜利，成为独立战争的转折点。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "ac9c8a3a070f403dad14a4c51d79b43d",
+                "prompt": "下列表格中，历史史实与历史解释对应错误的一项是\n\n$#table{|$$\\centerline{选项}centerlineendflag|$$\\centerline{历史史实}centerlineendflag|$$\\centerline{历史解释}centerlineendflag||$$\\centerline{A}centerlineendflag|$$\\centerline{北京人的发现}centerlineendflag|$$\\centerline{对于研究古人类进化的历史具有重要意义}centerlineendflag|\n|$$\\centerline{B}centerlineendflag|$$\\centerline{丝绸之路的开辟}centerlineendflag|$$\\centerline{沟通了亚非美三大洲，促进了东西方之间的经济文化交流}centerlineendflag||$$\\centerline{C}centerlineendflag|$$\\centerline{甲骨文的发现}centerlineendflag|$$\\centerline{中国有文字可考的历史自商朝开始}centerlineendflag|\n|$$\\centerline{D}centerlineendflag|$$\\centerline{造纸术的发明}centerlineendflag|$$\\centerline{为文化的交流和保存提供了重要的物质条件}centerlineendflag|}#$\nA.A\n B.B\n C.C\n D.D\n",
+                "answer": "B",
+                "analysis": "根据表格结合所学知识可知，汉武帝两次派张骞出使西域，汉朝和西域的交往日益密切。汉朝时，中国的丝和丝织品从长安出发通过河西走廊，今新疆地区，运往西亚，再转运到欧洲的大秦（罗马），这条沟通中西交通的陆上要道，就是历史著名的丝绸之路。丝绸之路的开通开辟了中国与西方联系的先例；促进了东西方经济文化交流；在传播中华文明的同时，也丰富了汉朝的经济文化内容，在一定程度上促成了汉武盛世的形成。新航路开辟沟通了亚非美三大洲，促进了东西方之间的经济文化交流，符合题意。\n\n故选：B。\n"
+            },
+            {
+                "id": "b777cf689311477089e9a6debb9b383a",
+                "prompt": "许多成语典故来源于历史，如退避三舍、卧薪尝胆、围魏救赵、纸上谈兵等。这些成语反映出春秋战国时期的哪一特点\nA.各种制度逐渐崩溃\n B.周王室衰微\n C.争霸兼并战争不断\n D.经济发展迅速\n",
+                "answer": "C",
+                "analysis": "依据所学可知，退避三舍来源于晋楚之间的城濮之战；卧薪尝胆来源于吴越争霸；围魏救赵是桂陵之战中，齐军包围魏国都城用以援救赵国；纸上谈兵来自战国时期秦赵两国的长平之战。以上成语都与此前战国的兼并与争霸战争有关，反映了春秋战国时期诸侯兼并争霸不断的特点。因此C项符合题意，ABD项不符合题意，排除。故此题选C。\n"
+            },
+            {
+                "id": "f46ca6683fa04c5281432ac2bdfe5bb6",
+                "prompt": "历经六百年岁月变迁，紫禁城历久弥新。如今其负责人表示要“把一个壮丽的紫禁城完整地交给下一个六百年。”紫禁城值得传承下去的有\n\n①气势恢弘的历史建筑\n\n②瑰丽璀璨的文物国宝\n\n③明清两代的政治制度\n\n④中华民族的优秀文化\nA.①②③\n B.①②④\n C.①③④\n D.②③④\n",
+                "answer": "B",
+                "analysis": "明成祖在元大都的基础上，修建了北京城，北京城有三重，由外向里依次是京城、皇城、宫城。宫城位于北京城的中轴线上，旧称紫禁城，现在称为故宫，是明清两朝的皇帝居住的地方，明清两朝皇帝与王朝灭亡直接相关。历经六百年岁月变迁，紫禁城历久弥新。如今其负责人表示要“把一个壮丽的紫禁城完整地交给下一个六百年。”紫禁城值得传承下去的有气势恢弘的历史建筑、瑰丽璀璨的文物国宝和中华民族的优秀文化。故选：B。\n"
+            },
+            {
+                "id": "553ea83e1d49449f867bfab50c9c0da3",
+                "prompt": "在我州独山大河口有一个地层断裂留下的世界级标准地质侧面，它将地质演化、运动的历史清晰地展现。这进一步印证了地质力学理论的科学性，请问地质力学的创建者是\nA.李四光 B.侯德榜 C.钱学森 D.冯如",
+                "answer": "A",
+                "analysis": "李四光，字仲拱，原名李仲揆，湖北黄冈人，蒙古族，地质学家、教育家、音乐家和社会活动家，是中国地质力学的创立者，中国现代地球科学和地质工作的主要领导人和奠基人之一，新中国成立后第一批杰出的科学家和为新中国发展做出卓越贡献的元勋。故选A。\n"
+            },
+            {
+                "id": "7a907c98858c4f9c93b9dcd422c57349",
+                "prompt": "《诸城县续志》赞誉清代干嘉年间一位祖籍本地的官员：“砥砺风节，正身率属…… 遇事敢为，无所顾忌。”这位官员是\nA.赵明诚 B.赵秉忠 C.郑板桥 D.刘墉",
+                "answer": "D",
+                "analysis": "本题考查了地方历史。旨在考查调动运用所学知识进行判断分析的能力，难度一般。材料反映的是《诸城县续志》 赞誉了清朝乾隆年间的一位祖籍安徽的官员，他为人正直，高风亮节。AB 项不是清朝人，可以排除；C 项郑板桥是清朝人，也曾为官，但他的主要事迹不是做官，并且他祖籍不是山东省。D 项刘墉，清朝政治家，山东人，符合题意，故本题应选择 D。\n"
+            },
+            {
+                "id": "24a47102eda840688aea225fc7622df5",
+                "prompt": "古代亚非地区的文明古国创造了辉煌灿烂的文明成果，为世界文明的发展作出了杰出的贡献。下列文明属于西亚两河流域文明的是\nA.象形文字和金字塔\n B.楔形文字和《汉谟拉比法典》\n C.甲骨文和青铜器\n D.种姓制度和佛教\n",
+                "answer": "B",
+                "analysis": "属于西亚两河流域文明的是楔形文字和《汉谟拉比法典》。《汉谟拉比法典》是世界上现存的古代第一部比较完备的成文法典。法典由序言、正文和结语三部分组成。序言宣扬汉谟拉比受命于神，结语颂扬汉谟拉比的功绩。法典比较全面地反映了当时的社会状况；关于楔形文字，创造的时间是公元前4000年代末，由于这种文字是用一段段芦秆印在泥版上而制成，笔画像楔子。楔形文字，既有语义符号，又有语音符号，属于最早的文字之一。\n\n故选：B。\n"
+            },
+            {
+                "id": "5cd2150c61f94c5d863383decf2af65d",
+                "prompt": "“陈桥兵变”“杯酒释兵权”等历史典故与下列哪一个历史人物有关？\nA.赵匡胤\n B.李渊\n C.杨坚\n D.宋真宗\n",
+                "answer": "A",
+                "analysis": "960年，赵匡胤发动陈桥兵变，黄袍加身，建立了北宋。北宋建立后，为加强中央集权，赵匡胤又通过“杯酒释兵权”，剥夺了朝中大将的兵权。\n"
+            },
+            {
+                "id": "9bc40f013bae4b0693f3af671c298479",
+                "prompt": "西晋王朝建立后迅速衰落，标志着西晋王朝由盛转衰的事件是\nA.七国之乱\n B.黄巾起义\n C.八王之乱\n D.淝水之战\n",
+                "answer": "C",
+                "analysis": "根据题干并结合所学知识可知，晋惠帝时发生了争夺中央政权的八王之乱，标志着西晋王朝由盛转。西晋统一后，统治集团迅速腐朽。由于第二代皇帝晋惠帝智力低下，无力治理国家，为争夺皇位，皇族内部爆发了“八王之乱”。八王之乱历时16年，西晋从此衰落，选项C符合题意，七国之乱发生在西汉，选项A不符合题意；黄巾起义发生在东汉末，选项B不符合题意；淝水之战发生在前秦和东晋时期，选项D不符合题意。故选C。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "1289c593c47d4196a8c2b4a1090439f0",
+                "prompt": "目前所知，我国有文字可考的历史从商朝开始，这一文字是金文。     （判断对错）\n\n1.错误\n",
+                "answer": "F",
+                "analysis": "结合所学知识可知，甲骨文是中国商周时期刻写在龟甲和牛、羊等兽骨上的文字。目前所知，我国有文字可考的历史从商朝开始，这一文字是甲骨文，而不是金文，因此错误。\n\n"
+            },
+            {
+                "id": "62220e278fd94103b64d8ccd92bda078",
+                "prompt": "判断\n1.罗马教会的地位在查理曼帝国时期得到提高。\n",
+                "answer": "T",
+                "analysis": "本题考查查理曼帝国时期的罗马教会。根据所学知识可知，800年，教皇立奥三世为查理曼加冕，查理曼就由一个蛮族首领变成了古代罗马皇帝的合法继承人，成为“伟大的罗马人的皇帝”，而蛮族加洛林帝国也就变成了“罗马人的帝国”，即查理曼帝国。这样，罗马教会就利用它的“神圣”权威通过查理曼帝国的成立，结束了自蛮族征服罗马帝国以来长达300多年的社会动乱，把整个西欧大陆纳人查理曼帝国的统治秩序之中，消除了蛮族征服者与被征服者罗马人之间的敌对情绪，消除了日耳曼诸蛮族之间的争斗，使蛮族社会进人文明的秩序时代。查理曼帝国解体后，西欧再度陷于分裂。这时，罗马教会成为西欧惟的权力中心，教皇不仅掌握了西欧的宗教统治权，还竭力插手西欧各国政务，甚至废立国王。故罗马教会的地位在查理曼帝国时期得到提高。因此本题答案正确。\n"
+            },
+            {
+                "id": "42d8ea5fbf4c48b2a6d49be65331f101",
+                "prompt": "判断题\n1.秦统一后，地方长官都由朝廷直接任免，这样，皇帝和朝廷就牢牢地控制了全国各地的权力。\n",
+                "answer": "T",
+                "analysis": "本题以秦统一后，地方长官都由朝廷直接任免为切入点，考查的是秦朝巩固统一的措施。\n\n分析材料可知，反映的是秦朝的郡县制。秦始皇统一六国后，把全国分为36郡，后来增至40多郡，郡的行政长官称郡守；在郡下设县，县的长官称县令或县长。郡的长官都由朝廷直接任免。县以下又设乡、亭、里等基层社会组织。这样，皇帝和朝廷就牢牢地控制了全国各地的权力。\n\n故答案为：√。\n"
+            },
+            {
+                "id": "673ecc0948aa4d068d048aaeaeab0c9c",
+                "prompt": "判断对错\n1.“一五”计划完成后，国家实现了工业化。\n",
+                "answer": "F",
+                "analysis": "本题以“一五”计划完成为切入点，主要考查一五计划的相关知识点。\n\n设问实质上考查“一五计划”对我国工业发展的主要影响。第一个五年计划的完成使我国开始改变了工业落后的面貌，向社会主义工业化迈进。\n\n故答案为：\n\n×。\n"
+            },
+            {
+                "id": "e64fe6c2143945be9308ac852133f666",
+                "prompt": "判断题\n1.《齐民要术》是我国第一部综合性的地理学著作，也是一部山水散文集。\n",
+                "answer": "F",
+                "analysis": "贾思勰的《齐民要术》是我国现存最早的一部完整的农学著作，在世界农学史上具有重要地位。郦道元的《水经注》是我国第一部综合性的地理学著作，也是一部山水散文集。\n\n故答案为：×。\n"
+            },
+            {
+                "id": "b64d2f916e81427bbba25dd4e24caed6",
+                "prompt": "判断正误。\n1.宋朝时，水稻产量居粮食作物首位，长江下游和太湖流域一带成为著名的粮仓。\n",
+                "answer": "T",
+                "analysis": "依据所学可知，“苏湖熟，天下足”或“苏常熟，天下足”说明到宋朝时，长江下游和太湖流域一带成为丰饶的粮仓。说明南方经济持续发展，超过了北方，宋朝时，水稻产量跃居粮食作物首位。故本题表述正确。\n"
+            }
+        ],
+        "多选": [
+            {
+                "id": "7d1fd5cb2f9340cfb256cc5b144f3b05",
+                "prompt": "宜昌市“精读一本书活动”，为感悟秦汉历史，学生们可以阅读\nA.《春秋》\n B.《战国策》\n C.《史记》\n D.《资治通鉴》\n",
+                "answer": "CD",
+                "analysis": "《春秋》是由鲁国史官记录大量当时本国诸侯，大夫，国人等失礼非礼之事；鲁国史官也会收集其他诸侯国公侯大夫等失礼非礼之事，会记录诸侯国公侯间大夫等间书信内容。《战国策》为西汉刘向编订的国别体史书，原作者不明，一般认为非一人之作。资料年代大部分出于战国时代，包括策士的著作和史料的记载。《史记》，二十四史之一，最初称为《太史公书》或《太史公记》《太史记》，是西汉史学家司马迁撰写的纪传体史书，是中国历史上第一部纪传体通史，记载了上至上古传说中的黄帝时代，下至汉武帝太初四年间共3000多年的历史。《资治通鉴》是中国一部编年体通史巨著，它以深邃的历史眼光，全面总结了历朝历代的政治智慧，记录了上起春秋战国，下至宋朝建立之前，总共1362年历史发展的轨迹。故为感悟秦汉历史，学生们可以阅读《史记》与《资治通鉴》。本题选CD。\n"
+            },
+            {
+                "id": "0b1ae3d28b30415785182d79224b3274",
+                "prompt": "1815年俄国的工厂为4189个，到1858年增至12256个。工人人数由1804年的224882人增至1860年的859950人，其中雇佣工人占61.4%。由此可见\nA.俄国资本主义经济有所发展\n B.沙皇统治面临严重威胁\n C.农奴制改革起到了积极的影响\n D.农奴制阻碍了俄国资本主义发展\n",
+                "answer": "A",
+                "analysis": "根据材料所提到的俄国在1815-1858年间工厂数量增加、1804-1860年间工人人数增加、雇佣工人占比大，可以反映俄国资本主义经济有所发展，A项正确。\n\n材料中无法体现沙皇统治面临严重威胁，排除B项；农奴制改革发生于1861年，与材料中所提时间不符，排除C项；材料中没有反映农奴制阻碍俄国资本主义发展，排除D项。\n\n故本题选A项。\n"
+            },
+            {
+                "id": "befb4ae0e13e4ba2b927f04fd8c36f68",
+                "prompt": "洋务派在“求富”的口号下创办的民用工业有\nA.安庆内军械所 B.湖北织布局 C.轮船招商局 D.福州船政局",
+                "answer": "BC",
+                "analysis": "依据所学可知，洋务运动后期以“求富”为口号，创办了民用企业，例如湖北织布局、轮船招商局，BC符合题意；安庆内军械所和福州船政局是洋务运动前期以“自强”为口号创办的军事企业，AD项不符合题意，排除；故选BC。\n"
+            },
+            {
+                "id": "e0f918eb4f67424a994dcb2827c583ec",
+                "prompt": "在今天菲律宾的马克塔岛，有一块关于航海家麦哲伦的双面碑。碑文正面记载着“当地人在这里打退了西班牙入侵者，杀死了他们的首领——麦哲伦；碑文背面记载着“麦哲伦的船队于1522年返抵西班牙，第一次环球航海就这样完成了”。据此材料能得出的结论是\nA.麦哲伦航海的根本原因是资本主义的萌芽与发展\n B.麦哲伦船队证明了地圆学说\n C.麦哲伦被杀是因为菲律宾人认为他是殖民入侵者\n D.麦哲伦航海得到西班牙王室的支持\n",
+                "answer": "BCD",
+                "analysis": "第一次环球航海就这样完成了能说明证明了地圆学说；“当地人在这里打退了西班牙入侵者，杀死了他们的首领——麦哲伦”能说明麦哲被杀是因为菲律宾人认为他是殖民入侵者；“麦哲伦的船队于1522年返抵西班牙”能说明麦哲伦航海得到西班牙王室的支持。以上的材料不能说明麦哲伦航海的根本原因是资本主义的萌芽与发展。\n"
+            },
+            {
+                "id": "71814983a083435d8f17671594f21f94",
+                "prompt": "台湾自古以来就是我国的领土。1949年国民党退往台湾后，台湾海峡长期隔绝了台湾与大陆的联系。下列事项反映的共同主题是\n\n1992年，“海基会”“海协会”达成“九二共识”\n\n2005年3月，第十届全国人大通过《反分裂国家法》\n\n2008年11月后，海峡两岸实现“三通”\n\n2015年11月，习近平同马英九在新加坡会面\nA.民族团结\n B.外交发展\n C.对外开放\n D.祖国统一\n",
+                "answer": "D",
+                "analysis": "据题干“1992年，‘海基会’‘海协会’达成‘九二共识’；2005年3月，第十届全国人大通过《反分裂国家法》；2008年11月后，海峡两岸实现‘三通’；2015年11月，习近平同马英九在新加坡会面”可知，反映的共同主题是祖国统一。邓小平从维护祖国和中华民族的根本利益出发，提出“一国两制”的创造性构想。这是完成祖国统一大业的基本方针。\n\n故选：D。\n"
+            },
+            {
+                "id": "be6cd441f0764709a1734d4cb586b10b",
+                "prompt": "乾隆嘉庆时期，文人大多埋头于古籍，不敢过问社会现实，考据之风大盛，形成为考据而考据的现象。这反映了清代\nA.思想专制加强\n B.传统文化衰落\n C.八股取士盛行\n D.儒家地位提高\n",
+                "answer": "A",
+                "analysis": "清朝为了控制士人的思想，防止士阶层的反清思想苗条，发动文字狱运动，牵强附会的抓捕一大批文人，因此“乾隆嘉庆时期，文人大多埋头于古籍，不敢过问社会现实，考据之风大盛”，故本题选A。传统文化在清朝一定意义上是衰落的，但干嘉考据学派是对传统文化做出贡献，所以题干无法推断出传统文化衰落，B项错误。八股取士在明朝就已盛行，清朝延续八股取士，这与干嘉考据学派关系不大，排除C项。“不敢过问社会现实”说明儒家地位没有提高，D项排除。故本题选A。\n"
+            },
+            {
+                "id": "a1c385d7a7a04abcafd4774ea48c01b4",
+                "prompt": "中国工农红军长征，是中国革命历史上的伟大壮举。以下事件发生在长征途中的是\nA.南昌起义 B.遵义会议 C.过雪山草地 D.辽沈战役",
+                "answer": "BC",
+                "analysis": "依据所学可知，南昌起义的时间是1927年8月1日，此时长征还没开始，A项不符合题意；1935年1月，在长征过程中，召开了遵义会议，挽救了党、挽救了红军、挽救了革命，B项符合题意；红军途中，经过泸定桥，强渡大渡河，过雪山草地，到达吴起镇，C项符合题意；辽沈战役的时间是1948年，此时长征已经结束，D项不符合题意，排除；故选BC。\n"
+            },
+            {
+                "id": "c275af40a36d4599ab1bff2f41ca32a8",
+                "prompt": "如果你穿越时光隧道，回到唐朝旅游，你可能看到\nA.浙江余姚工匠正在烧制白瓷\n B.大食使节正在西市购买东西\n C.草市店铺林立，蜀锦等商品琳琅满目\n\n D.一些妇女正在拔河、射箭，大相国寺里新罗人正表演音乐\n",
+                "answer": "ABD",
+                "analysis": "陶瓷业在唐朝有重要发展，越窑青瓷、邢窑白瓷和唐三彩最为有名，其中唐三彩造型美观，釉色绚丽，是世界工艺的珍品。朝鲜半岛上的国家新罗和阿拉伯的大食和唐朝来往频繁。新罗强盛以后，派遣使节和大批留学生到唐朝学习中国文化；新罗物产居唐朝进口首位。新罗仿唐制建立了政治制度，采用科举考试选拔官吏，还引入了中国的医学、天文、历算等科技成就，朝鲜的音乐也传入中国，不仅在唐朝宫廷演出，而且广泛流行于民间。唐长安城宏伟富丽，城内分为坊和市，坊是居民住宅区，市是繁华的商业区，东市和西市是两大商业区。长安既是当时各民族交往的中心，又是一座国际性的大都市。宋朝时期，随着城市人口的增长，商业日益繁荣，城市中的店铺不断增加，街道以及宅巷之内到处可以开设店铺；经商的时间也不再受限制，出现了早市和夜市。都市的商贸活动也辐射到乡镇，形成了新的商业区，叫做草市；在城市与乡村之间的市镇也发展成为重要的商业贸易区。武则天登基成为皇帝，唐朝一些妇女受过诗书、音乐等方面的教育，妇女喜好骑马、打球、射箭等，尚武风气盛行，唐朝实行开放的对外政策，所以大相国寺里新罗人正表演音乐。选项ABD符合题意。故选：ABD。\n"
+            }
+        ]
+    },
+    "语文": {
+        "排序": [
+            {
+                "id": "01e1c5ab4b7d40b19f958eaa215b791a",
+                "prompt": "给下面的句子排序。正确的顺序应为： $$\\underline{}$$ \nA.到处呈现一片衰草连天的景象，准备迎接风雪载途的寒冬。\n B.立春过后，大地渐渐从沉睡中苏醒过来。\n C.到了秋天，果实成熟，植物的叶子渐渐变黄，在秋风中簌簌地落下来。\n D.于是转入炎热的夏季，这是植物孕育果实的时期。\n E.冰雪融化，草木萌发，各种花次第开放。\n F.北雁南飞，活跃在田间草际的昆虫也都销声匿迹。\n G.不久，布谷鸟也来了。\n H.再过两个月，燕子翩然归来。\n",
+                "answer": "BEHGDCFA",
+                "analysis": "本题考查排列句序的能力。本题是按“春夏秋冬”的景物描写的时间顺序来排序的。BEHG写春天；D写夏天；CF写秋天；A写冬天。\n"
+            },
+            {
+                "id": "f79e93e8029b4011bf3fc7d24a3c8d63",
+                "prompt": "相约《小王子》\n\n循着小王子星际之旅的足迹，可以探寻他领悟爱的历程。结合阅读积累，给下列三处分别选择相应的一项\n\n（2）遇见狐狸，理解“驯养”（   ）（3）告别“我”，要离开地球（   ）（1）遇到一座玫瑰花园（   ）\nA.这就好比花儿一样。要是你喜欢一朵花儿，而她在一颗星星上。那你夜里看着天空，就会觉得很美。所有的星星都像开满了花儿。\n B.我还以为自己拥有的是独一无二的一朵花儿呢，可我有的只是普普通通的一朵玫瑰花罢了。\n C.本质的东西用眼是看不见的。正是我为我的玫瑰花费的时间，才使我的玫瑰变得如此重要，我必须对我的玫瑰负责……\n",
+                "answer": "BCA",
+                "analysis": "本题考查学生对课外阅读的掌握情况，对名著的了解。培养学生的大语文观。以考促读。做这种题，熟读原作品，记住重点情节及人物的特征。阅读名著除了识记文学常识，还要对涉及主要人物的精彩片段反复阅读，从而形成自己的阅读体验。死记硬背作者名字、书名及书中的重要人物的名字。此题考查的是与《小王子》有关的文学常识。此题的考查很细致很深入，如果没有对名著的认真阅读与总结，就无法正确全面地作答。\n"
+            },
+            {
+                "id": "64a37bf9d63b49b28cabe96fa99069e2",
+                "prompt": "按春夏秋冬的顺序排列下面的诗句，将正确的序号写在横线上。\nA.忽如一夜春风来，千树万树梨花开。\n B.天街小雨润如酥，草色遥看近却无。\n C.枯藤老树昏鸦，小桥流水人家。\n\n D.明月别枝惊鹊，清风半夜鸣蝉。\n",
+                "answer": "BDCA",
+                "analysis": "A项，冬季；B项，早春；C项，秋季；D项，夏季。\n"
+            },
+            {
+                "id": "217bbb086b73495c9b51c99197f4ced7",
+                "prompt": "将下列错乱的句子排列成一段通顺的话。\nA.但你不能因此小看了这几只猴子，没有他们，整个猴子社会将乱成一闭。\n B.美国的几位研究员发现，猴子社会里也有“警察”。\n C.这种想法如今被证明是错误的。\n D.很多人认为，警察只在人类社会中存在，其他动物的群体里没有类似的角色。\n E.尤其重要的是，猴“警察”以大公无私的胸怀，负责处理猴子之间的冲突。\n F.当然，猴子社会中的“警察”不负责破案，它们只是几只级别高的猴子而已。\n",
+                "answer": "DCBFAE",
+                "analysis": "注意前后句子之间的逻辑和句意的连贯。\n"
+            },
+            {
+                "id": "786e93f517cb4f7ea4ceefbf4d6981e3",
+                "prompt": "请按照《水浒》中描写林冲的内容，排列下面情节的先后顺序（只填写大写字母）。\nA.刺配沧州道\n B.误入白虎堂\n C.火并王伦\n D.雪夜上梁山\n",
+                "answer": "BADC",
+                "analysis": "本题考查名著故事情节，解答此题，按照原著中的故事情节先后排序即可。顺序应该是：林冲误入白虎堂，刺配沧州道，雪夜上梁山，火并王伦。\n"
+            },
+            {
+                "id": "804ecae4c36b42868c42fc93cb8bc2f2",
+                "prompt": "把下列句子排列成语序合理，语意连贯的一段话。\n\n正确的顺序是 $$\\underline{}$$ （只填序号）\n\nA.看作是宇宙智慧的创造物\n B.再也不应该把其他生物仅仅看作我们的美味佳肴\n C.我们再也不应该把宇宙的其他部分看作只是我们征服的对象\n D.而首先应该把它们看作是与我们平等的生命\n E.看作是宇宙之美的展示者\n",
+                "answer": "CBDAE",
+                "analysis": "本题考查语言的连贯和句子的排列。“我们”是被陈述的对象，所以C在最前面，B与C是并列关系。应紧随其后，ADC与前面CB构成并列关系，同时，DAE是递进关系。故答案为：CBDAE。\n"
+            },
+            {
+                "id": "6611ab0f9e644dbd8f6867865999db14",
+                "prompt": "根据《简·爱》中四次“离开”的情节阅读，回答问题。\n\n按照情节发生的先后顺序，对简·爱的四次“离开”进行排序。\nA.简·爱离开劳渥德学校\n B.简·爱离开桑菲尔德庄园\n C.简·爱离开沼屋（沼地居）\n D.简·爱离开盖兹海德府的舅舅舅母家\n",
+                "answer": "DABC",
+                "analysis": "本题考查对名著内容的理解和掌握。首先，舅母一家人对简·爱并不友善，她经常遭受无理的虐待（表兄约翰·里德的蛮横、她姐妹的傲慢、舅母的憎厌、佣人们的偏心）。被惩罚独自关在红屋子的事件发生后，她得到了出去上学（劳沃德学校——慈善学校）的机会。其次，在劳沃德学校，劳沃德学校教规严厉，简爱在劳法德学校继续受到精神和肉体上的摧残。海伦的友情和谭波儿小姐的关爱满足了简·爱对关怀和温暖的渴求，可海伦肺病（传染病）去世，谭波儿结婚离开，这刺激了简爱。简爱渴望闯进一个“变化多端的天地”，随后找到的家庭教师的工作使她得以离开。然后，简爱对一些无法掌控的因素（外貌、社会地位、财富）的无力感而产生的自卑使她对情感不确定，因此当婚礼受阻并得知了罗切斯特有个疯了的妻子时，简·爱的情感世界在一瞬间坍塌自尊心受到很大打击，她的道德不允许她作为一个不合法的妻子继续生活在这个庄园。最后，简·爱明白了自己与圣·约翰的结合不是出于爱情，圣·约翰只是把她当作传教、为上帝服务的工具，她只是个助手。她感受到了罗切斯特爱的呼唤，于是她踏上了寻找罗切斯特的旅途。\n"
+            }
+        ],
+        "填空": [
+            {
+                "id": "a5aad51d8b1c4f67ba10d8568fd5b869",
+                "prompt": "请为下面这则新闻拟一个标题（不超过20个字）\n\n据福建省政府新闻办公室24日下午举行的新闻发布会消息，登陆福建的今年第13号台风“鲇鱼”给该省沿海造成一定的经济损失，全省共60多万人受灾。据福建省防汛办截至23日18时初步统计，全省共有15个县（市、区）、12个乡镇、64.79万人受灾，房屋倒塌0.05万间；紧急转移31.32万人；农作物受灾26.19千公顷。福建省防汛办新闻发言人丘汀萌说，由于部署周密、防御得当、转移坚决，福建省没有发生重大险情和人员伤亡，把灾害损失降到了最低程度。目前各地全力以赴落实好各项灾后恢复重建措施。\n\n新闻标题： $$\\underline{}$$ 。\n",
+                "answer": "第13号台风“鲇鱼”致福建受灾",
+                "analysis": "为新闻拟标题要求找准关键词，要突出最新鲜，最实质，最有特点的事实。\n"
+            },
+            {
+                "id": "340765b40f12444a812c6d9fe25ce1ed",
+                "prompt": "读下列小诗，完成题目。\n\n当它来时，我听见\n\n东蛰的虫蛹转动于地下\n\n群众在旷场上高声说话\n\n城市从远方\n\n用电力与钢铁召唤它\n\n诗中的“它”指的是 $$\\underline{}$$ ，本诗蕴含着诗人对 $$\\underline{}$$ 的向往和追求。（2分）\n",
+                "answer": "太阳（黎明）;光明",
+                "analysis": "本题考查名著阅读。考生需掌握《艾青诗选》中常见的意象以及其所代表的意义，土地、太阳是艾青诗中常见的意象，也表达了作者对于光明、祖国的热爱。\n\n《艾青诗选》收集了艾青从上世纪三十年代到七十年代末的作品，共41篇。艾青早期的诗歌，注重通过描写具体可感的事物来引起感觉、发挥联想、捕捉和选择意象以凝结成形象，形成了他早期诗歌艺术最显著的特征之一。他以革命的现实主义手法，深沉忧郁地唱出了祖国的土地和人民所遭受的苦难和不幸，反映了中华民族的悲惨命运，同时他的诗篇又激励着千千万万不愿做奴隶的人们，为神圣的国土而英勇斗争。\n"
+            },
+            {
+                "id": "d5bf1ff6a99c4a868a05ef29c0f3a76b",
+                "prompt": "《七律·长征》为我们展示了红军在长征途中克服千难万险的雄壮画卷，请你按照示例，用简要的语言，概括诗中描绘的几幅画面的主要内容。\n\n腾越五岭 $$\\underline{}$$  $$\\underline{}$$  $$\\underline{}$$ 喜踏岷山雪\n",
+                "answer": "疾跨乌蒙;巧渡金沙江;飞夺泸定桥",
+                "analysis": "本题考查对全诗内容的总结。通过对诗中含义的理解，结合描写红军长征的诗句，加以总结作答即可。\n"
+            },
+            {
+                "id": "dcef6bdcd3cf457a8f895995a5340496",
+                "prompt": "根据阅读积累，在下面的横线上填写相应的人名。\n\n“我到后不久，就见到了 $$\\underline{}$$ ，他是个面容瘦削、看上去很像林肯的人物，个子高出一般的中国人，背有些驼，一头浓密的黑发留得很长，双眼炯炯有神，鼻梁很高，颧骨突出。我在一刹那间所得的印象，是一个非常精明的知识分子的面孔，可是在好几天里面，我总没有证实这一点的机会……南京虽然悬赏二十五万元购买他的首级，可是他却毫不介意地和旁的行人们一同散步呢。”\n\n文段选自《红星照耀中国》，这本书的作者是美国人 $$\\underline{}$$ 。文中“A”处的人名是 $$\\underline{}$$ 。介绍作者来到古城保安的是另一位“鼎鼎大名”的革命领导人 $$\\underline{}$$ ，他曾经是南开大学的高材生。\n",
+                "answer": "斯诺（埃德加·斯诺）;毛泽东;周恩来",
+                "analysis": "本题考查名著阅读中对名著内容的掌握，注重日常阅读积累。《红星照耀中国》原名《西行漫记》，是美国著名记者埃德加·斯诺的不朽名著，一部文笔优美的纪实性很强的报道性作品。作者真实地记录了自1936年6月至10月在中国西北革命根据地（以延安为中心的陕甘宁边区）进行实地采访的所见所闻，向全世界真实报道了中国共产党和中国工农红军以及许多红军领袖、红军将领的情况。毛泽东、周恩来和朱德是斯诺笔下最具代表性的人物形象。通过阅读原著可知，“很像林肯的人物”指的就是毛泽东，而介绍斯诺来到古城保安的是周恩来。\n"
+            },
+            {
+                "id": "d7387c681e9a4a65949411a804c35257",
+                "prompt": "仿写：根据语境，仿照画线句，将下列句子补充完整。\n\n清风明月、天光丽影、山川河流……都是人类身心的一部分。我们应诗意地栖息在地球上，感受自然的美——泉水在花草中低语， $$\\underline{}$$ ，溪流在石缝里缠绵……\n",
+                "answer": "鱼儿在溪流中嬉戏",
+                "analysis": "本题考查语句仿写。仔细读划线句子，可知“泉水在花草中低语”与“溪流在石缝里缠绵”均运用了拟人手法，故中间横线处也应填入拟人语句，并结合题干所给语句描述的内容与语境进行拟写，如：鱼儿在溪流中嬉戏。\n"
+            },
+            {
+                "id": "a0927e3930d7422883231f94b460af53",
+                "prompt": "下面是主持人的一段开场白，请你根据所学知识把它补充完整。\n\n手捧《朝花夕拾》，神游百草故园，穿行在鲁迅曾经走过的小径，赏玩当年先生笔下的景致，一点一滴涌上心间：置身园内仿佛可以听到油蛉和蟋蟀的鸣叫，依稀看见儿时的鲁迅 $$\\underline{}$$ ……今天就让我们走进《朝花夕拾》，寻梦百草故园，追忆那似水年华，探寻一代文豪的成长足迹吧。\n",
+                "answer": "在桂花树下抬头张望，寻找蝉蜕",
+                "analysis": "本题考查学生根据名著内容进行情境续写的能力。分析开场白中的“手捧《朝花夕拾》”和“神游百草故园”可知，这是鲁迅写的散文《从百草园到三味书屋》，收录在散文集《朝花夕拾》中。这段文字中的“置身园内”和“听到油蛉和蟋蟀的鸣叫”可以让我们把思绪延伸到鲁迅儿时待过的百草园中，“依稀看见儿时的鲁迅”后面要续写的自然是与鲁迅在百草园相关的人或事物。联系《从百草园到三味书屋》课文内容，鲁迅儿时曾在这儿留下了许多欢乐，如在桑树下听鸣蝉悠然的吟唱，看着迅捷的云雀忽然从草间直窜云霄；如在百草园一角翻弄断砖寻蜈蚣，用手指按会喷烟雾的斑蝥；再比如去寻可以让人成仙的何首乌根，牵连不断的拔起来，还将泥墙给弄坏了……这样鲜活的事件还有许多，结合课文分析提取并表达，写的时候注意句式和字数的特征即可。示例一：偷偷地拨弄墙角的那株何首乌；示例二：依偎在长妈妈怀里，如痴如醉地听“美女蛇吃人”的故事。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            { 
+            "id": "b172748d5f94479b933ccacece9d71a8",
+            "prompt": "下面是杜甫一首题为“宿江边阁”的律诗，中间两联语\n\n序已乱，下列排序正确的一项是(）\n\n暝色延山径，高斋次水门。——，$$\\underline{ }$$。 $$\\underline{}$$ ， $$\\underline{}$$ 。不眠忧战伐，无力正乾坤。\nA.①④③②\n B.④①②③\n C.②④①③\n D.②③④①\n",
+            "answer": "B", 
+            "analysis": "这是一首律诗，中间两联要对仗，每联最后一个字要押韵，还要\n\n注意整首诗的起承转合。综合分析，B项最恰当。\n"
+        },
+            {
+                "id": "0c21c7e93de2415693d4843e396d527d",
+                "prompt": "下列对诗歌的理解有误的一项是\nA.《次北固山下》诗题中的“次”是游览的意思，表明诗人写诗的地点。\n B.《次北固山下》尾联诗人感叹家书无处通达，借大雁北飞表达诗人的思乡之情。\n C.《天净沙·秋思》曲中的主人公是一个流落异乡的游子，他独自牵着一匹因长途跋涉而黑瘦的马，步履艰难地行走在西风劲吹的古道上。\n D.“枯藤老树昏鸦，小桥流水人家，古道西风瘦马”，十八个字，写了九种景物，有静有动，加在名词前的定语则体现了诗人对那些景物的独特感受。\n",
+                "answer": "A",
+                "analysis": "本题考查学生对诗词的鉴赏能力。本题属于综合性考题，考查对诗歌内容、手法和主旨理解和赏析，考生在作答这类试题的时候要注意，首先要认真研读诗歌内容，理解诗歌大致意象或情境，体会作者的思想感情，然后仔细辨识选项中是否有对诗歌的解读的错误。A选项《次北固山下》诗题中的“次”，结合全诗内容，可知是“停”的意思，客行在外，夜晚停下脚步休息，而不是题目中所说的“游览”的意思。所以A选项错误，故本题选择A选项。\n"
+            },
+            {
+                "id": "6b43c9fb13564a1cb2124d0241a2703a",
+                "prompt": "自然环境的描写能够交代人物的社会关系。这种说法是否正确？（   ）\nA.是\n B.否\n",
+                "answer": "B",
+                "analysis": "这种说法不正确。社会环境的描写可以交代人物的生存环境、社会关系。\n"
+            },
+            {
+                "id": "d7296cb88e4142dc828c277b39a6888a",
+                "prompt": "想象一下，“小草偷偷地从土里钻出来”描绘了一幅怎样的画面，下面的诗句中描绘的画面与它最接近的一项是\nA.春风又绿江南岸（王安石《泊船瓜洲》)\n B.浅草才能没马蹄（白居易《钱塘湖春行》)\n C.草色遥看近却无（韩愈《早春呈水部张十八员外》)\n D.风吹草低见牛羊（《敕勒歌》)\n",
+                "answer": "C",
+                "analysis": "“小草偷偷地从土里钻出来”描绘的是初春小草刚刚开始发芽时的情景，此时大地呈现的必是“草色遥看近却无”的景色。\n"
+            },
+            {
+                "id": "1151ea9e956748cfb48c8c567063fda1",
+                "prompt": "请选出下列句子中说法$$\\dot{正}\\dot{确}$$的一项\nA.新闻特写，指采用类似于特写的手法以形象化的描写作为主要表现手段，截取新闻事件中最具有价值、最生动感人、最富有特征的片断和部分予以放大，从而鲜明再现典型人物、事件、场景的一种新闻体裁。\n B.根据不同的语气，我们将句子分为陈述句、疑问句、感叹句和祈使句，例如“我走了，到那边来信！”“我要高声赞美白杨树！”都是属于感叹句！\n C.《答谢中书书》的作者是吴均，南朝宋文学家，这篇文章是书信体裁，作者用生花妙笔为友人描绘了富春江的奇山异水，也写出了自己面对美景的感受，意在劝友人放下争夺名利之心，忘情于天地大美之中。\n D.律诗有“五律”和“七律”，每两句成一联，依次称为首联、颔联、颈联、尾联。每首的中间两联的上下句须是对偶句，全诗通押一个韵，除了首句，每句都需押韵。\n",
+                "answer": "A",
+                "analysis": "B：祈使句的作用是要求，请求或命令劝告叮嘱，建议别人做或不做一件事。“我走了，到那边来信！”是叮嘱，属于祈使句，不属于感叹句。\n\nC：吴均是南朝梁文学家。\n\nD：“每句都需押韵”有误。律诗全首通押一韵，即一韵到底，中间不得换韵。第二、四、六、八句押韵，首句可押可不押。\n\n故选A。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "5003165b38c7432ea78db6f34bf6eeb2",
+                "prompt": "请判断：\n1.诗人以平等的口吻娓娓道来，语气亲切委婉、真挚坦诚。（     ）\n",
+                "answer": "T",
+                "analysis": "说法正确。\n"
+            },
+            {
+                "id": "f322d2e349894c999834732e3a7daa47",
+                "prompt": "判断题（正确的回答正确,错误的回答错误）。\n1.《红星照耀中国》的作者是美国杰出的新闻工作者、作家埃德加·斯诺。当时为了在国民党统治区出版方便，此书曾易名为《西行漫记》。\n 2.他是南京通缉名单上的第一号“赤匪”,蒋介石悬赏二十五万元银洋不论死活要缉拿到他，他是怎样的人呢?那个价值这么高昂的东方人脑袋里到底有些什么名堂呢?文中的“他”指朱德。\n 3.《红星照耀中国》一书中写道:“在某种意义上讲，这次大迁移是历史上最大的一次流动的武装宣传。”文中“流动的武装宣传”是指刘邓大军千里挺进大别山。\n",
+                "answer": "TFF",
+                "analysis": "（1）对。（2）错，“他”指的是毛泽东。（3）错，指的是红军的长征。\n"
+            },
+            {
+                "id": "be433d8341274094b621d6e6aff664ec",
+                "prompt": "请判断：\n1.《钗头凤》表达出诗人临终时复杂的思想情绪和忧国忧民的爱国情怀，表现了诗人一生的心愿，倾注了诗人满腔的悲慨，既有对抗金大业未就的无穷遗恨，也有对神圣事业必成的坚定信念。（    ）\n",
+                "answer": "F",
+                "analysis": "《钗头凤》这首词讲述了诗人与爱人的爱情故事，抒发了诗人对于恋人的思念之情。《示儿》则表达出诗人临终时复杂的思想情绪和忧国忧民的爱国情怀，表现了诗人一生的心愿，倾注了诗人满腔的悲慨，既有对抗金大业未就的无穷遗恨，也有对神圣事业必成的坚定信念。\n"
+            },
+            {
+                "id": "a5820873136848168f4f971b6cc2eba6",
+                "prompt": "判断题。(正确的回答正确，错误的回答错误)\n1.《伊索寓言》大多是动物故事，教人处事做人的道理，书中不少内容是对当时社会现实的隐射。\n 2.《农夫和蛇》这个故事告诉我们，做好事一定要分清善恶，否则有可能被坏人伤害。\n 3.《水浒传》中，有两个好汉因为题反诗而遭殃，宋江酒后在浔阳楼上题反诗，卢俊义无故在自家的墙上题反诗。\n",
+                "answer": "TTF",
+                "analysis": "考查对名著的理解。1、2对，3错，吴用为了让卢俊义被官府所追捕进而拉入他们团伙，就诱导卢俊义在自家的墙头上写下反诗。\n"
+            },
+            {
+                "id": "1fd26e0577d64105813eadac4fa060ed",
+                "prompt": "判断。\n1.《左传》原名《左氏春秋》，汉代改称《春秋左氏传》，旧说为春秋末年鲁国史官左丘明所作，是我国第一部叙事详备的编年史著作。《左传》《公羊传》《榖梁传》合称“春秋三传”。\n", "answer_option": ["1.《左传》原名《左氏春秋》，汉代改称《春秋左氏传》，旧说为春秋末年鲁国史官左丘明所作，是我国第一部叙事详备的编年史著作。《左传》《公羊传》《榖梁传》合称“春秋三传”。\n"], 
+                "answer": "T", 
+                "analysis": "考察的是文学常识\n"
+            }
+        ],
+        "多选": [
+            {
+                "id": "61a89dcccada4753b6b233a3a53a1d9c",
+                "prompt": "①野菊花！漫山遍野的野菊花！\n\n②有谁见过这般豪放壮烈的花云？有谁闻过这么沉郁凝重的药香？那样泼泼辣辣地开。一簇一簇，一滩一滩，一坡一坡，灿烂辉煌！\n\n(《野菊花》)\n\n这个开头起到什么作用？（     ）\nA.表达思想情感\n B.推动情节发展\n C.总括全文，开篇点题\n D.交代社会环境\n",
+                "answer": "AC",
+                "analysis": "开头部分以野菊花开始，点题；同时表现了野菊花的豪放壮烈的品质。故选AC。\n"
+            },
+            {
+                "id": "44050fd931d0478f8bb336bf72c23101",
+                "prompt": "请选出默写有误的两项\nA.金清酒斗十千，玉盆珍馐值万钱。\n B.欲为圣明除弊事，肯将衰朽惜残年！\n C.不应有恨，何事长向别时圆。\n D.戍鼓断人行，边秋一雁声。\n E.三年谪宦此栖迟，万古惟留楚客悲。\n F.寂寂江山零落处，怜君何事到天涯！\n",
+                "answer": "AF",
+                "analysis": "A.玉盘珍羞直万钱\n\nF.寂寂江山摇落处\n"
+            },
+            {
+                "id": "75d056768f194a37bf481c8a0c54fbba",
+                "prompt": "某班拟开展以“漫步古诗苑”为主题的活动，班委会准备先将教材中出现过的诗句分类编辑。下列诗句应该放在“思乡”主题类的两项是\nA.晴空一鹤排云上，便引诗情到碧霄。\n B.乡书何处达，归雁洛阳边。\n C.我寄愁心与明月，随君直到夜郎西。\n D.何当共剪西窗烛，却话巴山夜雨时。\n",
+                "answer": "BC",
+                "analysis": "本题考查学生对诗歌内容主旨的理解能力。根据题干，要求诗歌主题为“思乡”。A项中：“晴空一鹤排云上，便引诗情到碧霄”的意思是秋日晴空万里，一只仙鹤排开云层扶摇直上，便引发我的诗情飞上云霄，讴歌了秋天的美好。B项中“乡书何处达，归雁洛阳边”的意思是诗人看着眼前的“平潮、悬帆、海日、江春”，不由得萌发出一个美好的想法：我写上一封书信让那北归的鸿雁捎给洛阳的家人，让他（她）们也知道我此时此地的心情吧。表达了作者思乡的主题。C项中“我寄愁心与明月，随君直到燕郎西”一句诗是诗人借明月以抒发旅思乡愁怀旧念远的感情。D项中“何当共剪西窗烛，却话巴山夜雨时”表达了诗人对未来重逢情境的想象，希望能同妻子在西屋的窗下窃窃私语，彻夜不眠的愿望。因此，本题正确选项为BC。\n"
+            },
+            {
+                "id": "9d3b4060ab5c4ba4bff22bb8f566377f",
+                "prompt": "下列对文章的赏析，不正确的两项是\nA.“合于交响曲之节奏”，是说集体创造活人之塑像应遵循相互合作与协调原理。\n B.作者引用歌德的话“没有勇气一切都完”，着重证明唯有大无畏精神才是创造取得成功的关键。\n C.“走两步退一步”隐含着创造之路虽有曲折坎坷，但还是要不断前进的意思。\n D.“创造之神所爱住的行宫”意指创造之神往往钟情于勤奋而勇于奉献的人。\n E.本文的主旨可以概括为主要论述教育者需要探索创造理论和创造技术。\n F.作者善于用排比的修辞手法来增强文章的气势、说理效果和感染力。\n",
+                "answer": "BE",
+                "analysis": "B项太绝对；E项没有把握准文章的主旨。文章指出，“歌德说：‘没有勇气一切都完。’是的，生路是要勇气探出来、走出来造出来的。这只是一半真理；当英雄无用武之地，他除了大无畏之斧，还得有智慧之剑，金刚之信念与意志，才能开出一条生路。”而B项却说引用歌德的话是证明创造取得成功的关键唯有大无畏精神，丢掉了“智慧之剑”“金刚之信念与意志”，由此判定B项是错误的。E项是对全文的理解和赏析，E项的错误是以偏概全，文章的主旨是说教育者所要创造的是真善美的活人，当然，“也要创造值得自己崇拜之创造理论和创造技术”，该项把次要方面说成“主旨”，所以不正确。\n"
+            },
+            {
+                "id": "b25b4f20901941b0bec2597120f33227",
+                "prompt": "下列短语的结构与“武松打虎”相同的两项是\nA.黄果树瀑布\n B.范进中举\n C.过零丁洋\n D.最后一片叶子\n E.狱中书简\n F.唐雎不辱使命\n G.留学巴黎\n H.绞刑架下的报告\n",
+                "answer": "BF",
+                "analysis": "武松打虎，“武松”和“打虎”为主谓关系。“武松打虎”为主谓短语。\n\nA项，黄果树瀑布，“黄果树”和“瀑布”为修饰和被修饰的关系。“黄果树瀑布”为偏正短语。选项短语结构与题干不相同。\n\nB项，范进中举，“范进”和“中举”为主谓关系。“范进中举”为主谓短语。选项短语结构与题干相同。\n\nC项，过零丁洋，“过”和“零丁洋”为支配和被支配的关系。“过零丁洋”为动宾短语。选项短语结构与题干不相同。\n\nD项，最后一片叶子，“最后一片”和“叶子”为修饰和被修饰的关系。“最后一片叶子”为偏正短语。选项短语结构与题干不相同。\n\nE项，狱中书简，“狱中”和“书简”为修饰和被修饰的关系。“狱中书简”为偏正短语。选项短语结构与题干不相同。\n\nF项，唐雎不辱使命，“唐雎”和“不辱使命”为主谓关系。“唐雎不辱使命”为主谓短语。选项短语结构与题干相同。\n\nG项，留学巴黎，“留学”和“巴黎”为支配和被支配的关系。“留学巴黎”为动宾短语。选项短语结构与题干不相同。\n\nH项，绞刑架下的报告，“绞刑架下”和“报告”为修饰和被修饰的关系。“绞刑架下的报告”为偏正短语。选项短语结构与题干不相同。\n\n本题要求选择短语结构与题干相同的两项。\n\n综上，本题答案为B、F。\n"
+            },
+            {
+                "id": "7f53f844d3134b23b2476093bb0b224c",
+                "prompt": "  我国的石拱桥有悠久的历史。《水经注》里提到的“旅人桥 ”，$$\\dot{大}\\dot{约}$$建成于公元 282 年，$$\\dot{可}\\dot{能}$$是有记载的最早的石拱桥了。我国的石拱桥$$\\dot{几}\\dot{乎}$$到处都有。这些桥大小不一，形式多样，有许多是惊人的杰作。其中最著名的当推河北省赵县的赵州桥，还有北京丰台区的卢沟桥。\n\n“大约”“可能”“几乎”有什么特点？（    ）\nA.生动\n B.严谨\n C.准确\n D.活泼\n",
+                "answer": "BC",
+                "analysis": "使用“大约”“可能”“几乎”，让文段语言更准确、严谨，体现了说明文语言的准确性，增加了说明的可靠性。\n"
+            },
+            {
+                "id": "06d68caeb9524856a1e979a37ced66f9",
+                "prompt": "下列对文学名著《昆虫记》的表述不正确的两项是\nA.《昆虫记》是一部优秀的科普著作，它行文生动活泼，语调轻松诙谐，字里行间情趣盎然。\n B.《昆虫记》中的蝉要在地下潜伏四年，才能钻出地面，在阳光下歌唱五个星期。蜜蜂因为惦念着小宝贝和丰富的蜂蜜，可以凭借一种不可解释的本能飞回果中，而这种本能正是我们人类所缺少的。\n C.《昆虫记》是英国昆虫学家法布尔的作品，被誉为“昆虫的史诗”。\n D.《昆虫记》除了真实地记录昆虫的生活，还透过昆虫世界折射出社会人生。全书充满了对生命的 关爱之情，充满了对自然万物的赞美之情。\n E.《昆虫记》中写石蚕善于建造巢穴，管理家务，蜘蛛在捕获食物、编织“罗网”方面独具才能。\n",
+                "answer": "CE",
+                "analysis": "考查名著相关知识。《昆虫记》的作者是法国昆虫学家法布尔，C项有误。《昆虫记》中善于建造巢穴，管理家务的是蟋蟀，E项有误。\n"
+            },
+            {
+                "id": "90933a852e1d4cdea5f3526c4d23ec4b",
+                "prompt": "下面关于《骆驼祥子》内容表述$$\\dot{有}\\dot{误}$$的两项是\nA.作品围绕着祥子的最大梦想，写他三起三落的人生经历，突出当时社会人民的苦难生活。\n B.祥子第一辆车被抢走后，回到人和车厂。他先在夏家拉包月，拉了四天就辞工了，又去杨家拉包月，刚离开杨家，买车的钱就被孙侦探抢走。\n C.祥子最初老实，坚忍，自尊好强，吃苦耐劳，到小说结尾却变成了麻木、狡猾、好占便宜的行尸走肉。祥子的这一变化，正无情地批判了当时的社会现实——它不让好人有出路。\n D.《骆驼祥子》中的虎妞是车厂老板刘四爷的女儿，勤劳能干，霸道泼辣。她曾嫁给一个军官，被抛弃后回到车厂，再嫁给祥子，最后难产而死。\n E.虎妞是老舍精心设计的一个人物，作者对她的态度既同情又批判。\n",
+                "answer": "BD",
+                "analysis": "本题考查名著内容的积累分析能力，要求选出表述有误的两项。B项，祥子第一次拉包月的主人是杨先生，他和他的家人对祥子很不好，所以祥子只做四天就不干了，所以选项“先在夏家拉包月，拉了四天就辞工了，又去杨家拉包月”是有误的。D项，“曾嫁给一个军官，被抛弃”说的是“小福子”而不是“虎妞”，所以选项表述有误。所以选项表述有误，BD为本题答案。\n"
+            }
+        ]
+    },
+    "生物": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "fccbcf028719463aa0b475081d7fda88",
+                "prompt": "进入青春期后，身体发生的主要变化有 $$\\underline{}$$ （填序号）\n\n①身高和体重突增；\n\n②神经系统开始发育；\n\n③脑的质量迅速增加；\n\n④性发育和性成熟。\n\n\n",
+                "answer": "①④",
+                "analysis": "青春期是一个生长和发育发生重要变化的时期，身高、体重突增；神经系统在婴儿时期已经发育完全，青春期神经系统功能显著增强；性发育和性成熟。脑的质量到七八岁时就已经接近成人水平，到青春期后，质量增长有限，只是内部结构和功能发育得更加复杂、完善，故选择①④。\n"
+            },
+            {
+                "id": "8e742ff713e548b09df39962a31c4af6",
+                "prompt": "病毒没有细胞结构，一般由 $$\\underline{}$$ 外壳和内部遗传物质构成。\n",
+                "answer": "蛋白质",
+                "analysis": "病毒的结构简单，由蛋白质外壳和内部的遗传物质组成。没有细胞结构。\n"
+            },
+            {
+                "id": "d41135ac76c54950ba214bf10fb836f3",
+                "prompt": "杭州湾生态湿地公园，树木葱茏，芳草如茵，水波荡漾，随处可见白鹭翩翩飞舞，成为市民和游客闹中取静，亲近大自然的氧吧，下列关于该湿地公园的说法正确的是： $$\\underline{}$$ 。\n\n①该湿地公园是个完整的生态系统\n\n②该湿地公园的各种植物和动物及非生物因素构成生态系统\n\n③该湿地公园中的所有植物是生产者，所有动物是消费者\n\n④在该生态系统建设中起有关键性作用，所以人是生产者\n",
+                "answer": "①③",
+                "analysis": "①沧浪洲生态湿地公园，树木葱茏，芳草如茵，杨柳依依，随处可见鸥鹭翩翩飞舞，这些都构成了生态系统的生物部分；碧波荡漾构成了生态系统的非生物部分，所以该湿地公园是个完整的生态系统，①正确。\n\n②生态系统的组成包括非生物部分和生物部分。非生物部分有阳光、空气、水、温度、土壤（泥沙）等；生物部分包括生产者、消费者、分解者。该湿地公园的各种植物和动物只是生态系统中的生产者和消费者，没有分解者，与生物因素构不成生态系统，②错误。\n\n③生产者是指能进行光合作用，为植物自身、消费者、分解者提供有机物（食物）和氧气的绿色植物；消费者是指不能进行光合作用，必需以现成的有机物为食的动物，③正确。\n\n④在生态系统中，生产者是指能进行光合作用，为植物自身、消费者、分解者提供有机物（食物）和氧气的绿色植物，人是消费者，④错误。\n\n故答案为：①③。\n"
+            },
+            {
+                "id": "00b51e5dbc2f4841b9c02e694fb2e3f4",
+                "prompt": "植物生长不仅需要含 $$\\underline{}$$ 的无机盐，还需要含 $$\\underline{}$$ 的、含 $$\\underline{}$$ 的无机盐。\n",
+                "answer": "氮;磷;钾",
+                "analysis": "植物主要通过根尖的成熟区吸收土壤中的水分和无机盐，并通过根、茎、叶的导管运输到植物体的各个部分。无机盐对植物的生长发育起着重要的作用，这些无机盐包括氮、磷、钾、钙、镁、硫、硼、锰、锌、钼等的多种无机盐。\n\n植物需要最多的是含氮、磷、钾的无机盐。含氮的无机盐能促进细胞的分裂和生长，使枝繁叶茂；含磷的无机盐可以促进幼苗的发育和花的开放，使果实、种子提早成熟；含钾的无机盐使植物茎秆健壮，促进淀粉的形成与运输。\n"
+            },
+            {
+                "id": "90648f7a3e7e43e8912151a66a15a353",
+                "prompt": "因为细胞核位于细胞中央，所以细胞核是细胞的控制中心 $$\\underline{}$$ 。（判断对错）\n",
+                "answer": "$$\\times$$",
+                "analysis": "细胞核中容易被碱性染料染成深色的物质称做染色体，染色体是由$$\\rm DNA$$和蛋白质两种物质组成，其中主要遗传物质是$$\\rm DNA$$，$$\\rm DNA$$是遗传信息的载体，它由两条长长的、互相盘绕的链组成，构成双螺旋结构。上面有特定遗传效应的片段叫基因。基因控制生物的性状。生物的各种性状都是分别由这些不同的基因控制的。细胞核是细胞代谢和遗传的控制中心，这是因为细胞核内染色质中含有$$\\rm DNA$$，是遗传信息库，含有大量的遗传信息，故题干说法错误。\n\n故答案为：$$\\times$$。\n"
+            },
+            {
+                "id": "a9bf250bb5b24e39bb28dc582f0459a6",
+                "prompt": "基因是有遗传效应的 $$\\underline{}$$ 片段。\n\n",
+                "answer": "$$\\rm DNA$$",
+                "analysis": "生物体都由细胞组成，而细胞的细胞核中有携带遗传物质的结构$$-$$染色体，染色体上的遗传物质是$$\\rm DNA$$，每个$$\\rm DNA$$上有多个基因，基因是$$\\rm DNA$$上有遗传效应的片段，基因才是控制性状（特征）的基本遗传单位。生物的性状是由基因决定的，基因决定性状的表达，一个基因对应一个性状。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "af283f80172e44a3998cca53402ed9d8",
+                "prompt": "我国提出“绿水青山就是金山银山”，强调了保护生态环境、保护生物圈，实现人与自然和谐发展在经济建设中的重要性。这是因为生物圈（    ）\nA.是指地球上所有的植物 B.只包括岩石圈和水圈 C.各种资源都用之不尽 D.是地球上生物的共同家园",
+                "answer": "D",
+                "analysis": "我国提出“绿水青山就是金山银山”，强调了保护生态环境、保护生物圈，实现人与自然和谐发展在经济建设中的重要性。这是因为生物圈为生物提供了维持生命所需的空气、阳光、水等条件，生物圈是地球上的所有生物与其生存的环境形成的一个统一整体，是地球上所有生物的共同家园。\n\n故选D。\n"
+            },
+            {
+                "id": "c93feba789a1459baccf405cb9d780bf",
+                "prompt": "将面粉揉搓成面团，用双层纱布包裹并放入清水中揉挤，不断有白色物质从纱布里渗出来。量取 $$2{ml}$$ 此液体并滴加一滴稀碘液，振荡后试管中液体变成了蓝色。这说明面团中含有（    ）\nA.蛋白质\n B.脂肪\n C.淀粉\n D.葡萄糖\n",
+                "answer": "C",
+                "analysis": "淀粉遇碘液会变蓝色，“……振荡后试管中液体变成了蓝色”，题述现象说明面团中含有淀粉，故选C。\n"
+            },
+            {
+                "id": "da5ff84d29be416f8c67b077d0ef0e1d",
+                "prompt": "以下哪项不能体现生物适应环境（    ）\nA.海豚皮下脂肪很厚\n B.骆驼刺根系发达\n C.蚯蚓使土壤疏松 D.骆驼尿液非常少",
+                "answer": "C",
+                "analysis": "海豚皮下脂肪很厚，有利于保持体温，减少热量的散失，是对寒冷的环境的一种适应，$${A}$$正确；\n\n骆驼刺根系发鬃，可以吸收土壤深处的水分，是对干燥缺水的环境一种适应，$${B}$$正确；\n\n蚯蚓能疏松土壤中，蚯蚓在土壤中钻洞，使土壤疏松，有利于根的生长，体现了生物对环境土壤的影响，不能体现生物适应环境，$${C}$$错误；\n\n骆驼尿液非常少，有利于保持体内的水分，是对干燥缺水的环境一种适应，$${D}$$正确。\n\n故选择$${C}$$选项。\n"
+            },
+            {
+                "id": "d860ec3b1e3445efaed3486f89875253",
+                "prompt": "下列各项中，能正确表示正常男性体细胞及精子中的染色体组成的是(  )\nA.$$44+{XY}$$和$$22+{X}$$\n B.$$44+{XY}$$和$$22+{X}$$、$$22+{Y}$$\n C.$$44+{XY}$$和$${X}$$、$${Y}$$\n D.$$22+{XY}$$和$${X}$$、$${Y}$$\n",
+                "answer": "B",
+                "analysis": "解：人的体细胞中染色体成对存在，共包含$$23$$对染色体，其中包含$$22$$对常染色体和一对性染色体。男性的性染色体为$${XY}$$，正常男性体细胞的染色体组成为$$22$$对$$+{XY}$$，即$$44+{XY}$$。生殖细胞中的染色体数目为体细胞中的一半，而且不是任意的一半，是体细胞每对染色体中的各一条组成的。因此男性精子的染色体组成为$$22+{X}$$或$$22+{Y}$$，故本题正确答案为B。\n"
+            },
+            {
+                "id": "357b78d0429d48c6a401736a269fbad4",
+                "prompt": "下列有关动物运动或行为的叙述错误的是（    ）\nA.蚯蚓依靠肌肉收缩和刚毛的协助进行运动\n B.鸟发达胸肌的两端都附着在同一块胸骨上\n C.一般来说，动物越高等学习行为就越复杂\n D.人体的运动依赖骨骼和骨骼肌\n",
+                "answer": "B",
+                "analysis": "解：A、蚯蚓属于环节动物，没有骨骼，蚯蚓的运动就是依靠纵、环肌的交互舒缩及体表的刚毛的配合而完成的，A正确； \n\nB、鸟发达的胸肌一端都附着在胸骨上，另一端附着在翼骨上，牵动两翼完成飞行动作，B错误； \n\nC、动物的种类越高等，学习能力就越强，后天行为所占的比重就越大，C正确； \n\nD、人体完成一个运动都要有神经系统的调节，有骨、骨骼肌、关节的共同参与，多组肌肉的协调作用，才能完成，D正确。 \n\n故选:B。\n"
+            },
+            {
+                "id": "acaa9d3b8ad04a43917a5e53b6fcdecf",
+                "prompt": "制作人体口腔上皮细胞的临时装片时，滴加 $$0.9\\%$$ 生理盐水的作用是（    ）\nA.给细胞提供营养\n B.使细胞脱水死亡\n C.增加细胞活性\n D.保持细胞形态\n",
+                "answer": "D",
+                "analysis": "制作人体口腔上皮细胞的临时装片时，需要在载玻片中央滴一滴生理盐水，目的是保持细胞的正常形态；\n\n故选D。\n"
+            },
+            {
+                "id": "89cf5770b78f479c9726304dc3c15a87",
+                "prompt": "取放显微镜的正确方法是（    ）\nA.用双手握住显微镜的镜臂\n B.用左手提着显微镜的镜臂\n C.右手握镜臂，左手托镜座\n D.用双手托住显微镜的镜座\n",
+                "answer": "C",
+                "analysis": "在取用显微镜时，为了防止显微镜脱落下来摔坏显微镜，正确的方法是右手握镜臂，左手托镜座。\n\n故选择C选项。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "a63a861fab604fc3afca46577b13b55f",
+                "prompt": "判断对错\n1.非特异性免疫是人生来就有的，对多种病原体都有防御作用。 $$\\underline{}$$ \n",
+                "answer": "T",
+                "analysis": "生来就有的，对多种病原体都有防御作用，叫做非特异性免疫，皮肤的屏障作用、吞噬细胞的吞食作用、溶菌酶的杀菌作用。\n\n故答案为：√。\n"
+            },
+            {
+                "id": "18095b17305d4c7a99383006b0769da1",
+                "prompt": "判断\n1.使用显微镜时，为了在视野中更容易找到观察物，应先用高倍镜。\n",
+                "answer": "F",
+                "analysis": "在使用显微镜观察时，要先用低倍物镜，容易找到目标，因为放大倍数越小，放大的细胞越小，数目越多，需要时再换高倍的物镜。\n\n故答案是：$$\\times$$ 。\n"
+            },
+            {
+                "id": "328cd095f7eb4798ae069ad1793945a6",
+                "prompt": "判断正误\n1.如果早餐没有时间吃，我们可以通过午餐来弥补。\n",
+                "answer": "F",
+                "analysis": "均衡营养平衡膳食及要求营养全面搭配合理，还要求一日三餐比例为$$3:4:3$$。\n"
+            },
+            {
+                "id": "30f7050fee8b4f2a9b8d6568334a1b16",
+                "prompt": "判断正误\n1.为了延长种子的生命，应在干燥低温条件下保存种子。 $$\\underline{}$$ ",
+                "answer": "T",
+                "analysis": "【分析】（1）呼吸作用要消耗氧气，分解有机物，产生二氧化碳和水同时释放能量。（2）温度：温度能影响呼吸作用，主要是影响呼吸酶的活性。一般而言，在一定的温度范围内，呼吸强度随着温度的升高而增强；含水量多，种子的呼吸作用强，含水量少，种子的呼吸作用弱；种子的呼吸作用需要消耗氧气，氧气多呼吸作用强，氧气少呼吸作用弱。【详解】延长种子寿命，就要想方设法抑制种子的呼吸作用。因为只有抑制了它的呼吸作用，才能使种子中的有机营养物质被分解的慢，从而能长时间保存足够的供胚发育的营养物质。抑制种子的呼吸作用就要为种子提供干燥、低温、通风的环境，因为只有在这样的环境中种子的呼吸作用才能受到抑制，同时又不会发霉变质，故题干观点正确。\n"
+            },
+            {
+                "id": "76bb03ace72a4356b59f6a1bbff264a4",
+                "prompt": "判断\n1.吃梅止渴和望梅止渴都属于条件反射。\n",
+                "answer": "F",
+                "analysis": "吃梅止渴人生来就有的先天性反射。是一种比较低级的神经活动，由大脑皮层以下的神经中枢（如脑干、脊髓）参与即可完成。因此吃梅止渴是非条件反射，望梅止渴是对具体此件建立的条件反射。\n"
+            },
+            {
+                "id": "af891c9682884a4bb61552afdfa8e060",
+                "prompt": "判断\n1.没有信息交流，动物的个体之间就无法取得联系。（判断对错）\n",
+                "answer": "T",
+                "analysis": "通讯是具有适应意义的行为，常见的通讯事例大多是互利的，如通过通讯异性个体得以交配，社群动物得以共同取食、御敌等，动物之间通过动作、声音、气味、性外激素等进行信息交流，因此没有通讯，动物个体间就无法取得联系的说法正确。\n\n故答案为：√。\n"
+            },
+            {
+                "id": "13bb224e82064dea95722cec37c48b68",
+                "prompt": "判断\n1.前肢变成翼，是鸟类适于飞行的重要特征。\n",
+                "answer": "T",
+                "analysis": "鸟类的前肢变成翼，翼是飞行器官，是鸟类适于飞行的重要特征，题干说\n\n法正确。\n\n故答案为：√。\n"
+            },
+            {
+                "id": "311982e15bff4e9b90bb259cfadefa78",
+                "prompt": "判断\n1.鳃是鱼类的呼吸器官。\n",
+                "answer": "T",
+                "analysis": "鱼的呼吸器官是鳃，水从口进出，水中的溶解氧进入血液中，使血液中的含氧量增加，而血液中的二氧化碳被排入水中，使由静脉血变为动脉血，然后水从鳃盖后流出，完成了一次气体交换，题干说法正确。\n\n故答案为：√。\n"
+            },
+            {
+                "id": "435e724c711d472088d306681e6351c2",
+                "prompt": "判断对错\n1.在生物体内，有机物可以燃烧，无机物不能燃烧。（    ）\n",
+                "answer": "T",
+                "analysis": "组成细胞的物质有分子比较小、不含碳的无机物，如：水、无机盐、氧等；还有分子比较大、一般含有碳的有机物，如：糖类、脂肪、蛋白质和核酸等组成。一般来说，常见的有机物包括蛋白质、糖类和脂肪，有机物可以烯烧，无机物不能燃烧，题干说法正确。\n\n故答案为：√。\n"
+            },
+            {
+                "id": "8f22e54c24644e0da70f0dded84988cf",
+                "prompt": "判断\n1.人体内的胰腺和胰岛都是内分泌腺。\n",
+                "answer": "F",
+                "analysis": "胰腺具有内分泌部和外分泌部，其内分泌部是胰岛，分泌物直接进入腺体内的毛细血管里，是内分泌腺，外分泌部分泌的胰液通过导管进入十二指肠，是外分泌腺；因此胰腺既具有外分泌功能又具有内分泌功能，胰岛属于内分泌腺。\n\n"
+            }
+        ],
+        "多选": [
+            {
+                "id": "16cfd3da976b47e19f94b50b03cf2b26",
+                "prompt": "生物具有区别于非生物的特征，下列属于生物特征的是（    ）\nA.生物都能主动运动\n B.生物都是由细胞构成\n C.生物能排出体内产生的废物\n D.生物能繁殖后代\n",
+                "answer": "CD",
+                "analysis": "生物的特征有如下$$7$$个：$$1$$、生物体具有严整的结构；$$2$$、生物体能进行新陈代谢；$$3$$、生物体能生长；$$4$$、生物体具有应激性；$$5$$、生物体能生殖和发育；$$6$$、生物体具有遗传和变异的特性；$$7$$、生物体能在一定程度上适应环境并影响环境。\n\n故选CD。\n"
+            },
+            {
+                "id": "0c8f1d50c1604e37a71923dc4bb6652d",
+                "prompt": "（多选）以下人体内物质，属于代谢废物的是（    ）\nA.葡萄糖\n B.尿素\n C.二氧化碳\n D.粪便\n",
+                "answer": "BC",
+                "analysis": "葡萄糖是营养物质；尿素、尿酸、二氧化碳是人体代谢产生的代谢废物，粪便没有参与人体组织细胞的生命活动，是没有被消化吸收的物质，故A错误；B正确；C正确；D错误。\n\n故选BC。\n"
+            },
+            {
+                "id": "fd69117f354841de895afefda428b7d5",
+                "prompt": "（多选）动物在生物圈中的作用十分广泛，其具体表现有（    ）\nA.维持生态系统的平衡\n B.帮助植物传粉、传播种子\n C.为人类制造有机物\n D.彻底分解植物枝叶，促进物质循环\n",
+                "answer": "AB",
+                "analysis": "动物在自然界中作用：\n\n①维持自然界中生态平衡。食物链和食物网中的各种生物之间存在着相互依赖、相互制约的关系。在生态系统中各种生物的数量和所占的比例总是维持在相对稳定的状态，这种现象叫做生态平衡。生态系统中的物质和能量就是沿着食物链和食物网流动的，如果食物链或食物网中的某一环节出了问题，就会影响到整个生态系统。而动物对维持生态平衡起着重要的作用。\n\n②促进生态系统的物质循环。动物作为消费者，直接或间接地以植物为食，通过消化和吸收，将摄取的有机物变成自身能够利用的物质。这些物质在动物体内经过分解，释放能量，同时也产生二氧化碳、尿夜等物质。这些物质可以被生产者利用，动物排出的粪便或遗体经过分解者的分解后，也能释放出二氧化碳、含氮的无机盐等物质。可见，动物能促进生态系的物质滴环。\n\n③帮助植物传粉、传播种子。自然界的动物和植物在长期生存与发展的过程，形成相互适应、相互依存的关系。动物能够帮助植物传粉，使这些植物顺利地繁殖后代，如蜜蜂采蜜。动物能够帮助植物传播果实和种子，有利于扩大植物的分布范围。如苍耳果实表面的钩刺挂在动物的皮毛上。当某些动物数量过多时，也会对植物造成危害，如蝗灾等由上可知，动物在生物圈中的作用十分广泛，具体表现在：①维持自然界中生态平衡。②促进生态系统的物质循环。③帮助植物传粉、传播种子。\n\n故AB正确，而$$\\rm C$$是生产者植物的作用，$$\\rm D$$是分解者微生物的作用。\n\n故选$$\\rm AB$$。\n"
+            },
+            {
+                "id": "c6f0f441c43a43efb5d1da340fed44ca",
+                "prompt": "（多选）下列的消化道器官中，既有消化功能又有吸收功能的是（    ）\nA.口腔\n B.胃\n C.小肠\n D.大肠\n",
+                "answer": "BC",
+                "analysis": "口腔可对食物进行初步消化，但没有吸收功能；食道既无消化功能又无吸收功能；在胃内，可把蛋白质进行初步消化，又可吸收少量的水、无机盐和酒精；小肠是消化食物和吸收营养物质的主要场所，淀粉、蛋白质和脂肪都可在小肠内被消化，它们的产物也都可被小肠吸收；大肠只能吸收少量的水、无机盐和部分维生素，却没有消化功能。既有消化功能又具有吸收功能的是胃和小肠；\n\n故选BC。\n"
+            },
+            {
+                "id": "913f675effc84feca356fdc7d122c968",
+                "prompt": "（多选）公园内有一片荔枝林。某同学在该园游玩后，根据所学的生态系统知识向同学讲解。下列关于该荔枝林的说法，正确的是（    ）\nA.荔枝树是生产者，树上的麻雀是消费者\n B.所有动物的能量最终来源于荔枝树\n C.游玩时没发现细菌，则该荔枝林没有分解者\n D.该生态系统物种相对较少，但有一定的自动调节能力\n",
+                "answer": "AD",
+                "analysis": "生产者是指能进行光合作用，为植物自身、消费者、分解者提供有机物（食物）和氧气的绿色植物，消费者是指不能进行光合作用，必需以现成的有机物为食的动物，$$\\rm A$$正确；\n\n任何生物进行生命活动所需要的能量都直接或间接来源于植物进行光合作用贮存的太阳能。因此所有动物的能量最终来源于太阳能，$$\\rm B$$错误；\n\n细菌个体十分微小，用肉眼无法看到，但它却无处不在，$$\\rm C$$错误；\n\n生态系统都具有一定的自我调节能力，物种较少，自动调节能力相对较弱，$$\\rm D$$正确。\n\n故选择$$\\rm AD$$选项。\n"
+            }
+        ]
+    },
+    "化学": {
+        "排序": [],
+        "填空": [
+            {
+                "id": "e3d110ea46e54998a2606add86283568",
+                "prompt": "现有下列含铁化合物①$${F}{{{e}}_2}{{{O}}_3}$$②$${FeO}$$③$${F}{{{e}}_3}{{{O}}_4}$$④$${FeS}{{{O}}_4}$$⑤$${F}{{{e}}_2}{{{(S}{{{O}}_4})}_3}$$⑥$${FeS}$$⑦$${Fe}{{{S}}_2}$$，将它们按含铁元素的质量分数，用序号由大到小排列 $$\\underline{}$$ 。\n",
+                "answer": "②③①⑥⑦④⑤",
+                "analysis": "①$${F}{{{e}}_2}{{{O}}_3}$$ 中铁原子和氧原子的个数比为 $$2:3$$；②$${FeO}$$ 中铁原子和氧原子的个数比为 $$1:1$$；③$${F}{{{e}}_3}{{{O}}_4}$$ 中铁原子和氧原子的个数比为 $$3:4$$。$$1$$ 个硫原子的质量相当于两个氧原子的质量，故可表示为：④$${FeS}{{{O}}_4}$$ 中铁原子和氧原子的个数比为 $$1:6$$；⑤$${F}{{{e}}_2}{{{(S}{{{O}}_4})}_3}$$ 中铁原子和氧原子的个数比为 $$1:9$$；⑥$${FeS}$$ 中铁原子和氧原子的个数比为 $$1:2$$；⑦$${Fe}{{{S}}_2}$$ 中铁原子和氧原子的个数比为 $$1:4$$。原子个数比值最高的其中含铁元素的质量分数也就是最高的，故含铁元素的质量分数②$$>$$③$$>$$①$$>$$⑥$$>$$⑦$$>$$④$$>$$⑤。\n"
+            },
+            {
+                "id": "c791e2e1800848b2be7bf1120994b95d",
+                "prompt": "除去下列各物质中混有的少量杂质，所用试剂或方法正确的是 $$\\underline{}$$ \n\n\n$#table{|序号|物质|杂质|试剂、方法|\n|$$\\rm A$$|$$\\rm CO_2$$|$$\\rm CO$$|点燃|\n|$$\\rm B$$|$$\\rm O_2$$|水蒸气|适量生石灰|\n|$$\\rm C$$|$$\\rm Al$$ 粉|$$\\rm Cu$$ 粉|适量稀硫酸，过滤|\n|$$\\rm D$$|$$\\rm CaCl_2$$ 溶液|盐酸|适量的氢氧化钠溶液|}#$\n\n",
+                "answer": "$$\\rm B$$",
+                "analysis": "$$\\rm A$$．除去二氧化碳中的一氧化碳不能够点燃，这是因为当二氧化碳（不能燃烧、不能支持燃烧）大量存在时，少量的一氧化碳是不会燃烧的；故 $$\\rm A$$ 错误；\n\n$$\\rm B$$．生石灰能与水反应生成氢氧化钙，且不与氧气反应，能除去杂质且没有引入新的杂质，符合除杂原则，故 $$\\rm B$$ 正确；\n\n$$\\rm C$$．$$\\rm Al$$ 粉能与稀硫酸反应生成硫酸铝和氢气，铜不与稀硫酸反应，反而会把原物质除去，不符合除杂原则，故 $$\\rm C$$ 错误；\n\n$$\\rm D$$．盐酸能与氢氧化钠溶液反应生成氯化钠和水，能除去杂质但引入了新的杂质氯化钠，不符合除杂原则，故 $$\\rm D$$ 错误；\n\n故选 $$\\rm B$$。\n"
+            },
+            {
+                "id": "7d413b3a729d404a81aabdc877aef0f8",
+                "prompt": "实验室取液体药品时标签应 $$\\underline{}$$ ；用 $$10$$ $$\\rm mL$$ 量筒量取液体时，俯视刻度，则读数比所量液体的实际体积 $$\\underline{}$$ ；生活中可用 $$\\underline{}$$ 检验硬水和软水。用托盘天平称量氢氧化钠等易潮解的药品，必须放在 $$\\underline{}$$ 里称量。\n",
+                "answer": "向着手心;大;肥皂水;玻璃器皿",
+                "analysis": "实验室取液体药品时标签应向着手心；用 $$10$$ $$\\rm mL$$ 量简量取液体时，俯视刻度，则读数比所量液体的实际体积大；区分硬水和软水的方法是：用肥皂水，加入肥皂水，泡沫多的是软水，泡沫少的是硬水；用托盘天平称量氢氧化钠等易潮解的药品，必须放在玻璃器皿里称量，防止药品腐蚀托盘。\n"
+            },
+            {
+                "id": "336745ca02cf45b4815772b5ba7eb3ad",
+                "prompt": "下列物质：①可乐饮料；②氧气；③纯净的矿泉水；④液氮；⑤部分结冰的蒸馏水；⑥液态空气；⑦加热高锰酸钾后的产物；⑧一氧化碳；⑨糖水；⑩白酒。（以下请填编号）\n\n其中，属于纯净物的是 $$\\underline{}$$ ；属于混合物的是 $$\\underline{}$$ 。\n",
+                "answer": "②④⑤⑧;①③⑥⑦⑨⑩",
+                "analysis": "①可口可乐中含有水、碳酸等物质，属于混合物，②氧气中只含有氧气一种物质，属于纯净物，③纯净的矿泉水中含有水、矿物质，属于混合物，④液氧中只含有氧气一种物质，属于纯净物，⑤部分结冰的蒸馏水中只含有水一种物质，属于纯净物，⑥液态空气中含有氮气、氧气等气体，属于混合物，⑦加热高锰酸钾后的产物中含有锰酸钾，二氧化锰，属于混合物，⑧一氧化碳中只含有一氧化碳一种物质，属于纯净物，⑨糖水中含有糖和水，属于混合物，⑩白酒中含有酒精和水等物质，属于混合物，因此，属于纯净物的是②④⑤⑧，属于混合物的是①③⑥⑦⑨⑩。\n\n故答案为：②④⑤⑧；①③⑥⑦⑨⑩。\n"
+            },
+            {
+                "id": "a58de46f41dd4d51a4eaa6cccac2def9",
+                "prompt": "在对人体吸入的空气和呼出的气体成分的探究中，下列实验目的与实验操作不一致的是 $$\\underline{}$$ 。\n\n\n$#table{|$$\\centerline{选项}centerlineendflag|$$\\centerline{实验目的}centerlineendflag|$$\\centerline{实验操作}centerlineendflag||$$\\centerline{{A}}centerlineendflag|收集呼出气体样品（不考虑其中的水蒸气）|用吸管向倒扣在水槽中盛满水的集气瓶中缓缓吹气|\n|$$\\centerline{{B}}centerlineendflag|比较吸入的空气与呼出的气体中氧气的含量|将燃着的小木条分别插入空气样品和呼出气体样品中||$$\\centerline{{C}}centerlineendflag|比较吸入的空气与呼出的气体中二氧化碳气体的含量|向呼出气体样品中加入少量的澄清石灰水，振荡|\n|$$\\centerline{{D}}centerlineendflag|比较吸入的空气与呼出的气体中水蒸气的含量|取两块干燥的玻璃片，对着其中一块哈气|}#$",
+                "answer": "$$\\rm C$$",
+                "analysis": "向呼出气体中加入澄清石灰水，只能证明是否含有二氧化碳，并不能比较含量的多少，应进行对比，故 $$\\rm C$$ 错误；故选 $$\\rm C$$。"
+            },
+            {
+                "id": "cf853845feab495a9e1dd8c71f994cb6",
+                "prompt": "熔喷布是口罩最核心的材料，主要以聚丙烯为主要原料。聚丙烯是丙烯通过加聚反应而成的聚合物，丙烯（$$\\rm C_3H_6$$）中碳、氢元素的质量比为 $$\\underline{}$$ 。\n",
+                "answer": "$$6:1$$",
+                "analysis": "熔喷布是口罩最核心的材料，主要以聚丙烯为主要原料。聚丙烯是丙烯通过加聚反应而成的聚合物，丙烯（$$\\rm C_3H_6$$）中碳、氢元素的质量比为：$$(12\\times3):(1\\times6)=6:1$$。\n"
+            },
+            {
+                "id": "896c21ca3fe64a2aa0221f249c4eb6e1",
+                "prompt": "下列实验方法一定能达到实验目的的是 $$\\underline{}$$ 。\n\n\n$#table{|$$\\centerline{选项}centerlineendflag|$$\\centerline{实验目的}centerlineendflag|$$\\centerline{实验方法}centerlineendflag||$$\\centerline{{A}}centerlineendflag|$$\\centerline{检验气体是否为 {C}{{{O}}_{2}}}centerlineendflag|$$\\centerline{将气体通入盛有紫色石蕊溶液试管中}centerlineendflag|\n|$$\\centerline{{B}}centerlineendflag|$$\\centerline{鉴别石灰水和 {NaOH} 溶液}centerlineendflag|$$\\centerline{加入适量的稀盐酸}centerlineendflag||$$\\centerline{{C}}centerlineendflag|$$\\centerline{除净 {CO} 中少量的 {C}{{{O}}_{2}}}centerlineendflag|$$\\centerline{将气体通过盛有澄清石灰水的洗气瓶}centerlineendflag|\n|$$\\centerline{{D}}centerlineendflag|$$\\centerline{比较 {Zn}、{Cu}、{Ag} 的金属活动性}centerlineendflag|$$\\centerline{将 {Zn} 和 {Ag} 分别放入 {CuS}{{{O}}_{4}} 溶液中}centerlineendflag|}#$",
+                "answer": "$$\\rm D$$",
+                "analysis": "$$\\rm A$$．紫色石蕊检验酸性气体，不一定是二氧化碳，检验二氧化碳使用澄清的石灰水，故 $$\\rm A$$ 错误；$$\\rm B$$．氢氧化钙和盐酸与氢氧化钠与盐酸反应均无明显现象，所以不能鉴别，故 $$\\rm B$$ 错误；氢气和甲烷燃烧都能产生水，因此分别点燃，在火焰上方罩一干冷烧杯都出现水雾，现象相同，故 $$\\rm B$$ 错误；$$\\rm C$$．澄清石灰水用于检验二氧化碳，故 $$\\rm C $$ 错误；$$\\rm D$$．将 $${Zn}$$ 和 $${Ag}$$ 分别放入 $${CuS}{{{O}}$$\\underline{ }$${4}}$$ 溶液中，锌的表面会附着红色固体，说明锌比铜强，银的表面无现象，说明银比铜弱，因此可以比较三种金属的活动性顺序，故 $$\\rm D$$ 正确；故选 $$\\rm D$$。"
+            },
+            {
+                "id": "b1dfe7b27dcf46f2aaf91898f2afb896",
+                "prompt": "小红同学用量筒量水时采用仰视读数为 $$30$$ 毫升，则她实际所取的水的体积 $$\\underline{}$$ 毫升。\n",
+                "answer": "大于$$30$$",
+                "analysis": "小红用量筒量取液体，仰视液面读数为 $$30~\\rm mL$$，仰视使读数偏小，而液体体积大于读数，所以她实际所取的水的体积 $$>30$$ 毫升。\n"
+            },
+            {
+                "id": "8d881676b72847d886720c7f069f9afa",
+                "prompt": "①纯净的空气；②液氧；③冰水混合物：④澄清石灰水；⑤高锰酸钾；⑥铁粉；⑦稀有气体；⑧五氧化二磷；⑨水银；⑩人呼出的气体；属于混合物的是 $$\\underline{}$$ ；属于纯净物的是 $$\\underline{}$$ 。\n",
+                "answer": "①④⑦⑩;②③⑤⑥⑧⑨",
+                "analysis": "混合物是由两种或两种以上的物质组成，①纯净的空气、④澄清石灰水、⑦稀有气体、⑩人呼出的气体都属于混合物；\n\n纯净物是由一种物质组成，②液氧、③冰水混合物、⑤高锰酸钾、⑥铁粉、⑧五氧化二磷、⑨水银都属于纯净物。\n"
+            }
+        ],
+        "完形填空": [],
+        "单选": [
+            {
+                "id": "784879e1c8dd4951b49869dc3d503202",
+                "prompt": "钢铁是我们日常生活及生产中使用最广泛的一种金属材料。下列有关铁的问题中不属于化学研究内容的是（    ）\nA.如何把铁矿石炼成铁\n B.钢铁为什么会生锈\n C.钢铁是由什么组成的\n D.如何将钢铁加工成零件\n",
+                "answer": "D",
+                "analysis": "$$\\rm A$$．如何把铁矿石炼成铁，属于研究、制取的新物质，属于化学研究的范畴，故 $$\\rm A$$ 错误；\n\n$$\\rm B$$．钢铁为什么会腐烂生锈，属于研究物质的性质，属于化学研究的范畴，故 $$\\rm B$$ 错误；\n\n$$\\rm C$$．钢铁是由什么组成的，属于研究物质的组成，属于化学研究的范畴，故 $$\\rm C$$ 错误；\n\n$$\\rm D$$．钢铁制成零件，涉及是物质的加工，属于机械加工领域，不属于化学研究的范畴，故 $$\\rm D$$ 正确；\n\n故选 $$\\rm D$$。\n"
+            },
+            {
+                "id": "917faed2bfb44ebcad207eaa78252b45",
+                "prompt": "推理是化学学习中常用的思维方法，下列推理中正确的是（    ）\nA.单质只含一种元素，所以含一种元素的物质一定是单质\n B.中和反应生成盐和水，则生成盐和水的反应一定是中和反应\n C.碱性溶液能使无色酚酞试液变红，能使无色酚酞试液变红的溶液一定是碱性溶液\n D.离子是带电的原子或原子团，所以带电的微粒一定是离子\n",
+                "answer": "C",
+                "analysis": "A．单质只含一种元素，但含一种元素的物质不一定是单质，也可能是混合物，如氧气和臭氧的混合物，故A错误；\n\nB．中和反应生成盐和水，但生成盐和水的反应不一定是中和反应，如 $${CO}_2+2{N}{aOH}={Na}_2{CO}_3+{H}_2{O}$$，故B错误；\n\nC．碱性溶液能使无色酚酞试液变红，能使无色酚酞试液变红的溶液一定是碱性溶液，故C正确；\n\nD．离子是带电荷的微粒，但带电荷的微粒不一定是离子，也可能是质子、电子等，故D错误；\n\n故选C。\n"
+            },
+            {
+                "id": "5b29e3b7fa424385be8da33dd4ddaeac",
+                "prompt": "硝酸可发生反应：$$\\rm 4HNO_3~^{\\underline{\\underline{\\rm {光照}}}} 4NO_2+X+2H_2O$$下列有关说法错误的是（  ）\nA.$$\\rm X$$ 中氧元素的化合价为 $$-2$$ 价\n B.硝酸应在避光、低温环境下保存 C.该反应为分解反应 D.$$\\rm X$$ 的相对分子质量为 $$\\rm 32$$\n",
+                "answer": "A",
+                "analysis": "$$\\rm A$$．根据 $$\\rm 4HNO_3~^{\\underline{\\underline{\\rm {光照}}}} 4NO_2+X+2H_2O$$ 可知，$$\\rm X$$ 是氧气，则 $$\\rm X$$ 中氧元素的化合价为 $$0$$，故 $$\\rm A$$ 错误；\n\n$$\\rm B$$．由 $$\\rm 4HNO_3~^{\\underline{\\underline{\\rm {光照}}}} 4NO_2+X+2H_2O$$ 可知，硝酸不稳定，易分解，应在避光、低温环境下保存，故 $$\\rm B$$ 正确；\n\n$$\\rm C$$．反应物是一种，生成物是三种，属于分解反应，故 $$\\rm C$$ 正确；\n\n$$\\rm D$$．由 $$\\rm 4HNO_3~^{\\underline{\\underline{\\rm {光照}}}} 4NO_2+X+2H_2O$$ 可知，$$\\rm X$$ 是氧气，其相对分子质量为 $$32$$，故 $$\\rm D$$ 正确；\n\n故选 $$\\rm A$$。\n"
+            },
+            {
+                "id": "0f7f58de7fec47ffa5bc585b9770f4e8",
+                "prompt": "在一定温度下，将一瓶接近饱和的硝酸钾溶液转化为饱和溶液，可采取的方法有：①升高温度；②降低温度；③增加硝酸钾；④减少硝酸钾；⑤增加溶剂；⑥蒸发溶剂，其中符合题意的一组是（    ）\nA.①②③\n B.②③④\n C.③④⑤\n D.②③⑥\n",
+                "answer": "D",
+                "analysis": "硝酸钾的溶解能力随温度升高而增大，将接近饱和的硝酸钾溶液变成饱和溶液的方法有降低温度、增加溶质、蒸发溶剂，故②③⑥符合题意。\n\n故选D。\n"
+            },
+            {
+                "id": "60c3ada08dfc4e0897128609069cb95a",
+                "prompt": "在反应 $$2{A+5B}=2{C+4D}$$ 中，$${C}$$、$${D}$$ 的相对分子质量之比为 $$9:22$$。若 $$1.3\\ {g}\\ {A}$$ 与一定量的 $${B}$$ 恰好完全反应，生成 $$4.4\\ {g}\\ {D}$$。则在此反应中 $${B}$$ 和 $${D}$$ 的质量比为（    ）\nA.$$4:9$$\n B.$$8:1$$\n C.$$10:11$$\n D.$$13:44$$\n",
+                "answer": "C",
+                "analysis": "根据“反应 $$2{A}+5{B}=2{C}+4{D}$$ 中，已知 $${C}$$ 和 $${D}$$ 的相对分子质量之比为 $$9:22$$”，则可假设 $${C}$$ 和 $${D}$$ 的相对分子质量分别为 $$9a$$、$$22a$$，又因为 $$1.3{ g A}$$ 与一定量 $${B}$$ 恰好完全反应，生成 $$4.4{ g D}$$，设同时生成 $${C}$$ 的质量为 $$x$$，\n\n则\n\n$#table{|$$2{A}$$|$$+$$|$$5{B}$$|$$=$$|$$2{C}$$|$$+$$|$$4{D}$$|\n| | | | |$$18a$$| |$$88a$$|\n| | | | |$$x$$| |$$4.4\\ {g}$$|}#$\n\n$$\\frac{18a}{88a}=\\frac{x}{4.4\\ {g}}$$，则 $$x=0.9$$ 克；根据质量守恒定律：$$1.3{ g}+{B}$$ 的质量 $$=0.9{ g}+4.4{ g}$$，故 $${B}$$ 的质量 $$=4{ g}$$，\n\n则反应中 $${BD}$$ 的质量比为：$$4{ g}:4.4{ g}=10:11$$。\n\n故选C。\n"
+            },
+            {
+                "id": "5da09fa609f346999fc0181a5c8946dd",
+                "prompt": "已知：金属 $${X}$$ 在常温下能与空气中的氧气反应，而金属 $${Y}$$ 和 $${Z}$$ 不能；将 $${Y}$$、$${Z}$$ 分别投入稀盐酸中，$${Y}$$ 溶解并产生气泡，$${Z}$$ 无变化。下列说法正确的是（    ）A.$${X}$$ 氧化物的化学式只能表示为 $${XO}$$ B.$${Y}$$ 能将 $${X}$$ 从它的盐溶液中置换出来 C.$${Z}$$ 在自然界中只能以单质形式存在 D.三种金属的活动性顺序：$${X}>{Y}>{Z}$$",
+                "answer": "D",
+                "analysis": "$${A}$$．铝在常温下能与空气中的氧气反应生成 $${A}{{{l}}_{2}}{{{O}}_{3}}$$，故 $${A}$$ 错误；\n\n$${B}$$．金属 $${X}$$ 在常温下能与空气中的氧气反应，而金属 $${Y}$$ 和 $${Z}$$ 不能，说明 $${X}$$ 比 $${Y}$$ 和 $${Z}$$ 活泼，因此 $${Y}$$ 不能将 $${X}$$ 从它的盐溶液中置换出来，故 $${B}$$ 错误；\n\n$${C}$$．$${Z}$$ 在自然界中可能以单质形式存在，也可能以化合物形式存在，例如铜不能和稀盐酸反应，但是铜矿石中的铜以化合物形式存在，故 $${C}$$ 错误；\n\n$${D}$$．金属 $${X}$$ 在常温下能与空气中的氧气反应，而金属 $${Y}$$ 和 $${Z}$$ 不能，说明 $${X}$$ 比 $${Y}$$、$${Z}$$ 活泼，将 $${Y}$$、$${Z}$$ 分别投入稀盐酸中，$${Y}$$ 溶解并产生气泡，$${Z}$$ 无变化，说明 $${Y}$$ 比 $${Z}$$ 活泼，因此三种金属的活动性顺序：$${X}>{Y}>{Z}$$，故 $${D}$$ 正确；\n\n故选 $${D}$$。\n"
+            },
+            {
+                "id": "2ca197ea2e5f4cb4b886a170a936bc24",
+                "prompt": "对于 $${Fe}$$、$${Fe}^{2+}$$、$${Fe}^{3+}$$ 三种粒子的判断，正确的是（    ）\n\n①核电荷数相同 ②核外电子数相等 ③电子层结构完全相同 ④质量几乎相等⑤等质量的三种粒子所含质子数相等。\nA.①④⑤\n B.①②③\n C.①③⑤\n D.①②④\n",
+                "answer": "A",
+                "analysis": "①金属原子和其离子具有相同的质子数，则 $${Fe}$$、$${Fe}^{2+}$$、$${Fe}^{3+}$$ 三种粒子核电荷数相同，说法正确。\n\n②三种微粒带电情况不同，所以其电子数一定不同，说法错误。三种微粒电子数一定不同，所以其电子层结构一定不同，说法错误；\n\n③三种微粒带电情况不同，所以其电子数一定不同，电子数不同，所以其电子层结构一定不同，说法错误；\n\n④原子的质量主要集中在原子核上，得失电子基本不影响其质量，故其质量几乎相等，说法正确。\n\n⑤由于三种微粒的质量几乎相等，且它们的质子数相同，则等质量的三种微粒所含质子数相同，说法正确。\n\n故选A。\n"
+            }
+        ],
+        "判断": [
+            {
+                "id": "82fb7369297b43fb9619c29a19774246",
+                "prompt": "判断。\n1.相对原子质量就是原子的实际质量（    ）\n",
+                "answer": "F",
+                "analysis": "相对原子质量是指以一个碳 $$-12$$ 原子质量的 $$\\frac1{12}$$ 作为标准，任何一种原子的平均原子质量跟一个碳 $$-12$$ 原子质量的 $$\\frac1{12}$$ 的比值，称为该原子的相对原子质量，故错误。\n\n"
+            },
+            {
+                "id": "61caad9cac7649e6bc4937e684225fa7",
+                "prompt": "判断。\n1.分子的质量和体积都很小（    ）\n",
+                "answer": "T",
+                "analysis": "根据分子的基本特征：分子质量和体积都很小；分子之间有间隔；分子是在不断运动的，故正确。\n"
+            },
+            {
+                "id": "81d8c468645f467f989d68906b954812",
+                "prompt": "判断。\n1.鹅卵石中含有矿物质（    ）\n",
+                "answer": "T",
+                "analysis": "鹅卵石是花岗岩在地质运动中破碎磨圆后形成的，所以鹅卵石的成分就是花岗岩，其主要化学成分是二氧化硅，其次是少量的氧化铁和微量的锰、铜、铝、镁等元素的化合物，是一种天然矿石。\n\n故填：√。\n"
+            },
+            {
+                "id": "8d98c8f3284a4517bfab2d4c299b2ce8", 
+            "prompt": "判断：\n1.常温下 $$\\rm pH$$ 为  $$2 $$ 的盐酸与等体积 $$\\rm pH=12$$ 的氨水混合后所得溶液呈酸性。\n",
+            "answer": "F", "analysis": "与等体积 $$\\rm pH=12$$ 的氨水混合后，氨水有剩余，溶液显碱性，故错误。\n"
+            },
+            {"id": "8aac49075139269a01519e77053b67c6", 
+            "prompt": "化学与生产、生活密切相关。请判断下列说法是否正确（填回答正确或回答错误）。\n1.大气污染物既危害人体健康，又影响动植物的生长。 $$\\underline{}$$\n 2.水中某些重金属污染物可以被微生物转化为毒性更大的有机化合物。 $$\\underline{}$$\n 3.铁在潮湿的空气中、接触腐蚀性气体或电解质溶液，都不易被腐蚀。 $$\\underline{}$$\n 4.服用麻黄碱后可明显增加运动员的兴奋程度，但对其身体有极大的副作用。 $$\\underline{}$$\n", "answer_option": ["1.大气污染物既危害人体健康，又影响动植物的生长。 $$\\underline{}$$\n", "2.水中某些重金属污染物可以被微生物转化为毒性更大的有机化合物。 $$\\underline{}$$\n", "3.铁在潮湿的空气中、接触腐蚀性气体或电解质溶液，都不易被腐蚀。 $$\\underline{}$$\n", "4.服用麻黄碱后可明显增加运动员的兴奋程度，但对其身体有极大的副作用。 $$\\underline{}$$\n"], 
+            "answer": "TTFT",
+            "analysis": "大气污染物含有有毒物质，既危害人体健康，又影响动植物的生长，故答案为：对；\n 水 中的某些重金属污染物又可以被微生物转化为新的重金属化合物，使水的污染程度加重，如水中的氯化汞会发生下列变化：$${HgC} {{{l}}_{2}}{+C}{{{H}}_{4}} \\xrightarrow{微生物}{C}{{{H}}_{3}} {HgCl+HCl}$$，故答案为：对；\n 铁在潮湿空气中形成原电池发生吸氧腐蚀，接触腐蚀性气体直接发生化学腐蚀，电解质溶液发生电化学腐蚀，所以都易被腐蚀，故答案为：错；\n 麻黄碱有显著的中枢兴奋作用，对身体有副作用，故答案为：对。\n "
+            }
+        ],
+        "多选": [
+            {
+                "id": "a233ff4c385c43708bd57871012138ec",
+                "prompt": "某金属加工厂生产过程中的废液含有少量的硝酸银和硝酸铜，为回收利用资源和防止污染，该厂向废液中加入一定量的铁粉，反应停止后过滤，向滤液中加入少量的稀盐酸，无沉淀产生，则下列有关说法正确的是（    ）\nA.滤出的固体中一定含有银，也能含有铜 B.滤出的固体中一定含有银和铜，一定不含铁 C.滤液中一定含有硝酸亚铁，一定没有硝酸银 D.滤液中一定含有硝酸亚铁，可能含有硝酸银和硝酸铜",
+                "answer": "AC",
+                "analysis": "由题意可知，在金属活动性顺序中，铁排在铜和银的前边，可以和硝酸银及硝酸铜溶液反应，生成银和铜以及硝酸亚铁。向滤液中加入少量的稀盐酸，无沉淀产生，说明滤液中一定没有硝酸银。滤出的固体中一定有银，滤液中一定有硝酸亚铁。由以上分析可知：\n\n$$\\rm A$$．滤出的固体中一定含有银，可能有铜，$$\\rm A $$ 正确；\n\n$$\\rm B$$．滤出的固体中一定含有银，可能含有铜和铁，$$\\rm B $$ 错误；\n\n$$\\rm C$$．滤液中一定有硝酸亚铁，一定没有硝酸银，$$\\rm C $$ 正确；\n\n$$\\rm D$$．滤液中一定有硝酸亚铁，一定没有硝酸银，可能含有硝酸铜，$$\\rm D $$ 错误；\n\n故选 $$\\rm AC$$。\n"
+            },
+            {
+                "id": "87e4ee425d154b4b8c08f07032c70190",
+                "prompt": "下列说法正确的是（    ）\nA.检验二氧化碳不可以用燃着的木条\n B.氧化反应不一定都是化合反应\n C.二氧化碳有毒，含量过高可以使人窒息而死\n D.催化剂在化学反应前后本身的质量和性质都不会改变\n",
+                "answer": "AB",
+                "analysis": "A．检验二氧化碳应用澄清的石灰水，不能用燃着的木条检验，故A正确；\n\nB．氧化反应不一定都是化合反应，如乙炔 $$+$$ 氧气 $$\\xrightarrow{点燃}$$ 水 $$+$$ 二氧化碳，属于氧化反应，但不是化合反应，故B正确；\n\nC．二氧化碳没有毒，不供给呼吸，使人窒息死亡，故C错误；\n\nD．催化剂的特点是:在反应前后质量和化学性质都没有发生变化，故D错误；\n\n故选AB。\n"
+            },
+            {
+                "id": "5cf1477834b94707aa220c55f350a4e8",
+                "prompt": "打开汽水瓶盖，有大量气泡逸出。下列说法中错误的是（    ）\nA.溶质减少\n B.溶解度减小\n C.质量分数减小\n D.饱和溶液变为不饱和溶液\n",
+                "answer": "D",
+                "analysis": "气体的溶解度随着压强的增大而增大，随着压强的减小而减小。打开汽水瓶盖时，压强减小，原来溶解的二氧化碳气体的溶解度减小，一部分二氧化碳逸出，溶液中溶质、浓度减小，逸出后的二氧化碳溶液仍然是饱和溶液；\n\n故选D。\n"
+            },
+            {
+                "id": "8b86572a1f374ea69c8f7172b7cd6ae3",
+                "prompt": "下列知识归纳，完全正确的一组是（    ）\n\n$#table{||①小区设置废旧电池回收箱<br/>②重复使用塑料袋和塑料盒<br/>③工业“三废”处理达标后排放|\n||①废旧金属回收利用<br/>②提倡使用乙醇汽油<br/>③实验后用剩药品放回原瓶|}#$\nA.$${A}$$ B.$${B}$$ C.$${C}$$ D.$${D}$$",
+                "answer": "BC",
+                "analysis": "A．电解水是将电能转化成化学能；煤燃烧是将化学能转化成热能；在化学反应中不一定只有燃烧才能放出热量，如氧化钙与水反应放出大量的热；知识归纳有错误，故A错误；\n\nB．小区设置废旧电池回收箱，能防止对水体、土壤造成污染；重复使用塑料袋和塑料盒，有利于防治白色污染；工业“三废”处理达标后排放，有利于防止水体污染；知识归纳均正确，故B正确；\n\nC．$${Fe}^{2+}$$：一个亚铁离子带 $$2$$ 个单位正电荷，$${SO}_3$$：一个三氧化硫分子中含有 $$3$$ 个原子，$$\\overset{+2}{\\mathop{{Mg}}}\\,$$：化合物中镁元素显 $$+2$$ 价；知识归纳正确，故C正确；\n\nD．废旧金属回收利用，可以节约金属资源、减少对环境的污染等；使用乙醇汽油，能节约石油资源、减少大气污染；为防止污染药品，实验后用剩药品不能放回原瓶；知识归纳有错误，故D错误；\n\n故选BC。\n"
+            },
+            {
+                "id": "da54daa72df343559efa05bee8c9e632",
+                "prompt": "某 $$\\rm CaCl_2$$ 样品中，可能含有 $$\\rm KNO_3$$、$$\\rm CuCl_2$$、$$\\rm MgCl_2$$、$$\\rm NaCl$$ 和 $$\\rm Na_2\\rm CO_3$$ 中的某些物质，取该样品 $$11.1\\rm \\ g$$ 溶于适量水中，得到澄清的无色溶液，然后向其中加入足量的 $$\\rm AgNO_3$$ 溶液，得到 $$28.7$$ 克白色沉淀，则该样品组成的下列推断中正确的是（    ）\nA.只有 $$\\rm MgCl_2$$，没有 $$\\rm NaCl$$\n B.肯定没有 $$\\rm CuCl_2$$ 和 $$\\rm Na_2\\rm CO_3$$\n C.肯定有 $$\\rm MgCl_2$$ 和 $$\\rm KNO_3$$\n D.样品可能由 $$\\rm CaCl_2$$、$$\\rm NaCl$$、$$\\rm MgCl_2$$ 组成\n",
+                "answer": "BD",
+                "analysis": "取该样品 $$11.1$$ 克溶于适量水中，得到澄清的无色溶液，说明一定不含有蓝色的氯化铜溶液和碳酸钠溶液，因为碳酸钠和氯化钙会反应产生碳酸钙沉淀；\n\n向溶液中加入足量 $$\\rm AgNO_3$$ 溶液，得到 $$28.7$$ 克白色沉淀，此处可以采用极限思想；\n\n假设 $$11.1\\rm \\ g$$ 是纯的氯化钙，产生氯化银的质量为 $$x$$，\n\n$#table{|$$\\rm CaCl_2\\sim$$|$$2\\rm AgCl$$|\n|$$111$$|$$287$$|\n|$$11.1\\rm \\ g$$|$$ x$$|}#$\n\n$$\\frac{111}{11.1~{g}}=\\frac{287}{x}$$，\n\n$$x=28.7\\rm \\ g$$；\n\n设 $$11.1\\rm \\ g$$ 纯净的氯化镁反应产生氯化银沉淀的质量为 $$ y$$，\n\n$#table{|$$\\rm MgCl_2\\sim$$|$$2\\rm AgCl$$|\n|$$95$$|$$287$$|\n|$$11.1\\rm \\ g$$|$$ y$$|}#$\n\n$$\\frac{95}{11.1~{g}}=\\frac{287}{y}$$，\n\n$$y=33.5\\rm \\ g$$；\n\n设 $$11.1\\rm \\ g$$ 纯净的氯化钠反应产生氯化银沉淀的质量为 $$ z$$，\n\n$#table{|$$\\rm NaCl\\sim$$|$$\\rm AgCl$$|\n|$$58.5$$|$$143.5$$|\n|$$11.1\\rm \\ g$$|$$ z$$|}#$\n\n$$\\frac{58.5}{11.1~{g}}=\\frac{143.5}{z}$$，\n\n$$ z=27.2\\rm \\ g$$；\n\n由以上计算可知：因为 $$11.1\\rm \\ g$$ 氯化钙反应产生的沉淀正好是 $$28.7\\rm \\ g$$，因此若含有杂质的话一定有氯化镁，氯化钠和硝酸钾至少含有一种，所以：\n\nA选项：若只含有氯化镁，产生的沉淀会大于 $$28.7\\rm \\ g$$，故A错误；\n\nB选项：氯化铜显蓝色，碳酸钠和氯化钙不能共存，所以一定没有，故B正确；\n\nC选项：氯化镁一定有，而硝酸钾可有可无，故C错误；\n\nD选项：样品中若有氯化镁，则氯化钠和硝酸钾至少含有一种，因此可能是氯化钙、氯化镁、氯化钠的组合，故D正确；\n\n故选BD。\n"
+            },
+            {
+                "id": "bacd140d51ed42a58e385142ce34f2f7",
+                "prompt": "在托盘天平两边各放一只烧杯，调节至平衡，再向两只烧杯中各注入相同质量、相同质量分数的稀硫酸，然后分别投入相同质量的锌粒和镁带，待反应停止后，天平指针指向分度盘的中间，下列可能出现的情况是（    ）\nA.锌粒和镁带都有剩余 B.锌粒完全反应镁带剩余 C.镁带完全反应锌粒剩余 D.锌粒和镁带都完全反应",
+                "answer": "AB",
+                "analysis": "$$\\rm A$$．锌粒和镁带都有剩余，说明酸完全反应，酸的质量相等，故产生氢气质量相等，故A正确；\n\n$$\\rm B$$．由化学方程式 $$\\rm Zn+H_2SO_4=ZnSO_4+H_2\\uparrow  $$ 和 $$\\rm Mg+H_2SO_4=MgSO_4+H_2\\uparrow  $$ 可以看出，等质量的硫酸消耗掉锌的质量大于镁的质量，故当锌粒完全反应镁一定有剩余，此时酸完全反应，产生氢气质量相等，故B正确；\n\n$$\\rm C$$．由化学方程式 $$\\rm Zn+H_2SO_4=ZnSO_4+H_2\\uparrow  $$ 和 $$\\rm Mg+H_2SO_4=MgSO_4+H_2\\uparrow  $$ 可以看出，等质量的硫酸消耗掉锌的质量大于镁的质量，当镁带完全反应时锌粒一定没有剩余，故C错误；\n\n$$\\rm D$$．由化学方程式 $$\\rm Zn+H_2SO_4=ZnSO_4+H_2\\uparrow  $$ 和 $$\\rm Mg+H_2SO_4=MgSO_4+H_2\\uparrow  $$ 可以看出，等质量的锌粒和镁带完全反应时，生成氢气的质量一定不相等，故D错误；\n\n故选 $$\\rm AB $$。\n"
+            }
+        ]
+    }
+}
