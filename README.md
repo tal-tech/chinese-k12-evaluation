@@ -19,7 +19,11 @@
 single，multi， filling， juding， sorting分别代表单选，多选，填空，判断，排序；single*代表选项被打乱，single**代表增加了10个干扰选项
 ![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/result.png)
 
-# data
+### 数学推理子集步骤准确性评估
+![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/math_results.png)
+
+
+## data
 https://drive.google.com/drive/folders/1pvvhI_y1o5olcxHGGWFqt3SDv3PRX0rd?usp=drive_link
 
 ## run testing
@@ -52,12 +56,6 @@ vllm 0.1.3
 
 `python code/release_code_aaai_ck12/metric.py`
 
-## 数学推理子集步骤准确性评估
-![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/math_results.png)
-
-
-## 知识图谱举例：初中化学知识点结构
-![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/che.png)
 
 
 ## 例子
@@ -68,5 +66,3 @@ vllm 0.1.3
 
 ### 生物
 ![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/exp4.png)
-
-评测集即将开放。
