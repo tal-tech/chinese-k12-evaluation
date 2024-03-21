@@ -1,5 +1,7 @@
 ![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/title.png)
 
+## CK12: A Rounded K12 Knowledge Graph Based Benchmark for Chinese Holistic Cognition Evaluation
+
 ## Overview
 
 我们利用了k12教育领域知识图谱构建了一个LLM的评估基准。
