@@ -67,3 +67,16 @@ vllm 0.1.3
 
 ### 生物
 ![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/exp4.png)
+
+## Citation
+
+
+Please cite our paper if you use our dataset.
+
+```
+@article{you2023ck12,
+title={CK12: A Rounded K12 Knowledge Graph Based Benchmark for Chinese Holistic Cognition Evaluation}, 
+author={Weihao You, Pengcheng Wang, Changlong Li, Zhilong Ji and  Jinfeng Bai}
+year={2023}
+}
+```
