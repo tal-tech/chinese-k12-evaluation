@@ -1,6 +1,5 @@
 
 ## CK12: A Rounded K12 Knowledge Graph Based Benchmark for Chinese Holistic Cognition Evaluation
-Weihao You, Pengcheng Wang, Changlong Li, Zhilong Ji†, Jinfeng Bai
 
 ## Overview
 
