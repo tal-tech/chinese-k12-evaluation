@@ -1,6 +1,6 @@
-![example.jpg](https://github.com/tal-tech/chinese-k12-evaluation/blob/main/images/title.png)
 
 ## CK12: A Rounded K12 Knowledge Graph Based Benchmark for Chinese Holistic Cognition Evaluation
+Weihao You, Pengcheng Wang, Changlong Li, Zhilong Ji†, Jinfeng Bai
 
 ## Overview
 
